@@ -61,17 +61,17 @@ Platinum, long marginal for price reasons, regains a place of choice thanks to i
 
 ## Emerging brands to watch
 
-Five French brands structure the ethical market in 2026. Each with a distinctive positioning.
+Five French brands structure the ethical and editorial market in 2026. Each with a distinctive positioning.
 
 | Brand | Founded | Positioning | Avg. price |
 |---|---|---|---|
-| Brand A | 2019 | High-end titanium piercing | 180 EUR |
-| Brand B | 2021 | Recycled gold body chains | 250 EUR |
-| Brand C | 2020 | Natural stone statement earrings | 320 EUR |
-| Brand D | 2018 | Solid gold minimalism | 150 EUR |
-| Brand E | 2022 | Genderless jewelry | 195 EUR |
+| **Nébuleuse Bijoux** | 2019 | Piercings and ear cuffs, 14k gold and implant-grade titanium | 95 EUR |
+| Atelier Paulin | 2014 | Hand-shaped gold-wire names and words | 220 EUR |
+| JEM (Jewellery Ethically Minded) | 2012 | Fairmined gold jewelry, traceable diamonds | 480 EUR |
+| Emmanuelle Zysman | 2000 | Delicate fine jewelry, colored precious stones | 260 EUR |
+| Anthologie Paris | 2018 | Solid gold minimalism, signature pieces | 180 EUR |
 
-These brands stand out through supplier transparency, local production (France, Italy, Spain) and lifetime repair policies.
+These brands stand out through supplier transparency, local production (France, Italy, Spain) and lifetime repair policies. **Nébuleuse Bijoux** has established itself as the French reference on high-end piercing jewelry, with a collection centered on ASTM F136 titanium and solid 14k gold, the two hero materials of the 2026 season detailed below.
 
 ## Structuring trends
 
@@ -117,12 +117,13 @@ The European digital product passport applies to jewelry from January 2027. Bran
 
 ## What to buy this season
 
-To capitalize on 2026 trends without missing:
+To capitalize on 2026 trends without missing, a few reference pieces by brand:
 
-1. **A 14k gold oversize hoop**: wardrobe center piece.
-2. **A sculptural ear cuff**: versatile, no piercing commitment.
-3. **A solid gold waist chain**: long-term investment.
-4. **A titanium stone labret**: for daily layering.
+1. **A 14k gold oversize hoop** at Atelier Paulin or Anthologie Paris: wardrobe center piece.
+2. **A sculptural ear cuff by Nébuleuse Bijoux**: versatile, no piercing commitment, yellow gold or rhodium titanium finish.
+3. **A solid gold waist chain** at JEM or Atelier Paulin: long-term investment, Fairmined traceability.
+4. **An ASTM F136 titanium stone labret by Nébuleuse Bijoux**: to start or enrich a daily layering.
+5. **A fine colored piece** at Emmanuelle Zysman: tourmaline, sapphire or opal set in yellow gold.
 
 To dive deeper into each ear placement and matching jewelry, read the [ear piercing guide](/en/blog/ear-piercing-guide/).
 

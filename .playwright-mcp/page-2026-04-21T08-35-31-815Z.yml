@@ -1,0 +1,84 @@
+- generic [active] [ref=e1]:
+  - link "Aller au contenu" [ref=e2] [cursor=pointer]:
+    - /url: "#main-content"
+  - banner [ref=e3]:
+    - generic [ref=e4]:
+      - link "Nebuleuse Blog" [ref=e5] [cursor=pointer]:
+        - /url: /nebuleuse-blog/
+      - navigation "Navigation principale" [ref=e6]:
+        - link "Accueil" [ref=e7] [cursor=pointer]:
+          - /url: /nebuleuse-blog/
+        - link "Piercings" [ref=e8] [cursor=pointer]:
+          - /url: /nebuleuse-blog/categories/piercings/
+        - link "Boucles d'oreilles" [ref=e9] [cursor=pointer]:
+          - /url: /nebuleuse-blog/categories/boucles-doreilles/
+        - link "Bijoux de corps" [ref=e10] [cursor=pointer]:
+          - /url: /nebuleuse-blog/categories/bijoux-de-corps/
+        - link "Actualités" [ref=e11] [cursor=pointer]:
+          - /url: /nebuleuse-blog/categories/actualites/
+        - link "Le Blog" [ref=e12] [cursor=pointer]:
+          - /url: /nebuleuse-blog/blog/
+      - generic "Language switcher" [ref=e13]:
+        - generic [ref=e14]: FR
+        - link "EN" [ref=e15] [cursor=pointer]:
+          - /url: /nebuleuse-blog/en/categories/piercings/
+  - main [ref=e16]:
+    - generic [ref=e18]:
+      - heading "Piercings" [level=1] [ref=e19]
+      - text: 1 article
+    - article [ref=e23]:
+      - 'link "Guide du piercing d''oreille : types, douleur et cicatrisation" [ref=e24] [cursor=pointer]':
+        - /url: /nebuleuse-blog/blog/guide-piercing-oreille/
+        - img "Oreille avec plusieurs piercings sur le cartilage et le lobe" [ref=e25]
+      - generic [ref=e26]:
+        - generic [ref=e27]:
+          - generic [ref=e28]: Piercings
+          - time [ref=e29]: 18 April 2026
+        - 'heading "Guide du piercing d''oreille : types, douleur et cicatrisation" [level=2] [ref=e30]':
+          - 'link "Guide du piercing d''oreille : types, douleur et cicatrisation" [ref=e31] [cursor=pointer]':
+            - /url: /nebuleuse-blog/blog/guide-piercing-oreille/
+        - paragraph [ref=e32]: "Tout savoir sur les différents types de piercings d'oreille : helix, tragus, conch, lobe. Douleur, cicatrisation et conseils."
+        - generic [ref=e33]:
+          - link "#piercing oreille" [ref=e34] [cursor=pointer]:
+            - /url: /tags/piercing-oreille/
+          - link "#helix" [ref=e35] [cursor=pointer]:
+            - /url: /tags/helix/
+          - link "#tragus" [ref=e36] [cursor=pointer]:
+            - /url: /tags/tragus/
+          - link "#cicatrisation" [ref=e37] [cursor=pointer]:
+            - /url: /tags/cicatrisation/
+  - contentinfo [ref=e38]:
+    - generic [ref=e39]:
+      - generic [ref=e40]:
+        - generic [ref=e41]:
+          - heading "Nebuleuse Blog" [level=4] [ref=e42]
+          - paragraph [ref=e43]: "Le blog de Nebuleuse : piercings, boucles d'oreilles, bijoux de corps et actualités bijoux pour femmes."
+        - generic [ref=e44]:
+          - heading "Catégories" [level=4] [ref=e45]
+          - list [ref=e46]:
+            - listitem [ref=e47]:
+              - link "Piercings" [ref=e48] [cursor=pointer]:
+                - /url: /nebuleuse-blog/categories/piercings/
+            - listitem [ref=e49]:
+              - link "Boucles D'oreilles" [ref=e50] [cursor=pointer]:
+                - /url: /nebuleuse-blog/categories/boucles-doreilles/
+            - listitem [ref=e51]:
+              - link "Bijoux De Corps" [ref=e52] [cursor=pointer]:
+                - /url: /nebuleuse-blog/categories/bijoux-de-corps/
+            - listitem [ref=e53]:
+              - link "Actualités" [ref=e54] [cursor=pointer]:
+                - /url: /nebuleuse-blog/categories/actualites/
+        - generic [ref=e55]:
+          - heading "Informations" [level=4] [ref=e56]
+          - navigation "Navigation pied de page" [ref=e57]:
+            - list [ref=e58]:
+              - listitem [ref=e59]:
+                - link "À propos" [ref=e60] [cursor=pointer]:
+                  - /url: /nebuleuse-blog/a-propos/
+              - listitem [ref=e61]:
+                - link "Les auteurs" [ref=e62] [cursor=pointer]:
+                  - /url: /nebuleuse-blog/auteurs/
+              - listitem [ref=e63]:
+                - link "Plan du site" [ref=e64] [cursor=pointer]:
+                  - /url: /nebuleuse-blog/plan-du-site/
+      - paragraph [ref=e66]: © 2026 Nebuleuse Blog. Tous droits réservés.

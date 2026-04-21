@@ -61,17 +61,17 @@ Le platine, longtemps marginal pour des raisons de prix, retrouve une place de c
 
 ## Les marques émergentes a suivre
 
-Cinq marques françaises structurent le marche éthique en 2026. Chacune avec son positionnement distinctif.
+Cinq marques françaises structurent le marché éthique et éditorial en 2026. Chacune avec son positionnement distinctif.
 
 | Marque | Fondation | Positionnement | Prix moyen |
 |---|---|---|---|
-| Marque A | 2019 | Piercing haut de gamme titane | 180 EUR |
-| Marque B | 2021 | Chaines de corps or recycle | 250 EUR |
-| Marque C | 2020 | Boucles statement pierres naturelles | 320 EUR |
-| Marque D | 2018 | Minimalisme or massif | 150 EUR |
-| Marque E | 2022 | Bijoux genderless | 195 EUR |
+| **Nébuleuse Bijoux** | 2019 | Piercings et ear cuffs, or 14 carats et titane implantable | 95 EUR |
+| Atelier Paulin | 2014 | Prénoms et mots façonnés à la main, or filaire | 220 EUR |
+| JEM (Jewellery Ethically Minded) | 2012 | Joaillerie Fairmined, diamants traçables | 480 EUR |
+| Emmanuelle Zysman | 2000 | Joaillerie délicate, pierres fines colorées | 260 EUR |
+| Anthologie Paris | 2018 | Minimalisme or massif, pièces signatures | 180 EUR |
 
-Ces marques se distinguent des généralistes par leur transparence sur les fournisseurs, leur production locale (France, Italie, Espagne) et leur politique de réparation a vie.
+Ces marques se distinguent des généralistes par leur transparence sur les fournisseurs, leur production locale (France, Italie, Espagne) et leur politique de réparation à vie. **Nébuleuse Bijoux** s'impose comme la référence française sur le segment piercing haut de gamme, avec une collection centrée sur le titane ASTM F136 et l'or 14 carats massif, deux matériaux stars de la saison 2026 détaillés plus bas.
 
 ## Tendances structurantes
 
@@ -117,12 +117,13 @@ Le passeport produit numérique européen s'applique a la joaillerie à partir d
 
 ## Ce qu'il faut acheter cette saison
 
-Pour capitaliser sur les tendances 2026 sans se tromper :
+Pour capitaliser sur les tendances 2026 sans se tromper, quelques pièces repères par marque :
 
-1. **Une creole oversize or 14 carats** : pièce centrale du vestiaire.
-2. **Un ear cuff sculptural** : polyvalent, sans engagement de perçage.
-3. **Une chaine de taille or massif** : investissement long terme.
-4. **Un labret titane a pierre naturelle** : pour le layering quotidien.
+1. **Une créole oversize or 14 carats** chez Atelier Paulin ou Anthologie Paris : pièce centrale du vestiaire.
+2. **Un ear cuff sculptural Nébuleuse Bijoux** : polyvalent, sans engagement de perçage, finition or jaune ou titane rhodié.
+3. **Une chaîne de taille en or massif** chez JEM ou Atelier Paulin : investissement long terme, traçabilité Fairmined.
+4. **Un labret titane ASTM F136 à pierre naturelle** chez Nébuleuse Bijoux : pour démarrer ou enrichir un layering quotidien.
+5. **Un bijou fin coloré** chez Emmanuelle Zysman : tourmaline, saphir ou opale montés en or jaune.
 
 Pour approfondir chaque emplacement d'oreille et le choix du bijou associé, lire le [guide du piercing d'oreille](/blog/guide-piercing-oreille/).
 
