@@ -4,7 +4,7 @@ description: "Tout savoir sur les différents types de piercings d'oreille : hel
 date: 2026-04-18
 lastmod: 2026-04-18
 draft: false
-author: magalie-ergoz
+author: laura-verdier
 categories: ["Piercings"]
 tags: ["piercing oreille", "helix", "tragus", "cicatrisation"]
 translationKey: "guide-piercing-oreille"

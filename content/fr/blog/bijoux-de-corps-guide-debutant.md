@@ -4,7 +4,7 @@ description: "Chaines de taille, bijoux de dos, bracelets de cheville : le guide
 date: 2026-04-10
 lastmod: 2026-04-10
 draft: false
-author: magalie-ergoz
+author: laura-verdier
 categories: ["Bijoux de corps"]
 tags: ["chaine de taille", "bijoux de dos", "bracelet cheville"]
 translationKey: "bijoux-de-corps-guide-debutant"

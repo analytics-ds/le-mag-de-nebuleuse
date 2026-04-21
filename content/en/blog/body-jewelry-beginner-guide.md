@@ -4,7 +4,7 @@ description: "Waist chains, back jewelry, anklets: the complete body jewelry gui
 date: 2026-04-10
 lastmod: 2026-04-10
 draft: false
-author: magalie-ergoz
+author: laura-verdier
 categories: ["Body jewelry"]
 tags: ["waist chain", "back jewelry", "anklet"]
 translationKey: "bijoux-de-corps-guide-debutant"

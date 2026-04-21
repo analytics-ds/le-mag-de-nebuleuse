@@ -4,7 +4,7 @@ description: "2026 jewelry news: new hypoallergenic materials, emerging brands a
 date: 2026-04-05
 lastmod: 2026-04-05
 draft: false
-author: magalie-ergoz
+author: sophie-martin
 categories: ["News"]
 tags: ["news", "2026 trends", "materials"]
 translationKey: "actualites-bijoux-tendances-2026"

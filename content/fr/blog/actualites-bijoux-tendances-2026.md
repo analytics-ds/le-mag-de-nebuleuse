@@ -4,7 +4,7 @@ description: "Les actualités bijoux 2026 : nouveaux matériaux hypoallergéniqu
 date: 2026-04-05
 lastmod: 2026-04-05
 draft: false
-author: magalie-ergoz
+author: sophie-martin
 categories: ["Actualites"]
 tags: ["actualités", "tendances 2026", "matériaux"]
 translationKey: "actualites-bijoux-tendances-2026"

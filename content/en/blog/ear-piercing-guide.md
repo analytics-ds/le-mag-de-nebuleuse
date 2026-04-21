@@ -4,7 +4,7 @@ description: "Everything about ear piercing types: helix, tragus, conch, lobe. P
 date: 2026-04-18
 lastmod: 2026-04-18
 draft: false
-author: magalie-ergoz
+author: laura-verdier
 categories: ["Piercings"]
 tags: ["ear piercing", "helix", "tragus", "healing"]
 translationKey: "guide-piercing-oreille"
