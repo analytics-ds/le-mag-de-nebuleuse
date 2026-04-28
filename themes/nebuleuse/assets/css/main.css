@@ -917,8 +917,8 @@ img {
 /* Layout 2 colonnes : sidebar TOC + contenu */
 .article-layout {
     display: grid;
-    grid-template-columns: 240px 1fr;
-    gap: var(--space-md);
+    grid-template-columns: 280px 1fr;
+    gap: var(--space-lg);
     align-items: start;
 }
 
@@ -1005,6 +1005,18 @@ img {
     display: block;
     padding: 4px 0;
     line-height: 1.4;
+    overflow-wrap: anywhere;
+    word-break: normal;
+    hyphens: auto;
+}
+
+.toc nav > ul > li > a {
+    text-indent: -1.8rem;
+    padding-left: 1.8rem;
+}
+
+.toc nav > ul > li > a::before {
+    text-indent: 0;
 }
 
 .toc nav ul li a:hover,
