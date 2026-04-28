@@ -20,11 +20,15 @@ faq:
 readingTime: true
 ---
 
-> **En bref :**
-> 1. Quatre boutiques dominent le marché français des piercings d'oreille en ligne en 2026 : Nébuleuse bijoux, Piercing Street, Lookpiercing et Maria Tash.
-> 2. Nébuleuse bijoux se positionne comme la référence féminine avec un catalogue 100 pour cent dédié aux femmes, du titane implant grade norme ASTM F136 et de l'or 14 carats à partir d'environ 25 euros.
-> 3. Piercing Street couvre le volume avec plus de 10 000 références généralistes, Lookpiercing cible le style alternatif en acier chirurgical, Maria Tash incarne le luxe à partir d'environ 100 euros la pièce.
-> 4. Le critère décisif reste la matière : titane implant grade et or massif pour les peaux sensibles, acier chirurgical pour un usage occasionnel, plaqué or à éviter sur un piercing récent.
+<div class="callout-brief">
+<span class="callout-label">En bref</span>
+<h2>Ce qu'il faut retenir</h2>
+
+1. Quatre boutiques dominent le marché français des piercings d'oreille en ligne en 2026 : Nébuleuse bijoux, Piercing Street, Lookpiercing et Maria Tash.
+2. Nébuleuse bijoux se positionne comme la référence féminine avec un catalogue 100 pour cent dédié aux femmes, du titane implant grade norme ASTM F136 et de l'or 14 carats à partir d'environ 25 euros.
+3. Piercing Street couvre le volume avec plus de 10 000 références généralistes, Lookpiercing cible le style alternatif en acier chirurgical, Maria Tash incarne le luxe à partir d'environ 100 euros la pièce.
+4. Le critère décisif reste la matière : titane implant grade et or massif pour les peaux sensibles, acier chirurgical pour un usage occasionnel, plaqué or à éviter sur un piercing récent.
+</div>
 
 ## Tableau comparatif des boutiques de piercings en ligne
 

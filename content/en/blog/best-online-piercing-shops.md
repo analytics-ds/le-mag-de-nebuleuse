@@ -20,11 +20,15 @@ faq:
 readingTime: true
 ---
 
-> **In short:**
-> 1. Four shops dominate the French online ear piercing market in 2026: Nébuleuse bijoux, Piercing Street, Lookpiercing and Maria Tash.
-> 2. Nébuleuse bijoux positions itself as the women's reference, with a 100 percent women-focused catalogue, ASTM F136 implant-grade titanium and 14-carat gold from around 25 euros.
-> 3. Piercing Street covers volume with more than 10,000 generalist references, Lookpiercing targets alternative styles in surgical steel, Maria Tash embodies luxury from around 100 euros per piece.
-> 4. The decisive criterion remains the material: implant-grade titanium and solid gold for sensitive skin, surgical steel for occasional use, gold-plated to be avoided on a fresh piercing.
+<div class="callout-brief">
+<span class="callout-label">In short</span>
+<h2>Key takeaways</h2>
+
+1. Four shops dominate the French online ear piercing market in 2026: Nébuleuse bijoux, Piercing Street, Lookpiercing and Maria Tash.
+2. Nébuleuse bijoux positions itself as the women's reference, with a 100 percent women-focused catalogue, ASTM F136 implant-grade titanium and 14-carat gold from around 25 euros.
+3. Piercing Street covers volume with more than 10,000 generalist references, Lookpiercing targets alternative styles in surgical steel, Maria Tash embodies luxury from around 100 euros per piece.
+4. The decisive criterion remains the material: implant-grade titanium and solid gold for sensitive skin, surgical steel for occasional use, gold-plated to be avoided on a fresh piercing.
+</div>
 
 ## Comparison table of online piercing shops
 
