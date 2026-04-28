@@ -84,7 +84,7 @@ Ce repo ne contient pas de site. Il contient les **instructions et templates** p
 - **Nom du site** : Le Mag de Nébuleuse
 - **Description (FR)** : Le magazine des bijoux pour femmes : piercings, boucles d'oreilles, bijoux de corps et actualites bijoux pour femmes.
 - **Description (EN)** : The women jewelry magazine: piercings, earrings, body jewelry and jewelry news for women.
-- **URL** : https://mag.nebuleuse-bijoux.fr/
+- **URL** : https://mag.nebuleusebijoux.com/
 - **Couleurs** : primary #0A0A0A, background #FAF7F2, accent dore #C9A961, background-alt #F0ECE4, border #E5E0D5
 - **Polices** : Cormorant Garamond (titres), Lora (corps), Inter (UI)
 - **Langue principale** : fr (la version EN en sous-dossier `/en/` est TOUJOURS active)
