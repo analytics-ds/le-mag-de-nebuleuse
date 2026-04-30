@@ -56,7 +56,7 @@ Four criteria structure an informed purchase decision. The **style** must match 
 
 ## Presentation of Nébuleuse, designer women's jewelry brand
 
-[Nébuleuse](https://nebuleusebijoux.com/) is a French designer jewelry brand launched to offer original pieces at accessible prices. The positioning rests on three axes: a recognizable signature design, durable materials (925 silver, gold plating, medical-grade titanium for piercings) and a price range starting at 12 euros for ear studs and capping at 150 euros for full compositions.
+Nébuleuse is a French designer jewelry brand launched to offer original pieces at accessible prices. The positioning rests on three axes: a recognizable signature design, durable materials (925 silver, gold plating, medical-grade titanium for piercings) and a price range starting at 12 euros for ear studs and capping at 150 euros for full compositions.
 
 The brand covers four complete categories: earrings, rings, hoops and titanium piercings. This breadth makes it possible to find a piece suited to all mother profiles, from minimalist taste to assertive style.
 
