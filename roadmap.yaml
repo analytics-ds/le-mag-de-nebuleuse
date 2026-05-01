@@ -83,10 +83,10 @@ articles:
     volume: null
     kd: null
     scheduled_date: "2026-04-28"
-    status: todo
-    published_date: null
-    published_url_fr: null
-    published_url_en: null
+    status: done
+    published_date: "2026-05-01"
+    published_url_fr: "https://mag.nebuleusebijoux.com/blog/comment-choisir-ses-boucles-doreilles/"
+    published_url_en: "https://mag.nebuleusebijoux.com/en/blog/how-to-choose-earrings/"
     error: null
 
   - kw: "piercing nez douleur cicatrisation"
