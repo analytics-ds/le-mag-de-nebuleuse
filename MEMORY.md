@@ -1,5 +1,8 @@
 # Journal de publication
 
+## Semaine 19 (04/05/2026 - 10/05/2026)
+- 2026-05-08 | Piercing nez : douleur et cicatrisation (FR+EN) | Piercings | auto
+
 ## Semaine 18 (27/04/2026 - 03/05/2026)
 - 2026-05-01 | Comment choisir ses boucles d'oreilles : guide complet (FR+EN) | Boucles d'oreilles | auto
 - 2026-04-30 | Quels bijoux originaux offrir à sa mère pour la fête des mères ? (FR+EN) | Actualités

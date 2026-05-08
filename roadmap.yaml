@@ -94,10 +94,10 @@ articles:
     volume: null
     kd: null
     scheduled_date: "2026-05-01"
-    status: todo
-    published_date: null
-    published_url_fr: null
-    published_url_en: null
+    status: done
+    published_date: "2026-05-08"
+    published_url_fr: "https://mag.nebuleusebijoux.com/blog/piercing-nez-douleur-cicatrisation/"
+    published_url_en: "https://mag.nebuleusebijoux.com/en/blog/nose-piercing-pain-healing/"
     error: null
 
   - kw: "bijoux de corps tendance femme"
