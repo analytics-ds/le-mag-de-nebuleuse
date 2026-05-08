@@ -9,7 +9,7 @@ tags: ["piercing nez", "cicatrisation piercing", "douleur piercing", "soins pier
 author: "laura-verdier"
 image: "/images/blog/piercing-nez-douleur-cicatrisation.jpg"
 imageAlt: "Femme souriante portant un bijou de piercing au nez"
-imageCredit: "Photo par Matt Moloney via Stocksnap (CC CC0 1.0)"
+imageCredit: "Photo via Unsplash (Unsplash License)"
 faq:
   - question: "Pourquoi mon piercing au nez me fait-il mal ?"
     answer: "La douleur après un piercing au nez est une réaction normale du corps à la blessure. Dans les premiers jours, la zone est en phase inflammatoire : gonflement, rougeur et sensibilité sont attendus. La douleur diminue progressivement en quelques semaines. Si elle s'intensifie ou s'accompagne de pus vert ou de fièvre, il convient de consulter un médecin."

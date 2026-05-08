@@ -9,7 +9,7 @@ tags: ["nose piercing", "piercing healing", "piercing pain", "piercing aftercare
 author: "laura-verdier"
 image: "/images/blog/piercing-nez-douleur-cicatrisation.jpg"
 imageAlt: "Smiling woman wearing a nose piercing jewelry"
-imageCredit: "Photo par Matt Moloney via Stocksnap (CC CC0 1.0)"
+imageCredit: "Photo via Unsplash (Unsplash License)"
 faq:
   - question: "Why does my nose piercing hurt?"
     answer: "Pain after a nose piercing is a normal reaction of the body to the wound. In the first few days, the area is in the inflammatory phase: swelling, redness and sensitivity are expected. Pain decreases gradually over a few weeks. If it intensifies or is accompanied by green pus or fever, you should consult a doctor."
