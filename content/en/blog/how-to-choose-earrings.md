@@ -9,7 +9,7 @@ tags: ["earrings", "guide", "face shape", "hypoallergenic", "hoops"]
 author: "magalie-ergoz"
 image: "/images/blog/comment-choisir-ses-boucles-doreilles.jpg"
 imageAlt: "Pair of gold earrings placed on light fabric"
-imageCredit: "Photo par sjpowermac via Flickr (CC CC0 1.0)"
+imageCredit: "Photo via Unsplash (Unsplash License)"
 faq:
   - question: "Which earrings should I choose for a round face?"
     answer: "For a round face, long and slender drop or dangling earrings are the most flattering: they visually elongate the features. Rectangle shapes and teardrop styles also work very well. Avoid: wide hoops and large round earrings that accentuate the roundness."

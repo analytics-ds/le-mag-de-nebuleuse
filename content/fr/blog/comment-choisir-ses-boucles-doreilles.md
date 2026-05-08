@@ -9,7 +9,7 @@ tags: ["boucles d'oreilles", "guide", "forme du visage", "hypoallergenique", "cr
 author: "magalie-ergoz"
 image: "/images/blog/comment-choisir-ses-boucles-doreilles.jpg"
 imageAlt: "Paire de boucles d'oreilles dorées posées sur tissu clair"
-imageCredit: "Photo par sjpowermac via Flickr (CC CC0 1.0)"
+imageCredit: "Photo via Unsplash (Unsplash License)"
 faq:
   - question: "Quelles boucles d'oreilles choisir pour un visage rond ?"
     answer: "Pour un visage rond, les boucles pendantes longues et fines sont les plus flatteuses : elles allongent visuellement les traits. Les modèles rectangulaires ou en goutte fonctionnent aussi très bien. À éviter : les créoles larges et les boucles rondes volumineuses qui accentuent la rondeur."
