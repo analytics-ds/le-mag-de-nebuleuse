@@ -1,5 +1,8 @@
 # Journal de publication
 
+## Semaine 20 (11/05/2026 - 17/05/2026)
+- 2026-05-12 | Bijoux de corps : tendances femme 2026 (FR+EN) | Bijoux de corps | auto
+
 ## Semaine 19 (04/05/2026 - 10/05/2026)
 - 2026-05-08 | Meilleur site de boucles d'oreilles femme ? (FR+EN) | Boucles d'oreilles
 - 2026-05-08 | Quel site pour piercing hélix : Maria Tash, Madlords ou indé ? (FR+EN) | Piercings
