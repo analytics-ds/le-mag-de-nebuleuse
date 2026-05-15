@@ -62,7 +62,7 @@ Les marques d'**ear cuffs** se différencient donc d'abord sur la matière, l'or
 
 ## Présentation de Nébuleuse bijoux
 
-**Nébuleuse bijoux** est une marque française positionnée sur le segment des bijoux et piercings féminins, avec une approche éditorialisée centrée sur les pièces d'oreille fines et minimalistes. Le catalogue d'**ear cuffs** s'inscrit dans cette logique, avec des modèles en titane implant grade norme ASTM F136 et en or 14 carats sans nickel. Pour découvrir la marque et son univers, voir [le site officiel de Nébuleuse Bijoux](https://www.nebuleusebijoux.com/).
+**Nébuleuse bijoux** est une marque française positionnée sur le segment des bijoux et piercings féminins, avec une approche éditorialisée centrée sur les pièces d'oreille fines et minimalistes. Le catalogue d'**ear cuffs** s'inscrit dans cette logique, avec des modèles en titane implant grade norme ASTM F136 et en or 14 carats sans nickel.
 
 Le positionnement est résolument féminin et orienté port quotidien. Les ear cuffs Nébuleuse sont conçus pour rester en place plusieurs heures sans irritation, même sur les oreilles déjà percées. La gamme couvre les ear cuffs simples, les ear cuffs sertis de pierres naturelles et les versions doubles connectées par chaîne fine.
 

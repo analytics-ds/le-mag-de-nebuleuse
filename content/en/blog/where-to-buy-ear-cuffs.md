@@ -62,7 +62,7 @@ The Association of Professional Piercers, an international reference body, recom
 
 ## About Nébuleuse Bijoux
 
-**Nébuleuse Bijoux** is a French brand positioned on the segment of feminine jewelry and piercings, with a curated approach centered on fine and minimalist ear pieces. The **ear cuff** catalog follows this logic, with models in ASTM F136 implant-grade titanium and nickel-free 14-carat gold. To discover the brand and its universe, see [the official Nébuleuse Bijoux website](https://www.nebuleusebijoux.com/).
+**Nébuleuse Bijoux** is a French brand positioned on the segment of feminine jewelry and piercings, with a curated approach centered on fine and minimalist ear pieces. The **ear cuff** catalog follows this logic, with models in ASTM F136 implant-grade titanium and nickel-free 14-carat gold.
 
 The positioning is resolutely feminine and geared toward daily wear. Nébuleuse ear cuffs are designed to stay in place for several hours without irritation, even on already-pierced ears. The range covers simple ear cuffs, ear cuffs set with natural stones, and double versions connected by a fine chain.
 
