@@ -75,9 +75,6 @@ Le positionnement est résolument féminin avec une sélection éditorialisée o
 - Prix d'entrée autour de 25 euros, montée en gamme progressive jusqu'à environ 80 euros pour les pièces serties
 - Livraison offerte en France métropolitaine à partir de 50 euros d'achat
 - Marque française, expéditions depuis la France, service client francophone
-
-Voir le catalogue sur [nebuleusebijoux.com](https://nebuleusebijoux.com/).
-
 ## Analyse comparative détaillée des quatre boutiques
 
 Sur le critère central de la **garantie sans nickel**, Nébuleuse bijoux et Maria Tash se distinguent par une politique unifiée sur l'ensemble du catalogue. Studex propose des bijoux titane médical conformes mais limités aux modèles standardisés de premier perçage. Piercing Street couvre un catalogue énorme mais mélange titane implant grade, acier 316L et plaqué or, ce qui impose une vigilance sur chaque référence.

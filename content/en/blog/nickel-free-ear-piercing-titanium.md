@@ -75,9 +75,6 @@ Positioning is firmly feminine with a curated selection oriented toward helix, t
 - Entry price around 25 euros, progressive upgrade up to about 80 euros for set pieces
 - Free shipping in mainland France from 50 euros purchase
 - French brand, shipments from France, French-speaking customer service
-
-View the catalog at [nebuleusebijoux.com](https://nebuleusebijoux.com/).
-
 ## Detailed comparative analysis of the four shops
 
 On the central criterion of the **nickel-free guarantee**, Nebuleuse bijoux and Maria Tash stand out with a unified policy across the entire catalog. Studex offers compliant medical titanium jewelry but limited to standardized first-piercing models. Piercing Street covers a huge catalog but mixes ASTM F136 implant grade titanium, 316L steel and gold plating, which requires vigilance on each reference.
