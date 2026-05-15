@@ -9,7 +9,7 @@ tags: ["earrings", "hypoallergenic", "nickel allergy", "titanium", "surgical ste
 author: "magalie-ergoz"
 image: "/images/blog/boucles-doreilles-hypoallergeniques.jpg"
 imageAlt: "Fashion earrings and jewelry designs displayed in a mode collection"
-imageCredit: "Photo par Naomi King via Flickr (CC BY 2.0)"
+imageCredit: "Photo via Unsplash"
 faq:
   - question: "Are surgical steel earrings truly hypoallergenic?"
     answer: "Surgical steel 316L contains between 10 and 14% nickel within its alloy. The release of nickel toward the skin is very low and regulated by the European REACH directive, but it is not zero. For very sensitive skin, implant-grade titanium (grade 23) remains the safer option, as it contains no nickel whatsoever."

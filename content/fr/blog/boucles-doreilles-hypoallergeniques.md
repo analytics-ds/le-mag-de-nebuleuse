@@ -9,7 +9,7 @@ tags: ["boucles d'oreilles", "hypoallergénique", "allergie nickel", "titane", "
 author: "magalie-ergoz"
 image: "/images/blog/boucles-doreilles-hypoallergeniques.jpg"
 imageAlt: "Boucles d'oreilles et bijoux fantaisie présentés sur fond de collection mode"
-imageCredit: "Photo par Naomi King via Flickr (CC BY 2.0)"
+imageCredit: "Photo via Unsplash"
 faq:
   - question: "Les boucles d'oreilles en acier chirurgical sont-elles vraiment hypoallergéniques ?"
     answer: "L'acier chirurgical 316L contient entre 10 et 14 % de nickel dans son alliage. La libération de nickel vers la peau est très faible et encadrée par la directive européenne REACH, mais elle n'est pas nulle. Pour les peaux très sensibles, le titane implantable de grade 23 reste une option plus sûre, car il ne contient aucun nickel."
