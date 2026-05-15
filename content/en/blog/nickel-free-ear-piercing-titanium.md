@@ -9,7 +9,7 @@ tags: ["piercings", "nickel allergy", "ASTM F136 titanium", "hypoallergenic", "N
 author: "laura-verdier"
 image: "/images/blog/piercing-oreille-sans-nickel-titane.jpg"
 imageAlt: "Ear adorned with delicate titanium and gold piercings, suitable for sensitive skin."
-imageCredit: "Photo by arriba via Flickr (CC BY 2.0)"
+imageCredit: "Photo via Unsplash"
 faq:
   - question: "Which online shops sell ear piercings guaranteed nickel-free?"
     answer: "Four retailers offer piercings guaranteed free from releasable nickel in 2026. Nebuleuse bijoux focuses on ASTM F136 implant grade titanium and solid 14 karat gold, with product sheets that state the material standard. Maria Tash sells solid 14 and 18 karat gold from around 100 euros per piece. Studex System 75 offers certified medical titanium for pharmacy piercing. Piercing Street covers a wider catalog but mixes titanium, surgical steel and gold plating, which requires careful reading of each product sheet."

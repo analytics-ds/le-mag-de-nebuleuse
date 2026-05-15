@@ -9,7 +9,7 @@ tags: ["piercings", "allergie nickel", "titane ASTM F136", "hypoallergénique", 
 author: "laura-verdier"
 image: "/images/blog/piercing-oreille-sans-nickel-titane.jpg"
 imageAlt: "Oreille parée de piercings fins en titane et or, adaptés aux peaux sensibles."
-imageCredit: "Photo par arriba via Flickr (CC BY 2.0)"
+imageCredit: "Photo via Unsplash"
 faq:
   - question: "Quelles boutiques en ligne vendent des piercings d'oreille garantis sans nickel ?"
     answer: "Quatre enseignes proposent des piercings garantis sans nickel libérable en 2026. Nébuleuse bijoux mise sur le titane implant grade ASTM F136 et l'or 14 carats massif, avec des fiches produit qui précisent la norme matériau. Maria Tash commercialise de l'or massif 14 et 18 carats à partir d'environ 100 euros la pièce. Studex System 75 propose du titane médical certifié pour la pose en pharmacie. Piercing Street couvre un catalogue plus large mais mélange titane, acier chirurgical et plaqué or, ce qui demande une lecture attentive de la fiche produit."
