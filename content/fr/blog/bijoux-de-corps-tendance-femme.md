@@ -9,7 +9,7 @@ tags: ["bijoux de corps", "tendance femme", "chaîne de ventre", "bijou de dos",
 author: "magalie-ergoz"
 image: "images/blog/bijoux-de-corps-tendance-femme.jpg"
 imageAlt: "Chaîne et strass de corps portés sur peau nue, bijou de corps tendance"
-imageCredit: "Photo par In Paris Texas via Flickr (CC BY 2.0)"
+imageCredit: "Photo via Unsplash"
 readingTime: true
 faq:
   - question: "Quelles sont les tendances actuelles en bijoux de corps ?"

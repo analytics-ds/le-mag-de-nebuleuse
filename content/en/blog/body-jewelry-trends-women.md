@@ -9,7 +9,7 @@ tags: ["body jewelry", "women trends", "belly chain", "back jewelry", "anklet"]
 author: "magalie-ergoz"
 image: "images/blog/bijoux-de-corps-tendance-femme.jpg"
 imageAlt: "Body chain and rhinestones worn against bare skin, trending body jewelry"
-imageCredit: "Photo par In Paris Texas via Flickr (CC BY 2.0)"
+imageCredit: "Photo via Unsplash"
 readingTime: true
 faq:
   - question: "What are the current trends in body jewelry?"
