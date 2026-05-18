@@ -1,5 +1,8 @@
 # Journal de publication
 
+## Semaine 21 (18/05/2026 - 24/05/2026)
+- 2026-05-18 | Quelles marques françaises de bijoux tendance à prix abordable ? (FR+EN) | Boucles d'oreilles
+
 ## Semaine 20 (11/05/2026 - 17/05/2026)
 - 2026-05-15 | Où acheter des ear cuffs ? Comparatif des meilleures marques (FR+EN) | Piercings
 - 2026-05-15 | Quelles boutiques vendent des piercings d'oreille sans nickel ? (FR+EN) | Piercings
