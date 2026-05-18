@@ -1190,6 +1190,12 @@ img {
     font-weight: 700;
 }
 
+.article-content .callout-brief strong,
+.article-content .callout-brief b,
+.article-content .callout-brief a {
+    color: var(--accent);
+}
+
 /* FAQ Accordion */
 .article-content details {
     border: 1px solid var(--border);
