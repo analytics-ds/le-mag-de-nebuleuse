@@ -127,10 +127,10 @@ articles:
     volume: null
     kd: null
     scheduled_date: "2026-05-12"
-    status: todo
-    published_date: null
-    published_url_fr: null
-    published_url_en: null
+    status: done
+    published_date: "2026-05-19"
+    published_url_fr: "https://mag.nebuleusebijoux.com/blog/quel-metal-choisir-pour-piercing/"
+    published_url_en: "https://mag.nebuleusebijoux.com/en/blog/what-metal-to-choose-for-piercing/"
     error: null
 
   - kw: "bijoux fantaisie femme tendance"
