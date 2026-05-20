@@ -1,15 +1,15 @@
 ---
-title: "What Metal to Choose for a Piercing | Le Mag de Nébuleuse"
+title: "What Metal to Choose for a Piercing"
 translationKey: "what-metal-choose-piercing"
 date: "2026-05-19"
-lastmod: "2026-05-19"
+lastmod: "2026-05-20"
 description: "Titanium ASTM F136, surgical steel, solid gold or niobium: a complete guide to choosing the right metal for your piercing based on your skin type and healing stage."
 categories: ["Piercings"]
 tags: ["piercing", "titanium", "surgical steel", "piercing metal", "healing", "hypoallergenic", "solid gold"]
 author: "laura-verdier"
 image: "/images/blog/quel-metal-choisir-piercing.jpg"
 imageAlt: "Titanium and metal piercing jewelry displayed on a light background"
-imageCredit: "Photo by Rachel Swallows (Core by Rachel Swallows) via Flickr (CC BY 2.0)"
+imageCredit: "Photo via Unsplash"
 faq:
   - question: "What is the best metal for a first piercing?"
     answer: "Implant grade titanium ASTM F136 is the reference for a first piercing. It contains no nickel, does not rust and is biocompatible with human tissue. It is the standard required by the Association of Professional Piercers for initial jewelry. Niobium ASTM F2384 is an equivalent alternative for those with a rare sensitivity to titanium."

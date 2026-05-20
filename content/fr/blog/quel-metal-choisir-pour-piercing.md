@@ -1,15 +1,15 @@
 ---
-title: "Quel métal choisir pour un piercing | Le Mag de Nébuleuse"
+title: "Quel métal choisir pour un piercing"
 translationKey: "what-metal-choose-piercing"
 date: "2026-05-19"
-lastmod: "2026-05-19"
+lastmod: "2026-05-20"
 description: "Titane ASTM F136, acier chirurgical, or massif ou niobium : guide complet pour choisir le bon métal pour votre piercing selon votre peau et l'étape de cicatrisation."
 categories: ["Piercings"]
 tags: ["piercing", "titane", "acier chirurgical", "métal piercing", "cicatrisation", "hypoallergénique", "or massif"]
 author: "laura-verdier"
 image: "/images/blog/quel-metal-choisir-piercing.jpg"
 imageAlt: "Bijoux de piercing en titane et métal présentés sur fond clair"
-imageCredit: "Photo par Rachel Swallows (Core by Rachel Swallows) via Flickr (CC BY 2.0)"
+imageCredit: "Photo via Unsplash"
 faq:
   - question: "Quel est le meilleur métal pour un premier piercing ?"
     answer: "Le titane implant grade ASTM F136 est la référence pour un premier piercing. Il ne contient aucun nickel, ne rouille pas et est biocompatible avec les tissus humains. Le niobium ASTM F2384 est une alternative équivalente pour les personnes ayant une sensibilité rare au titane."
