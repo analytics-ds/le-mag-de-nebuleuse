@@ -1,7 +1,7 @@
 {{ define "main" }}
 {{ $lang := .Site.Language.Lang }}
 {{ $authorId := .Params.authorId | default (path.Base .File.Path | strings.TrimSuffix ".md") }}
-{{ $author := index site.Data.authors $authorId }}
+{{ $author := index hugo.Data.authors $authorId }}
 
 <article class="author-page">
     <div class="container-narrow">
