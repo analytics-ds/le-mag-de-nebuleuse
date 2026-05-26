@@ -1,5 +1,8 @@
 # Journal de publication
 
+## Semaine 22 (25/05/2026 - 31/05/2026)
+- 2026-05-26 | Comment entretenir ses bijoux : guide pratique (FR+EN) | Actualites | auto
+
 ## Semaine 21 (18/05/2026 - 24/05/2026)
 - 2026-05-19 | Quel métal choisir pour un piercing (FR+EN) | Piercings | auto
 - 2026-05-18 | Quelles marques françaises de bijoux tendance à prix abordable ? (FR+EN) | Boucles d'oreilles

@@ -149,8 +149,8 @@ articles:
     volume: null
     kd: null
     scheduled_date: "2026-05-19"
-    status: todo
-    published_date: null
-    published_url_fr: null
-    published_url_en: null
+    status: done
+    published_date: "2026-05-26"
+    published_url_fr: "https://mag.nebuleusebijoux.com/blog/comment-entretenir-ses-bijoux/"
+    published_url_en: "https://mag.nebuleusebijoux.com/en/blog/how-to-care-for-jewelry/"
     error: null

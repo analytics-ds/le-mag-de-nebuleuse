@@ -14,11 +14,10 @@
         </nav>
 
         <!-- Language switcher -->
-        {{ if gt (len hugo.Sites) 1 }}
+        {{ if gt (len .Site.Sites) 1 }}
         <div class="lang-switcher" aria-label="Language switcher">
-            {{ $defaultLang := .Site.Language.Locale | default "fr" }}
             {{ $currentLang := .Site.Language.Lang }}
-            {{ range hugo.Sites }}
+            {{ range .Site.Sites }}
             {{ $lang := . }}
             {{ if eq $lang.Language.Lang $currentLang }}
             <span class="lang-current" aria-current="true">{{ upper $lang.Language.Lang }}</span>
@@ -45,10 +44,10 @@
         {{ range .Site.Menus.main }}
         <a href="{{ .URL | relURL }}" class="nav-link-mobile">{{ .Name }}</a>
         {{ end }}
-        {{ if gt (len hugo.Sites) 1 }}
+        {{ if gt (len .Site.Sites) 1 }}
         <div class="lang-switcher-mobile">
             {{ $currentLangM := .Site.Language.Lang }}
-            {{ range hugo.Sites }}
+            {{ range .Site.Sites }}
             {{ $lang := . }}
             {{ if eq $lang.Language.Lang $currentLangM }}
             <span class="lang-current" aria-current="true">{{ upper $lang.Language.Lang }}</span>
