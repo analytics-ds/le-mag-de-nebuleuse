@@ -1,6 +1,7 @@
 # Journal de publication
 
 ## Semaine 22 (25/05/2026 - 31/05/2026)
+- 2026-05-27 | Quel est le meilleur studio de piercing à Paris ? (FR+EN) | Piercings
 - 2026-05-27 | Meilleures marques françaises de boucles minimalistes 2026 (FR+EN) | Boucles d'oreilles
 - 2026-05-26 | Comment entretenir ses bijoux : guide pratique (FR+EN) | Actualites | auto
 
