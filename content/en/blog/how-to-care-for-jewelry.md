@@ -2,14 +2,14 @@
 title: "How to Care for Jewelry: A Practical Guide"
 translationKey: "how-to-care-for-jewelry"
 date: "2026-05-26"
-lastmod: "2026-05-26"
+lastmod: "2026-05-27"
 description: "Baking soda, microfibre cloth, adapted products: a complete guide to caring for your gold, silver, stainless steel and fashion jewelry."
 categories: ["News"]
 tags: ["jewelry care", "jewelry cleaning", "gold jewelry", "silver jewelry", "fashion jewelry", "stainless steel", "gold plated"]
 author: "magalie-ergoz"
 image: "/images/blog/comment-entretenir-ses-bijoux.jpg"
 imageAlt: "Natural products for jewelry care and cleaning"
-imageCredit: "Photo par Naomi King via Flickr (CC BY 2.0)"
+imageCredit: "Photo via Unsplash"
 readingTime: true
 faq:
   - question: "How do I keep fashion jewelry from turning black?"

@@ -2,14 +2,14 @@
 title: "Comment entretenir ses bijoux : guide pratique"
 translationKey: "how-to-care-for-jewelry"
 date: "2026-05-26"
-lastmod: "2026-05-26"
+lastmod: "2026-05-27"
 description: "Bicarbonate, chiffon microfibre, produits adaptés : guide complet pour entretenir ses bijoux en or, argent, acier inoxydable et bijoux fantaisie."
 categories: ["Actualites"]
 tags: ["entretien bijoux", "nettoyage bijoux", "bijoux or", "bijoux argent", "bijoux fantaisie", "acier inoxydable", "plaqué or"]
 author: "magalie-ergoz"
 image: "/images/blog/comment-entretenir-ses-bijoux.jpg"
 imageAlt: "Produits naturels pour l'entretien et le nettoyage des bijoux"
-imageCredit: "Photo par Naomi King via Flickr (CC BY 2.0)"
+imageCredit: "Photo via Unsplash"
 readingTime: true
 faq:
   - question: "Comment empêcher les bijoux fantaisie de noircir ?"
