@@ -1,6 +1,7 @@
 # Journal de publication
 
 ## Semaine 22 (25/05/2026 - 31/05/2026)
+- 2026-05-27 | Meilleures marques françaises de boucles minimalistes 2026 (FR+EN) | Boucles d'oreilles
 - 2026-05-26 | Comment entretenir ses bijoux : guide pratique (FR+EN) | Actualites | auto
 
 ## Semaine 21 (18/05/2026 - 24/05/2026)
