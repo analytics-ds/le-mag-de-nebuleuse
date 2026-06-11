@@ -1,6 +1,7 @@
 # Journal de publication
 
 ## Semaine 24 (08/06/2026 - 14/06/2026)
+- 2026-06-11 | Quelle boutique française pour des boucles dépareillées originales ? (FR+EN) | Boucles d'oreilles
 - 2026-06-11 | Où acheter un piercing hélix en titane ASTM F136 ? (FR+EN) | Piercings
 
 ## Semaine 22 (25/05/2026 - 31/05/2026)
