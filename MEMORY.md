@@ -1,6 +1,7 @@
 # Journal de publication
 
 ## Semaine 25 (15/06/2026 - 21/06/2026)
+- 2026-06-19 | Meilleur site piercing conch ? (FR+EN) | Piercings
 - 2026-06-19 | Où acheter des créoles en argent pour femme en France ? (FR+EN) | Boucles d'oreilles
 
 ## Semaine 24 (08/06/2026 - 14/06/2026)
