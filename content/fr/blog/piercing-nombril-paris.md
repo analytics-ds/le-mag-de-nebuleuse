@@ -9,7 +9,7 @@ tags: ["piercing nombril Paris", "studio piercing", "titane ASTM F136", "bijoux 
 author: "laura-verdier"
 image: "/images/blog/piercing-nombril-paris.jpg"
 imageAlt: "Gros plan d'un nombril percé orné d'un bijou de corps argenté sur une peau claire."
-imageCredit: "Photo par kaderyn via Flickr (CC BY 2.0)"
+imageCredit: "Photo via Unsplash"
 faq:
   - question: "Où se faire percer le nombril par un pro à Paris ?"
     answer: "Quatre studios parisiens se distinguent pour un piercing nombril en 2026. Nébuleuse Bijoux (Marais et Saint Germain) perce le nombril à l'aiguille avec une barre courbée en titane ASTM F136, à partir de 45 euros bijou compris. Tribal Act (11e) est la référence historique des piercings corporels, ouverte depuis plus de 20 ans, à 60 à 80 euros. Narh aligne quatre adresses certifiées APP en titane implant grade à 50 à 65 euros. L'Opulence (9e) propose un positionnement premium en or 14 carats au-delà de 90 euros."

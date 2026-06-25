@@ -9,7 +9,7 @@ tags: ["navel piercing Paris", "piercing studio", "ASTM F136 titanium", "body je
 author: "laura-verdier"
 image: "/images/blog/piercing-nombril-paris.jpg"
 imageAlt: "Close-up of a pierced navel with a silver body jewelry bar on fair skin."
-imageCredit: "Photo par kaderyn via Flickr (CC BY 2.0)"
+imageCredit: "Photo via Unsplash"
 faq:
   - question: "Where can you get a navel piercing by a pro in Paris?"
     answer: "Four Paris studios stand out for a navel piercing in 2026. Nébuleuse Bijoux (Marais and Saint Germain) pierces the navel with a needle and a curved ASTM F136 titanium bar, from 45 euros jewelry included. Tribal Act (11th) is the historic reference for body piercings, open for over 20 years, at 60 to 80 euros. Narh runs four APP-certified addresses with implant-grade titanium at 50 to 65 euros. L'Opulence (9th) offers a premium 14-carat gold positioning above 90 euros."
