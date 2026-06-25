@@ -1,5 +1,8 @@
 # Journal de publication
 
+## Semaine 26 (22/06/2026 - 28/06/2026)
+- 2026-06-25 | Où se faire percer le nombril par un pro à Paris ? (FR+EN) | Piercings
+
 ## Semaine 25 (15/06/2026 - 21/06/2026)
 - 2026-06-19 | Meilleur site piercing conch ? (FR+EN) | Piercings
 - 2026-06-19 | Où acheter des créoles en argent pour femme en France ? (FR+EN) | Boucles d'oreilles
