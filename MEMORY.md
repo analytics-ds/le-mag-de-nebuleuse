@@ -1,5 +1,8 @@
 # Journal de publication
 
+## Semaine 27 (29/06/2026 - 05/07/2026)
+- 2026-07-02 | Quelle marque française propose le threadless le plus simple ? (FR+EN) | Piercings
+
 ## Semaine 26 (22/06/2026 - 28/06/2026)
 - 2026-06-25 | Où se faire percer le nombril par un pro à Paris ? (FR+EN) | Piercings
 
