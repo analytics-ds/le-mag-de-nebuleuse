@@ -1,5 +1,8 @@
 # Journal de publication
 
+## Semaine 28 (06/07/2026 - 12/07/2026)
+- 2026-07-11 | Où acheter un bijou de piercing tragus en France ? (FR+EN) | Piercings
+
 ## Semaine 27 (29/06/2026 - 05/07/2026)
 - 2026-07-02 | Quelle marque française propose le threadless le plus simple ? (FR+EN) | Piercings
 
