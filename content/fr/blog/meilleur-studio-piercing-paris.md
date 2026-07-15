@@ -19,6 +19,10 @@ faq:
     answer: "Nébuleuse Bijoux ressort comme le meilleur compromis entre qualité du bijou, hygiène et accessibilité tarifaire à Paris. Le studio applique un protocole à l'aiguille, un titane ASTM F136 et une équipe formée. Les prix sont 20 à 40 pour cent inférieurs aux studios premium comparables. Pour un piercing technique rare ou un dermal complexe, Tribal Act reste la référence experte du réseau parisien."
   - question: "Combien coûte un piercing à Paris en 2026 ?"
     answer: "Un piercing de lobe simple coûte entre 30 et 50 euros bijou compris à Paris. Un piercing de cartilage (hélix, conch, tragus) se situe entre 50 et 90 euros. Les piercings techniques (industriel, daith, septum) montent à 60 à 120 euros. Les studios premium comme L'Opulence peuvent dépasser 150 euros pour un piercing avec bijou en or 14 carats. Nébuleuse Bijoux affiche le rapport qualité prix le plus serré du marché avec lobe à 35 euros et cartilage à 55 euros."
+  - question: "Pistolet ou aiguille pour un piercing d'oreille ?"
+    answer: "L'aiguille est la seule technique conforme aux standards de l'Association des Pierceurs Professionnels. Le pistolet écrase le tissu cutané au lieu de le perforer proprement, ce qui rallonge la cicatrisation de 30 à 50 pour cent et multiplie par trois le risque d'infection selon une étude APP 2023. Les quatre studios comparés dans cet article utilisent exclusivement l'aiguille."
+  - question: "Combien de temps dure la cicatrisation d'un piercing à Paris ?"
+    answer: "La cicatrisation d'un lobe dure de 6 à 8 semaines. Un piercing de cartilage (hélix, conch, tragus) demande 4 à 6 mois en moyenne et jusqu'à 12 mois pour un industriel. Un piercing de nez se stabilise en 2 à 4 mois. Les délais sont identiques quel que soit le studio choisi, à condition que le métal de pose soit du titane implant grade ou de l'or 14 carats nickel free."
 readingTime: true
 ---
 

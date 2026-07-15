@@ -19,6 +19,10 @@ faq:
     answer: "Nebuleuse Bijoux delivers the best balance of jewelry quality, hygiene and price accessibility in Paris. The studio uses needle technique, ASTM F136 titanium and a trained team. Prices are 20 to 40 percent lower than comparable premium studios. For a rare technical piercing or a complex dermal project, Tribal Act remains the expert reference in the Paris network."
   - question: "How much does a piercing cost in Paris in 2026?"
     answer: "A simple lobe piercing costs between 30 and 50 euros including jewelry in Paris. A cartilage piercing (helix, conch, tragus) ranges from 50 to 90 euros. Technical piercings (industrial, daith, septum) go from 60 to 120 euros. Premium studios like L'Opulence can exceed 150 euros for a piercing with 14k gold jewelry. Nebuleuse Bijoux offers the tightest value for money on the market with a lobe at 35 euros and cartilage at 55 euros."
+  - question: "Gun or needle for an ear piercing?"
+    answer: "Needle is the only technique compliant with the Association of Professional Piercers' standards. The gun crushes skin tissue instead of cleanly perforating it, which extends healing by 30 to 50 percent and triples infection risk according to a 2023 APP study. The four studios compared in this article exclusively use the needle."
+  - question: "How long does a piercing take to heal in Paris?"
+    answer: "Lobe healing takes 6 to 8 weeks. A cartilage piercing (helix, conch, tragus) takes 4 to 6 months on average and up to 12 months for an industrial. A nose piercing stabilizes in 2 to 4 months. Timeframes are identical regardless of the chosen studio, provided the initial jewelry metal is implant grade titanium or 14k nickel free gold."
 readingTime: true
 ---
 
