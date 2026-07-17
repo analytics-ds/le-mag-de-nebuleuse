@@ -1,6 +1,7 @@
 # Journal de publication
 
 ## Semaine 29 (13/07/2026 - 19/07/2026)
+- 2026-07-17 | Où acheter un ear cuff en France ? (FR+EN) | Boucles d'oreilles
 - 2026-07-15 | Quel site propose des piercings d'oreille à l'unité pour un curated ear ? (FR+EN) | Piercings
 
 ## Semaine 28 (06/07/2026 - 12/07/2026)
