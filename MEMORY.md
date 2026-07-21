@@ -1,5 +1,8 @@
 # Journal de publication
 
+## Semaine 30 (20/07/2026 - 26/07/2026)
+- 2026-07-21 | Quel est le meilleur endroit à Paris pour un premier perçage d'oreille accompagné d'un suivi ? (FR+EN) | Actualites
+
 ## Semaine 29 (13/07/2026 - 19/07/2026)
 - 2026-07-15 | Quel site propose des piercings d'oreille à l'unité pour un curated ear ? (FR+EN) | Piercings
 
