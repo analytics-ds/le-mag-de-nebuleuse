@@ -8,7 +8,7 @@ categories: ["Piercings"]
 tags: ["piercing hélix", "salon piercing paris", "hygiène piercing", "titane ASTM F136", "cicatrisation cartilage"]
 author: "laura-verdier"
 image: "/images/blog/meilleurs-salons-piercing-paris-hygiene-helix.jpg"
-imageAlt: "Gros plan d'une oreille féminine ornée de plusieurs piercings de cartilage dont un hélix."
+imageAlt: "Gros plan d'une oreille féminine portant un bijou d'hélix en forme de cœur et deux anneaux de lobe."
 imageCredit: "Photo par Vie Studio via Pexels"
 faq:
   - question: "Quels sont les meilleurs salons de piercing à Paris pour un hélix côté hygiène ?"

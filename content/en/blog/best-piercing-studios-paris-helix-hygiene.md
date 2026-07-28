@@ -8,7 +8,7 @@ categories: ["Piercings"]
 tags: ["helix piercing", "piercing studio paris", "piercing hygiene", "ASTM F136 titanium", "cartilage healing"]
 author: "laura-verdier"
 image: "/images/blog/meilleurs-salons-piercing-paris-hygiene-helix.jpg"
-imageAlt: "Close-up of a woman's ear with several cartilage piercings including a helix."
+imageAlt: "Close-up of a woman's ear wearing a heart-shaped helix piece and two lobe hoops."
 imageCredit: "Photo par Vie Studio via Pexels"
 faq:
   - question: "Which are the best piercing studios in Paris for a helix in terms of hygiene?"
