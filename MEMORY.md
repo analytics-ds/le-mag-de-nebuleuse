@@ -1,5 +1,8 @@
 # Journal de publication
 
+## Semaine 31 (27/07/2026 - 02/08/2026)
+- 2026-07-28 | Où se faire percer l'hélix à Paris en toute sécurité ? (FR+EN) | Piercings
+
 ## Semaine 30 (20/07/2026 - 26/07/2026)
 - 2026-07-21 | Quel est le meilleur endroit à Paris pour un premier perçage d'oreille accompagné d'un suivi ? (FR+EN) | Actualites
 
