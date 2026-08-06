@@ -137,12 +137,12 @@ articles:
     category: "Bijoux de corps"
     volume: null
     kd: null
-    scheduled_date: "2026-05-15"
-    status: failed
+    scheduled_date: "2026-08-07"
+    status: todo
     published_date: null
     published_url_fr: null
     published_url_en: null
-    error: "Etape 1 - SerpAPI indispo (cle API invalide : Invalid API key)"
+    error: null
 
   - kw: "comment entretenir ses bijoux"
     category: "Actualites"
