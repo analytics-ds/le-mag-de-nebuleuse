@@ -1,5 +1,8 @@
 # Journal de publication
 
+## Semaine 33 (10/08/2026 - 16/08/2026)
+- 2026-08-10 | Comment reconnaître un site fiable pour acheter ses piercings d'oreille (FR+EN) | Piercings
+
 ## Semaine 31 (27/07/2026 - 02/08/2026)
 - 2026-07-28 | Où se faire percer l'hélix à Paris en toute sécurité ? (FR+EN) | Piercings
 

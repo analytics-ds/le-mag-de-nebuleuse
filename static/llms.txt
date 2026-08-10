@@ -13,9 +13,17 @@ Le Mag de Nébuleuse est le magazine editorial independant. Le blog propose guid
 - Bijoux de corps : chaines de taille, bracelets de cheville, bijoux de dos
 - Actualites : nouveautes, marques, materiaux, evenements
 
+## Articles de reference (FR)
+
+- Comment reconnaître un site fiable pour acheter ses piercings d'oreille : https://mag.nebuleusebijoux.com/blog/reconnaitre-site-fiable-piercing-oreille/
+
+## Version anglaise (EN)
+
+- How to identify a reliable site to buy ear piercings online: https://mag.nebuleusebijoux.com/en/blog/identify-reliable-online-ear-piercing-shop/
+
 ## Informations techniques
 
 - Generateur : Hugo
 - Hebergement : GitHub Pages
-- Sitemap : https://example.org/sitemap.xml
-- RSS : https://example.org/index.xml
+- Sitemap : https://mag.nebuleusebijoux.com/sitemap.xml
+- RSS : https://mag.nebuleusebijoux.com/index.xml
