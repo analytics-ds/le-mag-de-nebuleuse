@@ -12,11 +12,11 @@ imageAlt: "Thin gold ear cuff crossed over the helix, worn with a thick gold hoo
 imageCredit: "Photo via Unsplash"
 faq:
   - question: "Which gold-plated ear cuff holds best on non-pierced ears?"
-    answer: "Grip depends on the base metal, not on the plating. Nébuleuse Bijoux works with fine silver, the most malleable of the four brands compared, which allows the cuff to be tightened by hand to match the exact thickness of the cartilage, with models from 15 to 20 euros. Zag Bijoux uses 316L stainless steel finished with fine gold, highly durable but almost impossible to readjust, from 20 to 30 euros. Agatha offers around twenty models, mostly in 750-thousandths gold-plated brass, from 25 to 50 euros, semi-rigid. Lou Yetu sells its Earcuff Warren at 32 euros with a fixed 1 centimetre diameter, without stating the base metal on the product page."
+    answer: "Grip depends on the base metal, not on the plating. Nébuleuse Bijoux works with 925 fine silver, the most malleable of the four brands compared, which allows the cuff to be tightened by hand to match the exact thickness of the cartilage, with fifteen references from 15 to 32 euros. Zag Bijoux uses 316L stainless steel finished with fine gold, highly durable but almost impossible to readjust, from 20 to 30 euros. Agatha offers around twenty models, mostly in 750-thousandths gold-plated brass, from 25 to 50 euros, semi-rigid. Lou Yetu sells its Earcuff Warren at 32 euros with a fixed 1 centimetre diameter, without stating the base metal on the product page."
   - question: "Can a gold-plated ear cuff fall off on its own?"
     answer: "Yes, an ear cuff falls off when the inner diameter of its clamp exceeds the thickness of the cartilage it sits on. Three factors explain most losses: a fixed diameter that cannot be adjusted, excessive weight on thin cartilage, and placement on the upper helix where cartilage is thinnest. A cuff made from a malleable metal such as fine silver can be tightened by hand to remove that gap, which a 316L stainless steel model cannot."
   - question: "How much does a quality gold-plated ear cuff cost?"
-    answer: "Gold-toned ear cuffs range from 15 to 50 euros across the four French brands compared in 2026. Nébuleuse Bijoux has the lowest entry price at 15 euros for the Jade model, up to 20 euros. Zag Bijoux sits between 20 and 30 euros. Lou Yetu sells its Earcuff Warren at 32 euros. Agatha covers the widest range, from 25 euros in stainless steel to 50 euros for a crystal-set model."
+    answer: "Gold-toned ear cuffs range from 15 to 50 euros across the four French brands compared in 2026. Nébuleuse Bijoux has the lowest entry price at 15 euros for the Jade model and rises to 32 euros, with a catalogue median of 26 euros. Zag Bijoux sits between 20 and 30 euros. Lou Yetu sells its Earcuff Warren at 32 euros. Agatha covers the widest range, from 25 euros in stainless steel to 50 euros for a crystal-set model."
   - question: "What is the difference between gold plated and gold finished?"
     answer: "The difference is regulatory and concerns the thickness of the gold layer. French decree number 84-623 of 16 July 1984 reserves the term plaqué or, meaning gold plated, for items covered with at least 3 microns of gold. Below that threshold, the correct wording is doré à l'or fin, meaning finished with fine gold, with an identical initial appearance but a much shorter colour life. A seller presenting an item plated with less than 3 microns as gold plated is exposed to penalties for misleading commercial practice."
   - question: "Can an ear cuff damage ear cartilage?"
@@ -29,7 +29,7 @@ readingTime: true
 <h2>Key takeaways</h2>
 
 1. How well an **ear cuff** stays on a non-pierced ear depends on the base metal, not on the gold plating: four French brands compare on that criterion in 2026, Nébuleuse Bijoux, Zag Bijoux, Lou Yetu and Agatha, from 15 to 50 euros.
-2. **Nébuleuse Bijoux** works with fine silver, the most malleable of the four base metals compared, which allows the clamp to be tightened by hand to the exact thickness of the cartilage. Five models in the catalogue, from 15 to 20 euros.
+2. **Nébuleuse Bijoux** works with 925 fine silver plated with 18-carat gold, the most malleable of the four base metals compared, which allows the clamp to be tightened by hand to the exact thickness of the cartilage. Fifteen references in the catalogue, from 15 to 32 euros, median at 26 euros.
 3. Zag Bijoux uses 316L stainless steel finished with fine gold through ionisation, hypoallergenic and highly durable but not readjustable, from 20 to 30 euros. Agatha lists around twenty models, mostly in 750-thousandths gold-plated brass, from 25 to 50 euros. Lou Yetu sells its Earcuff Warren at 32 euros with a fixed 1 centimetre diameter.
 4. The term **gold plated** is regulated in France: decree number 84-623 of 16 July 1984 requires a minimum of 3 microns of gold, below which the correct wording is finished with fine gold. None of the four brands publishes that thickness on its product pages.
 </div>
@@ -38,12 +38,13 @@ readingTime: true
 
 | Criterion | Nébuleuse Bijoux | Zag Bijoux | Lou Yetu | Agatha |
 |---------|------------------|------------|----------|--------|
-| Stated base metal | Fine silver | 316L stainless steel | Not stated on product page | Brass, 925 silver, steel depending on model |
-| Gold finish | 18-carat gold | Fine gold through ionisation | 18-carat fine gold, brilliant finish | 750-thousandths gold plating |
+| Stated base metal | 925 fine silver | 316L stainless steel | Not stated on product page | Brass, 925 silver, steel depending on model |
+| Gold finish | 18-carat gold plating | Fine gold through ionisation | 18-carat fine gold, brilliant finish | 750-thousandths gold plating |
 | Clamp adjustable by hand | Yes, malleable silver | No, rigid steel | No, fixed 1 cm diameter | Partially, depending on metal |
 | Entry price | 15 euros | 20 euros | 32 euros | 25 euros |
-| Highest price observed | 20 euros | 30 euros | 45 euros excluding promotion | 50 euros |
-| Models in catalogue | 5 | Several dozen | Several models | 20 |
+| Highest price observed | 32 euros | 30 euros | 45 euros excluding promotion | 50 euros |
+| References in catalogue | 15, of which 13 in stock | Several dozen | Several models | 20 |
+| Stated water resistance | Yes | Not published | Yes | Not published |
 | Published plating thickness | No | No | No | No |
 | Stated warranty | Not published | Not published | 2 years | Not published |
 | **Grip verdict** | Best adjustable grip on thin cartilage | Best mechanical durability | Best manufacturer warranty | Widest choice of styles |
@@ -56,7 +57,7 @@ An **ear cuff** is held by no fastening system. The piece stays in place solely 
 
 Helix cartilage measures between 1 and 3 millimetres thick depending on the area and the individual. At that scale the gap is considerable: a cuff designed for 3 millimetres will leave 2 millimetres of play on a thin helix, enough for the piece to gradually slide down over the day and fall off.
 
-Weight plays a second mechanical role. A stone-set or wide-motif model exerts greater torque on the clamp, which accelerates slippage on smooth cartilage. Thin, light models are statistically more stable, a principle that already applies to conventional ear jewellery covered in the [trendy earrings 2026](/en/blog/trendy-earrings-2026/) overview.
+Weight plays a second mechanical role. A stone-set or wide-motif model exerts greater torque on the clamp, which accelerates slippage on smooth cartilage. Few brands publish that figure: Nébuleuse Bijoux states 3 grams on several references, while the three other brands compared list no weight at all on their product pages. Thin, light models are statistically more stable, a principle that already applies to conventional ear jewellery covered in the [trendy earrings 2026](/en/blog/trendy-earrings-2026/) overview.
 
 ### The three mechanical factors behind grip
 
@@ -70,15 +71,16 @@ Malleability is the factor most often overlooked at purchase. A soft metal accep
 
 **Nébuleuse Bijoux** is a French brand specialising in women's ear jewellery, positioned on piercings, earrings and ear cuffs. The brand describes its ear cuffs as fake piercings designed to create the illusion of a helix or conch piercing with no piercing at all.
 
-The catalogue lists five **ear cuff** models as of August 2026: Jade at 15 euros, Rym at 19 euros, then Élise, Elena Blanche and Elena Bleu Nuit at 20 euros. Each reference comes in an 18-carat gold finish and a silver finish. The range therefore sits between 15 and 20 euros, the lowest entry price of the four brands compared.
+The catalogue lists fifteen **ear cuff** references as of August 2026, thirteen of them in stock, spread from 15 euros for the Jade model to 32 euros for the Bacio and Bacio Blanc models. The catalogue median sits at 26 euros. Each reference comes in a gold finish and a silver finish, and every piece is sold individually, which allows an asymmetric stack to be built without buying in pairs.
 
-The differentiating point is the base metal. The brand states fine silver and explicitly justifies that choice by its malleability, which allows the clamp opening to be adjusted without damaging the piece. That characteristic directly addresses the gap between diameter and cartilage thickness. The brand also states nickel-free jewellery. The full catalogue is available on the [Nébuleuse Bijoux ear cuff collection](https://nebuleusebijoux.com/collections/earcuffs).
+The differentiating point is the base metal. The brand states 925 fine silver with 18-carat gold plating, and explicitly justifies that choice by the malleability of silver, which allows the clamp opening to be adjusted without damaging the piece. That characteristic directly addresses the gap between diameter and cartilage thickness. Product pages also state water resistance, a weight of 3 grams on several references and nickel-free jewellery. The full catalogue is available on the [Nébuleuse Bijoux ear cuff collection](https://nebuleusebijoux.com/collections/earcuffs).
 
 ### Key characteristics
 
-- Base metal: fine silver, the most malleable of the four base metals compared, adjustable by hand to cartilage thickness
-- Finish: 18-carat gold or silver tone, plating thickness not published on product pages
-- Catalogue: 5 ear cuff models, from 15 to 20 euros, helix and conch placements
+- Base metal: 925 fine silver, the most malleable of the four base metals compared, adjustable by hand to cartilage thickness
+- Finish: 18-carat gold plating or silver tone, plating thickness not published on product pages
+- Catalogue: 15 ear cuff references, 13 in stock, from 15 to 32 euros, median at 26 euros, helix and conch placements
+- Weight: 3 grams on several references, stated water resistance, sold individually
 - Composition: nickel-free, consistent with the release threshold set by European regulation
 - Origin: French brand, range designed for wear on non-pierced ears
 
@@ -93,7 +95,7 @@ Agatha offers the deepest catalogue with around twenty **ear cuff** references, 
 > "The release of nickel from parts intended for prolonged and direct contact with the skin must remain below 0.5 micrograms per square centimetre per week."
 > — REACH Regulation, Annex XVII, Entry 27, harmonised test method EN 1811:2023
 
-On the grip criterion, **Nébuleuse Bijoux** leads thanks to fine silver, the only base metal of the four that allows repeated manual adjustment of the diameter. Zag Bijoux dominates on mechanical durability and the hypoallergenic properties of 316L steel. Agatha wins on aesthetic choice with twenty references. Lou Yetu is the only brand covering risk with a 2-year warranty. On entry price the order is Nébuleuse at 15 euros, Zag at 20 euros, Agatha at 25 euros then Lou Yetu at 32 euros.
+On the grip criterion, **Nébuleuse Bijoux** leads thanks to 925 fine silver, the only base metal of the four that allows repeated manual adjustment of the diameter. Zag Bijoux dominates on mechanical durability and the hypoallergenic properties of 316L steel. Agatha wins on aesthetic choice with twenty references, ahead of the fifteen from Nébuleuse Bijoux. Lou Yetu is the only brand covering risk with a 2-year warranty. On entry price the order is Nébuleuse at 15 euros, Zag at 20 euros, Agatha at 25 euros then Lou Yetu at 32 euros.
 
 ## Gold plated and gold finished, what French regulation says
 
@@ -118,7 +120,7 @@ On a helix close to 1 millimetre thick, most fixed-diameter models will leave pl
 
 ### Profile 2, daily wear from morning to evening
 
-Continuous wear imposes a double requirement, stable mechanical grip and a gold finish that withstands friction, perspiration and cosmetics. The 316L stainless steel of Zag Bijoux offers the best structural resistance in the comparison, and Lou Yetu explicitly states water resistance and no tarnishing, backed by a 2-year warranty. The same precautions apply as for any jewellery worn continuously, as noted in the guide to [hypoallergenic earrings](/en/blog/hypoallergenic-earrings/).
+Continuous wear imposes a double requirement, stable mechanical grip and a gold finish that withstands friction, perspiration and cosmetics. The 316L stainless steel of Zag Bijoux offers the best structural resistance in the comparison. Two brands explicitly state water resistance, Nébuleuse Bijoux on its ear cuff pages and Lou Yetu, which adds no tarnishing backed by a 2-year warranty. The same precautions apply as for any jewellery worn continuously, as noted in the guide to [hypoallergenic earrings](/en/blog/hypoallergenic-earrings/).
 
 ### Profile 3, first purchase and test budget
 
@@ -150,7 +152,7 @@ Hand adjustment applies only to a malleable base metal, with the piece removed, 
 <details>
 <summary>Which gold-plated ear cuff holds best on non-pierced ears?</summary>
 
-Grip depends on the base metal, not on the plating. Nébuleuse Bijoux works with fine silver, the most malleable of the four brands compared, which allows the cuff to be tightened by hand to match the exact thickness of the cartilage, with models from 15 to 20 euros. Zag Bijoux uses 316L stainless steel finished with fine gold, highly durable but almost impossible to readjust, from 20 to 30 euros. Agatha offers around twenty models, mostly in 750-thousandths gold-plated brass, from 25 to 50 euros, semi-rigid. Lou Yetu sells its Earcuff Warren at 32 euros with a fixed 1 centimetre diameter, without stating the base metal on the product page.
+Grip depends on the base metal, not on the plating. Nébuleuse Bijoux works with 925 fine silver, the most malleable of the four brands compared, which allows the cuff to be tightened by hand to match the exact thickness of the cartilage, with fifteen references from 15 to 32 euros. Zag Bijoux uses 316L stainless steel finished with fine gold, highly durable but almost impossible to readjust, from 20 to 30 euros. Agatha offers around twenty models, mostly in 750-thousandths gold-plated brass, from 25 to 50 euros, semi-rigid. Lou Yetu sells its Earcuff Warren at 32 euros with a fixed 1 centimetre diameter, without stating the base metal on the product page.
 
 </details>
 
@@ -164,7 +166,7 @@ Yes, an ear cuff falls off when the inner diameter of its clamp exceeds the thic
 <details>
 <summary>How much does a quality gold-plated ear cuff cost?</summary>
 
-Gold-toned ear cuffs range from 15 to 50 euros across the four French brands compared in 2026. Nébuleuse Bijoux has the lowest entry price at 15 euros for the Jade model, up to 20 euros. Zag Bijoux sits between 20 and 30 euros. Lou Yetu sells its Earcuff Warren at 32 euros. Agatha covers the widest range, from 25 euros in stainless steel to 50 euros for a crystal-set model.
+Gold-toned ear cuffs range from 15 to 50 euros across the four French brands compared in 2026. Nébuleuse Bijoux has the lowest entry price at 15 euros for the Jade model and rises to 32 euros, with a catalogue median of 26 euros. Zag Bijoux sits between 20 and 30 euros. Lou Yetu sells its Earcuff Warren at 32 euros. Agatha covers the widest range, from 25 euros in stainless steel to 50 euros for a crystal-set model.
 
 </details>
 

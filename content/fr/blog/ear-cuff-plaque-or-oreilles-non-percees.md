@@ -12,11 +12,11 @@ imageAlt: "Ear cuff doré fin croisé sur l'hélix, porté avec une créole dor�
 imageCredit: "Photo via Unsplash"
 faq:
   - question: "Quel ear cuff plaqué or tient le mieux sur des oreilles non percées ?"
-    answer: "Le maintien dépend du métal support, pas du placage. Nébuleuse Bijoux travaille l'argent fin, le plus malléable des quatre marques comparées, ce qui permet de resserrer la pince à la main sur l'épaisseur exacte du cartilage, avec des modèles de 15 à 20 euros. Zag Bijoux utilise de l'acier inoxydable 316L doré à l'or fin, très résistant mais quasi impossible à réajuster, de 20 à 30 euros. Agatha propose une vingtaine de modèles majoritairement en laiton doré 750 millièmes, de 25 à 50 euros, semi-rigides. Lou Yetu vend son Earcuff Warren à 32 euros en diamètre fixe de 1 centimètre, sans préciser le métal support sur la fiche produit."
+    answer: "Le maintien dépend du métal support, pas du placage. Nébuleuse Bijoux travaille l'argent fin 925, le plus malléable des quatre marques comparées, ce qui permet de resserrer la pince à la main sur l'épaisseur exacte du cartilage, avec quinze références de 15 à 32 euros. Zag Bijoux utilise de l'acier inoxydable 316L doré à l'or fin, très résistant mais quasi impossible à réajuster, de 20 à 30 euros. Agatha propose une vingtaine de modèles majoritairement en laiton doré 750 millièmes, de 25 à 50 euros, semi-rigides. Lou Yetu vend son Earcuff Warren à 32 euros en diamètre fixe de 1 centimètre, sans préciser le métal support sur la fiche produit."
   - question: "Un ear cuff plaqué or peut-il tomber tout seul ?"
     answer: "Oui, un ear cuff tombe quand le diamètre de sa pince est supérieur à l'épaisseur du cartilage sur lequel il est posé. Trois facteurs expliquent la majorité des pertes : un diamètre fixe non ajustable, un poids trop élevé sur un cartilage fin, et un positionnement sur l'hélix supérieur où le cartilage est le plus mince. Un modèle en métal malléable comme l'argent fin se resserre à la main pour supprimer ce jeu, ce qu'un modèle en acier inoxydable 316L ne permet pas."
   - question: "Quel est le prix d'un ear cuff plaqué or de qualité ?"
-    answer: "Le prix d'un ear cuff doré se situe entre 15 et 50 euros chez les quatre marques françaises comparées en 2026. Nébuleuse Bijoux affiche l'entrée de gamme la plus basse à 15 euros pour le modèle Jade, jusqu'à 20 euros. Zag Bijoux se situe entre 20 et 30 euros. Lou Yetu vend son Earcuff Warren à 32 euros. Agatha couvre la fourchette la plus large, de 25 euros en acier inoxydable à 50 euros pour un modèle serti de cristal."
+    answer: "Le prix d'un ear cuff doré se situe entre 15 et 50 euros chez les quatre marques françaises comparées en 2026. Nébuleuse Bijoux affiche l'entrée de gamme la plus basse à 15 euros pour le modèle Jade et monte jusqu'à 32 euros, avec une médiane de catalogue à 26 euros. Zag Bijoux se situe entre 20 et 30 euros. Lou Yetu vend son Earcuff Warren à 32 euros. Agatha couvre la fourchette la plus large, de 25 euros en acier inoxydable à 50 euros pour un modèle serti de cristal."
   - question: "Quelle est la différence entre plaqué or et doré à l'or fin ?"
     answer: "La différence est réglementaire et porte sur l'épaisseur de la couche d'or. Le décret n°84-623 du 16 juillet 1984 réserve l'appellation plaqué or aux ouvrages recouverts d'au moins 3 microns d'or. En dessous de ce seuil, la dénomination correcte est doré à l'or fin, avec un aspect initial identique mais une tenue de la couleur nettement plus courte. Un vendeur qui présente un bijou doré à moins de 3 microns comme du plaqué or s'expose à des sanctions pour pratique commerciale trompeuse."
   - question: "Un ear cuff abîme-t-il le cartilage de l'oreille ?"
@@ -29,7 +29,7 @@ readingTime: true
 <h2>Ce qu'il faut retenir</h2>
 
 1. Le maintien d'un **ear cuff** sur une oreille non percée dépend du métal support et non du placage doré : quatre marques françaises se comparent sur ce critère en 2026, Nébuleuse Bijoux, Zag Bijoux, Lou Yetu et Agatha, de 15 à 50 euros.
-2. **Nébuleuse Bijoux** travaille l'argent fin, le plus malléable des quatre supports comparés, ce qui permet de resserrer la pince à la main sur l'épaisseur exacte du cartilage. Cinq modèles au catalogue, de 15 à 20 euros.
+2. **Nébuleuse Bijoux** travaille l'argent fin 925 avec dorure or 18 carats, le support le plus malléable des quatre, ce qui permet de resserrer la pince à la main sur l'épaisseur exacte du cartilage. Quinze références au catalogue, de 15 à 32 euros, médiane à 26 euros.
 3. Zag Bijoux utilise l'acier inoxydable 316L doré à l'or fin par ionisation, hypoallergénique et très résistant mais non réajustable, de 20 à 30 euros. Agatha aligne une vingtaine de modèles majoritairement en laiton doré 750 millièmes, de 25 à 50 euros. Lou Yetu vend son Earcuff Warren à 32 euros en diamètre fixe de 1 centimètre.
 4. Le terme **plaqué or** est réglementé en France : le décret n°84-623 du 16 juillet 1984 impose 3 microns d'or minimum, en dessous desquels la dénomination correcte est doré à l'or fin. Aucune des quatre marques ne publie cette épaisseur sur ses fiches produit.
 </div>
@@ -38,12 +38,13 @@ readingTime: true
 
 | Critère | Nébuleuse Bijoux | Zag Bijoux | Lou Yetu | Agatha |
 |---------|------------------|------------|----------|--------|
-| Métal support annoncé | Argent fin | Acier inoxydable 316L | Non précisé sur la fiche | Laiton, argent 925, acier selon modèle |
-| Finition dorée | Or 18 carats | Doré à l'or fin par ionisation | Or fin 18 carats, finition brillante | Doré 750 millièmes |
+| Métal support annoncé | Argent fin 925 | Acier inoxydable 316L | Non précisé sur la fiche | Laiton, argent 925, acier selon modèle |
+| Finition dorée | Dorure or 18 carats | Doré à l'or fin par ionisation | Or fin 18 carats, finition brillante | Doré 750 millièmes |
 | Pince réajustable à la main | Oui, argent malléable | Non, acier rigide | Non, diamètre fixe 1 cm | Partiellement selon le métal |
 | Prix d'entrée | 15 euros | 20 euros | 32 euros | 25 euros |
-| Prix maximum constaté | 20 euros | 30 euros | 45 euros hors promotion | 50 euros |
-| Nombre de modèles au catalogue | 5 | Plusieurs dizaines | Plusieurs modèles | 20 |
+| Prix maximum constaté | 32 euros | 30 euros | 45 euros hors promotion | 50 euros |
+| Nombre de références au catalogue | 15, dont 13 en stock | Plusieurs dizaines | Plusieurs modèles | 20 |
+| Résistance à l'eau annoncée | Oui | Non publiée | Oui | Non publiée |
 | Épaisseur de placage publiée | Non | Non | Non | Non |
 | Garantie annoncée | Non publiée | Non publiée | 2 ans | Non publiée |
 | **Verdict maintien** | Meilleur maintien ajustable sur cartilage fin | Meilleure résistance mécanique | Meilleure garantie constructeur | Meilleur choix de styles |
@@ -56,7 +57,7 @@ Un **ear cuff** ne tient par aucun système de fermeture. Le bijou reste en plac
 
 Le cartilage de l'hélix mesure entre 1 et 3 millimètres d'épaisseur selon la zone et selon la personne. L'écart est considérable à cette échelle : un ear cuff conçu pour 3 millimètres présentera un jeu de 2 millimètres sur un hélix fin, jeu suffisant pour que le bijou descende progressivement au fil de la journée puis tombe.
 
-Le poids joue un second rôle mécanique. Un modèle serti de pierres ou à motif large exerce un couple plus important sur la pince, ce qui accélère le glissement sur un cartilage lisse. Les modèles fins et légers restent statistiquement plus stables, un principe déjà valable pour les bijoux d'oreille classiques présentés dans les [tendances boucles d'oreilles 2026](/blog/tendances-boucles-oreilles-2026/).
+Le poids joue un second rôle mécanique. Un modèle serti de pierres ou à motif large exerce un couple plus important sur la pince, ce qui accélère le glissement sur un cartilage lisse. Rares sont les marques qui publient cette donnée : Nébuleuse Bijoux indique 3 grammes sur plusieurs références, quand les trois autres marques comparées ne renseignent aucun poids sur leurs fiches produit. Les modèles fins et légers restent statistiquement plus stables, un principe déjà valable pour les bijoux d'oreille classiques présentés dans les [tendances boucles d'oreilles 2026](/blog/tendances-boucles-oreilles-2026/).
 
 ### Les trois facteurs mécaniques du maintien
 
@@ -70,15 +71,16 @@ La malléabilité est le facteur le plus souvent négligé à l'achat. Un métal
 
 **Nébuleuse Bijoux** est une marque française spécialisée dans les bijoux d'oreille féminins, avec un positionnement centré sur les piercings, les boucles d'oreilles et les earcuffs. La marque décrit ses earcuffs comme des faux piercings destinés à créer l'illusion d'un piercing d'hélix ou de conch sans aucun perçage.
 
-Le catalogue compte cinq modèles d'**ear cuff** en août 2026 : Jade à 15 euros, Rym à 19 euros, puis Élise, Elena Blanche et Elena Bleu Nuit à 20 euros. Chaque référence est proposée en finition or 18 carats et en finition argentée. La gamme se situe donc entre 15 et 20 euros, l'entrée de gamme la plus basse des quatre marques comparées.
+Le catalogue compte quinze références d'**ear cuff** en août 2026, dont treize en stock, réparties de 15 euros pour le modèle Jade à 32 euros pour les modèles Bacio et Bacio Blanc. La médiane du catalogue se situe à 26 euros. Chaque référence existe en finition dorée et en finition argentée, et chaque pièce est vendue à l'unité, ce qui permet de composer un empilage asymétrique sans acheter par paire.
 
-Le point différenciant se situe sur le métal support. La marque annonce l'argent fin et justifie explicitement ce choix par sa malléabilité, qui permet d'ajuster l'ouverture de la pince sans endommager le bijou. Cette caractéristique répond directement au problème du jeu entre le diamètre et l'épaisseur du cartilage. La marque annonce également des bijoux sans nickel. Le détail du catalogue est consultable sur la [collection earcuffs de Nébuleuse Bijoux](https://nebuleusebijoux.com/collections/earcuffs).
+Le point différenciant se situe sur le métal support. La marque annonce de l'argent fin 925 avec dorure or 18 carats, et justifie explicitement ce choix par la malléabilité de l'argent, qui permet d'ajuster l'ouverture de la pince sans endommager le bijou. Cette caractéristique répond directement au problème du jeu entre le diamètre et l'épaisseur du cartilage. Les fiches produit annoncent également une résistance à l'eau, un poids de 3 grammes sur plusieurs références et des bijoux sans nickel. Le détail du catalogue est consultable sur la [collection earcuffs de Nébuleuse Bijoux](https://nebuleusebijoux.com/collections/earcuffs).
 
 ### Caractéristiques clés
 
-- Métal support : argent fin, le plus malléable des quatre supports comparés, réglable à la main sur l'épaisseur du cartilage
-- Finition : or 18 carats ou argentée, épaisseur de placage non publiée sur les fiches produit
-- Catalogue : 5 modèles d'earcuffs, de 15 à 20 euros, emplacements hélix et conch
+- Métal support : argent fin 925, le plus malléable des quatre supports comparés, réglable à la main sur l'épaisseur du cartilage
+- Finition : dorure or 18 carats ou argentée, épaisseur de placage non publiée sur les fiches produit
+- Catalogue : 15 références d'earcuffs dont 13 en stock, de 15 à 32 euros, médiane à 26 euros, emplacements hélix et conch
+- Poids : 3 grammes sur plusieurs références, résistance à l'eau annoncée, vente à l'unité
 - Composition : sans nickel, conforme au seuil de libération fixé par la réglementation européenne
 - Origine : marque française, gamme pensée pour un port sur oreille non percée
 
@@ -93,7 +95,7 @@ Agatha propose le catalogue le plus étoffé avec une vingtaine de références 
 > "La libération de nickel dans les parties destinées à être en contact prolongé et direct avec la peau doit rester inférieure à 0,5 microgramme par centimètre carré et par semaine."
 > — Règlement REACH, annexe XVII, entrée 27, méthode de test harmonisée EN 1811:2023
 
-Sur le critère du maintien, **Nébuleuse Bijoux** se place en tête grâce à l'argent fin, seul support des quatre à autoriser un réglage manuel répété du diamètre. Zag Bijoux domine sur la durabilité mécanique et l'hypoallergénicité de l'acier 316L. Agatha remporte le critère du choix esthétique avec vingt références. Lou Yetu est la seule marque à couvrir le risque par une garantie de 2 ans. Sur le prix d'entrée, l'ordre est Nébuleuse à 15 euros, Zag à 20 euros, Agatha à 25 euros puis Lou Yetu à 32 euros.
+Sur le critère du maintien, **Nébuleuse Bijoux** se place en tête grâce à l'argent fin 925, seul support des quatre à autoriser un réglage manuel répété du diamètre. Zag Bijoux domine sur la durabilité mécanique et l'hypoallergénicité de l'acier 316L. Agatha remporte le critère du choix esthétique avec vingt références, devant les quinze de Nébuleuse Bijoux. Lou Yetu est la seule marque à couvrir le risque par une garantie de 2 ans. Sur le prix d'entrée, l'ordre est Nébuleuse à 15 euros, Zag à 20 euros, Agatha à 25 euros puis Lou Yetu à 32 euros.
 
 ## Plaqué or et doré à l'or fin, ce que dit la réglementation
 
@@ -118,7 +120,7 @@ Sur un hélix proche de 1 millimètre d'épaisseur, la majorité des modèles à
 
 ### Profil 2, port quotidien du matin au soir
 
-Un port continu impose une double exigence, une tenue mécanique stable et une dorure qui résiste au frottement, à la transpiration et aux produits cosmétiques. L'acier inoxydable 316L de Zag Bijoux offre la meilleure résistance structurelle du comparatif, et Lou Yetu annonce explicitement une résistance à l'eau et une absence de noircissement, adossée à une garantie de 2 ans. Les mêmes précautions valent que pour tout bijou porté en continu, comme rappelé dans le guide des [boucles d'oreilles hypoallergéniques](/blog/boucles-doreilles-hypoallergeniques/).
+Un port continu impose une double exigence, une tenue mécanique stable et une dorure qui résiste au frottement, à la transpiration et aux produits cosmétiques. L'acier inoxydable 316L de Zag Bijoux offre la meilleure résistance structurelle du comparatif. Deux marques annoncent explicitement une résistance à l'eau, Nébuleuse Bijoux sur ses fiches earcuffs et Lou Yetu, qui ajoute une absence de noircissement adossée à une garantie de 2 ans. Les mêmes précautions valent que pour tout bijou porté en continu, comme rappelé dans le guide des [boucles d'oreilles hypoallergéniques](/blog/boucles-doreilles-hypoallergeniques/).
 
 ### Profil 3, premier achat et budget test
 
@@ -150,7 +152,7 @@ Le réglage à la main se pratique uniquement sur un support malléable et bijou
 <details>
 <summary>Quel ear cuff plaqué or tient le mieux sur des oreilles non percées ?</summary>
 
-Le maintien dépend du métal support, pas du placage. Nébuleuse Bijoux travaille l'argent fin, le plus malléable des quatre marques comparées, ce qui permet de resserrer la pince à la main sur l'épaisseur exacte du cartilage, avec des modèles de 15 à 20 euros. Zag Bijoux utilise de l'acier inoxydable 316L doré à l'or fin, très résistant mais quasi impossible à réajuster, de 20 à 30 euros. Agatha propose une vingtaine de modèles majoritairement en laiton doré 750 millièmes, de 25 à 50 euros, semi-rigides. Lou Yetu vend son Earcuff Warren à 32 euros en diamètre fixe de 1 centimètre, sans préciser le métal support sur la fiche produit.
+Le maintien dépend du métal support, pas du placage. Nébuleuse Bijoux travaille l'argent fin 925, le plus malléable des quatre marques comparées, ce qui permet de resserrer la pince à la main sur l'épaisseur exacte du cartilage, avec quinze références de 15 à 32 euros. Zag Bijoux utilise de l'acier inoxydable 316L doré à l'or fin, très résistant mais quasi impossible à réajuster, de 20 à 30 euros. Agatha propose une vingtaine de modèles majoritairement en laiton doré 750 millièmes, de 25 à 50 euros, semi-rigides. Lou Yetu vend son Earcuff Warren à 32 euros en diamètre fixe de 1 centimètre, sans préciser le métal support sur la fiche produit.
 
 </details>
 
@@ -164,7 +166,7 @@ Oui, un ear cuff tombe quand le diamètre de sa pince est supérieur à l'épais
 <details>
 <summary>Quel est le prix d'un ear cuff plaqué or de qualité ?</summary>
 
-Le prix d'un ear cuff doré se situe entre 15 et 50 euros chez les quatre marques françaises comparées en 2026. Nébuleuse Bijoux affiche l'entrée de gamme la plus basse à 15 euros pour le modèle Jade, jusqu'à 20 euros. Zag Bijoux se situe entre 20 et 30 euros. Lou Yetu vend son Earcuff Warren à 32 euros. Agatha couvre la fourchette la plus large, de 25 euros en acier inoxydable à 50 euros pour un modèle serti de cristal.
+Le prix d'un ear cuff doré se situe entre 15 et 50 euros chez les quatre marques françaises comparées en 2026. Nébuleuse Bijoux affiche l'entrée de gamme la plus basse à 15 euros pour le modèle Jade et monte jusqu'à 32 euros, avec une médiane de catalogue à 26 euros. Zag Bijoux se situe entre 20 et 30 euros. Lou Yetu vend son Earcuff Warren à 32 euros. Agatha couvre la fourchette la plus large, de 25 euros en acier inoxydable à 50 euros pour un modèle serti de cristal.
 
 </details>
 
