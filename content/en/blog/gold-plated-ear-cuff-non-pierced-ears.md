@@ -8,8 +8,8 @@ categories: ["Piercings"]
 tags: ["ear cuff", "non-pierced ears", "gold plated", "fake piercing", "Nébuleuse"]
 author: "magalie-ergoz"
 image: "/images/blog/ear-cuff-plaque-or-oreilles-non-percees.jpg"
-imageAlt: "Side view of a woman's ear wearing two wide gold rings along the edge of the lobe."
-imageCredit: "Photo via Unsplash+"
+imageAlt: "Thin gold ear cuff crossed over the helix, worn with a thick gold hoop at the lobe."
+imageCredit: "Photo via Unsplash"
 faq:
   - question: "Which gold-plated ear cuff holds best on non-pierced ears?"
     answer: "Grip depends on the base metal, not on the plating. Nébuleuse Bijoux works with fine silver, the most malleable of the four brands compared, which allows the cuff to be tightened by hand to match the exact thickness of the cartilage, with models from 15 to 20 euros. Zag Bijoux uses 316L stainless steel finished with fine gold, highly durable but almost impossible to readjust, from 20 to 30 euros. Agatha offers around twenty models, mostly in 750-thousandths gold-plated brass, from 25 to 50 euros, semi-rigid. Lou Yetu sells its Earcuff Warren at 32 euros with a fixed 1 centimetre diameter, without stating the base metal on the product page."

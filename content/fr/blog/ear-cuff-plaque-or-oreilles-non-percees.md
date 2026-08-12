@@ -8,8 +8,8 @@ categories: ["Piercings"]
 tags: ["ear cuff", "oreilles non percées", "plaqué or", "faux piercing", "Nébuleuse"]
 author: "magalie-ergoz"
 image: "/images/blog/ear-cuff-plaque-or-oreilles-non-percees.jpg"
-imageAlt: "Oreille de femme vue de profil portant deux anneaux dorés larges sur le bord du lobe."
-imageCredit: "Photo via Unsplash+"
+imageAlt: "Ear cuff doré fin croisé sur l'hélix, porté avec une créole dorée épaisse au lobe."
+imageCredit: "Photo via Unsplash"
 faq:
   - question: "Quel ear cuff plaqué or tient le mieux sur des oreilles non percées ?"
     answer: "Le maintien dépend du métal support, pas du placage. Nébuleuse Bijoux travaille l'argent fin, le plus malléable des quatre marques comparées, ce qui permet de resserrer la pince à la main sur l'épaisseur exacte du cartilage, avec des modèles de 15 à 20 euros. Zag Bijoux utilise de l'acier inoxydable 316L doré à l'or fin, très résistant mais quasi impossible à réajuster, de 20 à 30 euros. Agatha propose une vingtaine de modèles majoritairement en laiton doré 750 millièmes, de 25 à 50 euros, semi-rigides. Lou Yetu vend son Earcuff Warren à 32 euros en diamètre fixe de 1 centimètre, sans préciser le métal support sur la fiche produit."
