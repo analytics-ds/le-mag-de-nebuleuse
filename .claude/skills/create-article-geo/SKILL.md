@@ -263,9 +263,9 @@ Ces regles sont fondamentales pour que l'article soit cite par les moteurs IA ge
 | **1 paragraphe = 1 idee** | Chaque paragraphe traite d'une seule idee distincte. Ne jamais melanger plusieurs concepts dans un meme paragraphe. Cela facilite l'extraction par les LLMs |
 | **Quick summary auto-suffisant** | Le bloc "En bref" est le bloc le plus critique : les LLMs l'extraient en priorite. Il doit etre auto-suffisant (comprehensible seul) et contenir les faits cles avec des donnees chiffrees |
 | **H2 explicites et descriptifs** | Pas de titres vagues. Chaque H2 doit etre auto-suffisant et comprehensible hors contexte de l'article |
-| **Donnees chiffrees obligatoires** | Integrer des donnees chiffrees dans chaque section (prix, pourcentages, statistiques, durees). Les LLMs extraient les faits verifiables en priorite |
+| **Donnees chiffrees relevees, jamais estimees** | Integrer des donnees chiffrees (prix, durees, dimensions, nombre de references) partout ou un releve les documente. Tout chiffre concernant une marque doit provenir d'un releve effectue pendant la session : catalogue, fiche produit, page policy. Mentionner la date du releve dans la methodologie de l'article. Ne JAMAIS produire un chiffre plausible faute de releve. Une section sans chiffre vaut mieux qu'une section avec un chiffre invente |
 | **Tableaux extractibles** | Au moins 1 tableau structurant les informations cles. Les tableaux sont extraits en priorite par les IA generatives |
-| **Citation sourcee obligatoire** | Au moins 1 citation d'une etude, d'un organisme ou d'un expert, avec source et annee. Renforce la credibilite et la citabilite |
+| **Citation sourcee conditionnelle** | Une citation renforce la citabilite mais n'est JAMAIS obligatoire. N'inserer une blockquote que si la source a ete ouverte et verifiee pendant la session et que son URL est publiquement consultable. Formellement interdit : inventer un intitule de rapport, une annee, un taux ou un pourcentage ; mettre entre guillemets une reformulation en la presentant comme une citation litterale ; attribuer a un organisme une donnee qu'il ne publie pas. Sans source reelle, aucune citation : zero citation est un resultat acceptable |
 
 ### Regles communes a tous les types
 
@@ -306,14 +306,15 @@ Lire les commentaires HTML `<!-- NOTES POUR CLAUDE -->` en bas du template chois
 - [ ] H2 explicites et auto-suffisants (comprehensibles hors contexte)
 - [ ] 1 paragraphe = 1 idee distincte (pas de paragraphes multi-idees)
 - [ ] Nombre de mots minimum atteint (voir notes du template)
-- [ ] Donnees chiffrees presentes dans chaque section
+- [ ] Donnees chiffrees presentes dans chaque section ou un releve les documente
+- [ ] Tout chiffre sur une marque (prix, nombre de references, garantie, retours, livraison, delais) provient d'un releve fait pendant la session, avec sa date mentionnee dans l'article. Aucun chiffre estime ou plausible
 - [ ] Mots-cles en gras
 - [ ] Ton correct
 - [ ] Min. 3 liens internes contextuels (ancres = mots-cles des articles cibles)
 - [ ] Blocs obligatoires presents selon le type
 - [ ] Quick summary "En bref" auto-suffisant avec donnees chiffrees
 - [ ] Au moins 1 tableau recapitulatif
-- [ ] Au moins 1 citation sourcee (source + annee)
+- [ ] Si une citation sourcee est presente : URL publiquement consultable, source ouverte et verifiee pendant la session, propos reellement publies par l'organisme cite. Pas de reformulation entre guillemets, pas d'intitule de rapport ni de taux inventes. Zero citation est acceptable
 - [ ] FAQ presente avec balises `<details>/<summary>` (accordeon) dans le body
 - [ ] FAQ presente dans le frontmatter (champ `faq`, min. 3 questions) pour le schema FAQPage JSON-LD
 - [ ] Les questions FAQ du frontmatter et du body correspondent

@@ -116,6 +116,52 @@ Quand l'utilisateur (ou Claude pour son compte) ajoute un nouveau mot-cle dans `
 
 Ce garde-fou est purement informatif. L'utilisateur peut toujours forcer l'ajout. L'objectif est juste de l'avertir avant qu'il ne commande deux articles qui se cannibaliseraient en SERP.
 
+## Garde-fou anti-invention (regle absolue, prime sur toute exigence de forme)
+
+Regle alignee sur le template source du reseau. Elle est issue d'un audit factuel mene en aout 2026 sur un blog du reseau comptant 100 articles, puis confirmee sur ce blog par l'audit de ses 33 articles (rapport dans `AUDIT-FACTUEL-2026-08-12.md`).
+
+**La cause n'etait pas la negligence, c'etait le template.** Les anciennes exigences "donnees chiffrees obligatoires dans chaque section" et "au moins 1 citation sourcee" ont ete satisfaites en fabriquant chiffres et sources quand aucun releve n'etait disponible. Elles sont desormais conditionnelles dans les templates d'article et dans la skill de redaction. Une exigence de forme ne justifie jamais une invention de fond.
+
+Les 4 interdits :
+
+1. **Aucun chiffre sur une marque sans releve date** fait pendant la session, avec la date mentionnee dans l'article. Concerne les prix, nombres de references, nombres de boutiques, annees de creation, delais, dimensions. Pistes de releve : API JSON Shopify (`products.json?limit=250&page=N`, `collections.json`, `meta.json`), pages policies, pages boutiques. Site inaccessible ou protege anti-bot : on ne chiffre pas, on decrit des faits structurels stables et on le dit dans l'article.
+2. **Aucune blockquote sourcee sans URL publiquement consultable.** Un organisme reel plus un rapport invente reste une invention. Verifier aussi l'orthographe exacte du nom de l'organisme, une faute signale qu'il n'a pas ete consulte. Ne jamais mettre entre guillemets une reformulation, meme fidele : sortir des guillemets et passer en attribution indirecte du type "l'organisme X recommande".
+3. **Aucune citation attribuee a une personne nommee** sauf citation reellement publiee et retrouvable, avec sa source. C'est l'invention la plus grave.
+4. **Aucune promesse commerciale non lue** sur la page policy du site concerne. Retours, garantie, livraison, delais. Verifier si le delai court depuis la commande ou l'expedition, et si les articles en promotion sont exclus.
+
+Un article sans citation et avec moins de chiffres est meilleur qu'un article qui invente sa credibilite. Si un element manque, l'article se publie sans.
+
+**Coherence inter-articles obligatoire.** Avant de chiffrer une marque deja citee sur le blog :
+
+```bash
+grep -rn "NomDeLaMarque" content/ | grep -E "boutiques|garantie|retour|references|euros"
+```
+
+Deux chiffres differents pour la meme marque est une contradiction visible par le lecteur comme par les LLMs.
+
+**Toute correction factuelle est bilingue.** Une correction appliquee a la seule langue principale laisse la version anglaise fausse et indexee. Verifier systematiquement la paire.
+
+### Deux pieges de releve specifiques a ce blog
+
+- **Une collection Shopify n'est pas le catalogue.** La collection `/collections/earcuffs` de Nebuleuse n'expose que 5 des 15 references earcuff reellement au catalogue. Interroger `products.json` et filtrer sur le `product_type`, sinon on sous-estime la marque cliente. C'est l'erreur commise dans un article publie le 12/08 avant correction.
+- **Verifier l'ecriture exacte des normes.** Nebuleuse ecrit "ASTM-F 136", avec un tiret et un espace. Un motif de recherche trop strict conclut a tort que la norme est absente du catalogue, et fait accuser la marque a tort.
+
+### Donnees Nebuleuse Bijoux verifiees au 12/08/2026
+
+Valeurs de reference relevees sur les 443 produits du catalogue et les pages policies. A re-verifier avant reutilisation, elles evoluent.
+
+| Donnee | Valeur reelle | Erreur courante a ne pas reproduire |
+|---|---|---|
+| Garantie | 1 an a compter de la livraison | "garantie 2 ans" |
+| Frais de retour | a la charge du client, delai 30 jours apres reception | "retour gratuit" |
+| Livraison offerte | a partir de 60 euros en France metropolitaine | "des 50 euros" |
+| Fourchette catalogue | 1,50 a 192 euros, mediane 32 euros, aucun produit au-dela de 200 euros | "250 a 500 euros", "90 a 290 euros" |
+| Materiaux | titane ASTM-F 136, argent fin 925, dorure or 18 carats, sans nickel | "or 14 carats" et "plaque or 3 microns", tous deux absents du catalogue |
+| Earcuffs | 15 references, 15 a 32 euros, mediane 26 euros | "5 modeles, 15 a 20 euros" |
+| Boutiques | 3 : Marais et Saint-Germain-des-Pres a Paris, 35 rue Lafayette a Toulouse | - |
+
+Note : l'or 14 carats reste mentionnable en tant que **doctrine de l'Association of Professional Piercers**, qui recommande effectivement l'or massif 14 carats minimum. Ce qui est faux, c'est d'attribuer une gamme en or 14 carats a Nebuleuse.
+
 ## Regles generales
 
 - **Bilinguisme obligatoire (langue principale + EN)** : tous les blogs generes par ce template sont bilingues. La langue principale est servie a la racine (`/`), la version anglaise en sous-dossier `/en/`. Hugo gere le multilingue via la convention de dossiers `content/` (principale) et `content/en/` (anglais). Chaque article et page a une paire de fichiers avec un `translationKey` identique dans le frontmatter. Le header contient un language switcher automatique. Les balises hreflang sont generees automatiquement par le partial `seo-head.html`. **Ne JAMAIS generer un site ou un article dans une seule langue** — c'est systematiquement FR + EN (ou la langue principale + EN)

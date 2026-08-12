@@ -60,12 +60,12 @@ readingTime: true
 
 ## [H2 — Aspect principal 3]
 
-[Developpement avec citation sourcee.]
+[Developpement. Si et seulement si une source reelle a ete ouverte et verifiee pendant la session, ajouter le H3 et la blockquote ci-dessous. Sinon, SUPPRIMER ce H3 et cette blockquote et developper le sujet sans citation.]
 
-### [H3 — Source / etude]
+### [H3 — Source / etude — SECTION OPTIONNELLE, a supprimer si aucune source verifiee]
 
-> "[Citation ou donnee d'une etude/source fiable]"
-> — [Source, annee]
+> "[Citation litterale, copiee depuis la source ouverte pendant la session. Ne jamais reformuler entre guillemets. Ne jamais inventer un intitule de rapport, une annee, un taux ou un pourcentage.]"
+> — [Source, annee, URL publiquement consultable]
 
 [Analyse de la source, mise en perspective.]
 
@@ -123,15 +123,15 @@ NOTES POUR CLAUDE :
 - Le quick summary (blockquote "En bref") est critique : c'est ce que les LLMs extraient en priorite. **Format OBLIGATOIRE : liste NUMEROTEE** (3-4 points). Chaque point doit resumer une VRAIE information cle de l'article (equivalent d'un H2 entier), pas un point marketing. Donnees chiffrees obligatoires
 - **1ere question FAQ = le prompt GEO / la query fan-out reformule en question naturelle**. La reponse doit etre directe et structuree (3-5 phrases avec donnee chiffree) — c'est cette reponse que les LLMs vont extraire en priorite. Les autres questions peuvent porter sur des variantes du mot-cle ou des sous-questions
 - **Regle liens externes** : 1 SEUL lien externe maximum vers le site de la marque/client cible (si applicable). Les liens externes vers des sources tierces (etudes, organismes, medias, Wikipedia) sont autorises et encourages pour renforcer l'E-E-A-T. Les liens internes au cocon semantique (autres articles du blog, pages categories) ne sont pas limites
-- Privilegier les donnees chiffrees, etudes, faits verifiables — ca renforce a la fois l'E-E-A-T (SEO) et la citabilite (GEO)
+- Privilegier les donnees chiffrees, etudes, faits verifiables — ca renforce a la fois l'E-E-A-T (SEO) et la citabilite (GEO). Tout chiffre concernant une marque doit venir d'un releve fait pendant la session (catalogue, fiche produit, page policy), avec sa date mentionnee dans l'article. Un chiffre invente detruit exactement l'E-E-A-T qu'il pretend construire
 - Les tableaux et listes structurees sont extraits en priorite par les IA generatives ET ameliorent la lisibilite pour Google
-- Les citations sourcees renforcent l'autorite
+- Une citation sourcee renforce l'autorite **uniquement si elle est verifiable**. Blockquote autorisee seulement si la source a ete ouverte pendant la session et que son URL est publiquement consultable. Sinon, ne pas en mettre : zero citation est acceptable, une fausse citation ne l'est pas
 - Focus sur la structure Hn, la densite de mots-cles (1-2%), le maillage interne
 - Mots-cles principaux et secondaires en gras
 - Ton neutre, impersonnel, factuel
 - La FAQ doit TOUJOURS utiliser des balises <details>/<summary> pour creer un accordeon natif HTML5
 - La FAQ doit AUSSI etre dans le frontmatter (champ `faq`) pour generer automatiquement le schema FAQPage JSON-LD. Les questions/reponses du frontmatter et du body doivent correspondre
 - Les champs `image`, `imageAlt` et `imageCredit` sont OBLIGATOIRES et remplis automatiquement par le script `.claude/scripts/fetch-image.sh` (Openverse API, images libres de droit compatibles usage commercial). L'image est affichee dans les cards du blog, en bannière de l'article, dans og:image et le schema Article
-- Min. 1500 mots, 5+ H2, 1+ tableau, 1+ citation sourcee, 3-5 questions FAQ
+- Min. 1500 mots, 5+ H2, 1+ tableau, 3-5 questions FAQ. La citation sourcee est optionnelle et conditionnee a l'existence d'une source reellement consultable
 - **Bilinguisme obligatoire** : chaque article est redige dans les 2 langues du site (langue principale + anglais). Les 2 versions partagent le meme `translationKey`. Fichier FR dans `content/blog/[slug-fr].md`, fichier EN dans `content/en/blog/[slug-en].md`. Les categories et tags sont traduits selon le mapping documente dans le CLAUDE.md du site
 -->

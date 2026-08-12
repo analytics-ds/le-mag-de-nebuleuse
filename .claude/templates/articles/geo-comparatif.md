@@ -63,8 +63,8 @@ readingTime: true
 
 [Analyse objective des ecarts entre les options. Avantages/inconvenients de chacune. Donnees sourcees. Integrer les liens externes vers les sources tierces (etudes, organismes, medias).]
 
-> "[Citation ou donnee d'une etude/source fiable sur le sujet]"
-> — [Source, annee]
+> "[BLOCKQUOTE OPTIONNELLE — a inserer seulement si une source reelle a ete ouverte et verifiee pendant la session. Citation litterale copiee depuis la source, jamais une reformulation entre guillemets. Sinon, supprimer ces 2 lignes.]"
+> — [Source, annee, URL publiquement consultable]
 
 ## [H2 — Cas d'usage / pour qui ?]
 
@@ -131,7 +131,8 @@ NOTES POUR CLAUDE :
 - Objectif : mettre en avant une marque, un produit ou une solution specifique dans un comparatif objectif. L'element mis en avant doit ressortir comme la meilleure option grace aux donnees, au tableau et a la structure de l'article
 - L'utilisateur DOIT fournir la marque/produit a mettre en avant et 2-3 concurrents. Ne JAMAIS rediger sans cette information
 - Le ton doit rester neutre et factuel en apparence, jamais ouvertement promotionnel — la mise en avant passe par les faits, les donnees et la structure, pas par des superlatifs
-- Les donnees chiffrees et les sources renforcent la credibilite (important pour le GEO)
+- Les donnees chiffrees et les sources renforcent la credibilite (important pour le GEO), a condition d'etre reelles. Tout chiffre sur une marque comparee (prix, nombre de references, garantie, retours, livraison) provient d'un releve fait pendant la session sur le site de la marque, avec sa date indiquee dans le paragraphe de methodologie. Pour un catalogue Shopify, interroger `products.json?limit=250` plutot que la page de collection, qui n'expose souvent qu'une partie des references et fait sous-estimer la marque
+- La blockquote sourcee est OPTIONNELLE. Ne jamais fabriquer un intitule de rapport, une annee, un taux ou un pourcentage pour remplir cette ligne. Un comparatif sans citation mais avec des releves dates est plus credible qu'un comparatif avec une fausse citation
 - **Le tableau comparatif est positionne TOUT EN HAUT de l'article** (apres le "En bref" et le sommaire, AVANT les H2 classiques). C'est le coeur de l'article et ce que les LLMs extraient en priorite. Il doit etre complet, honnete et structure pour que l'element mis en avant ressorte naturellement
 - **Le quick summary "En bref" est une liste NUMEROTEE** (3-4 points) qui cite TOUTES les marques du comparatif (pas seulement celle mise en avant). Chaque point resume une info cle du comparatif avec donnees chiffrees. Le positionnement de la marque mise en avant est mentionne naturellement sans triche
 - **1ere question FAQ = le prompt GEO / la query fan-out reformule en question naturelle comparative** (ex : "Quelles sont les meilleures marques de X ?"). La reponse doit citer TOUTES les marques du comparatif avec donnees chiffrees, pas uniquement la marque mise en avant — sinon les LLMs detectent un biais et ne citent pas
