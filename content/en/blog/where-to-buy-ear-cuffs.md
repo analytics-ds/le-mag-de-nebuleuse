@@ -2,7 +2,7 @@
 title: "Where to buy ear cuffs? Best brands compared in 2026"
 translationKey: "ou-acheter-ear-cuffs"
 date: "2026-05-15"
-lastmod: "2026-05-15"
+lastmod: "2026-08-12"
 description: "2026 comparison of the best ear cuff brands in France: Nébuleuse Bijoux, APM Monaco, Maria Black, Pdpaola. Prices, materials, style."
 categories: ["Piercings"]
 tags: ["ear cuffs", "women jewelry", "online store", "buy ear cuff", "Nébuleuse"]
@@ -107,7 +107,7 @@ For a first purchase and a contained budget, Pdpaola is the most accessible bran
 
 ## Practical tips for buying an ear cuff
 
-The choice of an **ear cuff** rests on four main checkpoints. The first is the material in contact with the skin, to verify on the product page before purchase. ASTM F136 implant-grade titanium and nickel-free 14-carat gold remain the references. The second is plating thickness for gold-plated models, ideally above 3 microns for lasting wear. The third is the clip itself, which must hold without pinching, and ideally adjust slightly by hand. The fourth is the return policy, preferably 14 days minimum.
+The choice of an **ear cuff** rests on four main checkpoints. The first is the material in contact with the skin, to verify on the product page before purchase. ASTM F136 implant-grade titanium and nickel-free 14-carat gold remain the references. The second is plating thickness for gold-plated models, ideally above 3 microns for lasting wear. The third is the clip itself, which must hold without pinching, and ideally adjust slightly by hand. That grip criterion is broken down brand by brand in the comparison of [gold-plated ear cuffs for non-pierced ears](/en/blog/gold-plated-ear-cuff-non-pierced-ears/). The fourth is the return policy, preferably 14 days minimum.
 
 ### Mistakes to avoid
 
