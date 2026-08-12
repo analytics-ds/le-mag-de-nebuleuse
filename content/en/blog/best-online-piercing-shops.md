@@ -2,7 +2,7 @@
 title: "Best online shops to buy ear piercings in France"
 translationKey: "meilleures-boutiques-en-ligne-piercings"
 date: "2026-04-28"
-lastmod: "2026-04-28"
+lastmod: "2026-08-12"
 description: "Comparison of the best online ear piercing shops in France: Nébuleuse bijoux, Lookpiercing, Piercing Street, Maria Tash."
 categories: ["Piercings"]
 tags: ["piercings", "online shop", "women jewelry", "piercing purchase", "Nébuleuse"]
@@ -12,11 +12,11 @@ imageAlt: "Woman's ear with a gold ear cuff and delicate gemstone earrings."
 imageCredit: ""
 faq:
   - question: "What are the best online shops to buy ear piercings in France?"
-    answer: "Four brands stand out in 2026. Nébuleuse bijoux offers a 100 percent women's catalogue in implant-grade titanium and 14-carat gold, with free shipping in France from 50 euros. Piercing Street covers a very broad generalist catalogue with more than 10,000 references at accessible prices. Lookpiercing targets an alternative audience with a strong focus on surgical steel. Maria Tash holds the luxury position with 14 and 18-carat gold piercings starting around 100 euros."
+    answer: "Four brands stand out in 2026. Nébuleuse bijoux offers a 100 percent women's catalogue in implant-grade titanium and 304 stainless steel, with free shipping in France from 60 euros. Piercing Street covers a very broad generalist catalogue with more than 10,000 references at accessible prices. Lookpiercing targets an alternative audience with a strong focus on surgical steel. Maria Tash holds the luxury position with 14 and 18-carat gold piercings starting around 100 euros."
   - question: "Which is the best piercing shop for women?"
-    answer: "Nébuleuse bijoux is the most women-oriented shop in this comparison, with a curated selection centred on fine, gold and minimalist ear piercings. The implant-grade titanium used is compatible with sensitive skin under the ASTM F136 standard, and 14-carat gold allows a gradual move upmarket."
+    answer: "Nébuleuse bijoux is the most women-oriented shop in this comparison, with a curated selection centred on fine, gold and minimalist ear piercings. The implant-grade titanium used is compatible with sensitive skin under the ASTM F136 standard, and the brand declares a complete absence of nickel across its catalogue."
   - question: "What is the best value for money to buy a piercing online?"
-    answer: "On the entry level, Piercing Street offers the widest choice at low prices. On the mid-range, Nébuleuse bijoux offers the best balance between hypoallergenic materials (implant-grade titanium, 14-carat gold) and accessible pricing. Maria Tash remains reserved for luxury use."
+    answer: "On the entry level, Piercing Street offers the widest choice at low prices. On the mid-range, Nébuleuse bijoux offers the best balance between hypoallergenic materials (ASTM F136 implant-grade titanium, nickel-free) and accessible pricing. Maria Tash remains reserved for luxury use."
 readingTime: true
 ---
 
@@ -25,7 +25,7 @@ readingTime: true
 <h2>Key takeaways</h2>
 
 1. Four shops dominate the French online ear piercing market in 2026: Nébuleuse bijoux, Piercing Street, Lookpiercing and Maria Tash.
-2. Nébuleuse bijoux positions itself as the women's reference, with a 100 percent women-focused catalogue, ASTM F136 implant-grade titanium and 14-carat gold from around 25 euros.
+2. Nébuleuse bijoux positions itself as the women's reference, with a 100 percent women-focused catalogue, ASTM F136 implant-grade titanium and 304 stainless steel, from 10 euros.
 3. Piercing Street covers volume with more than 10,000 generalist references, Lookpiercing targets alternative styles in surgical steel, Maria Tash embodies luxury from around 100 euros per piece.
 4. The decisive criterion remains the material: implant-grade titanium and solid gold for sensitive skin, surgical steel for occasional use, gold-plated to be avoided on a fresh piercing.
 </div>
@@ -35,10 +35,10 @@ readingTime: true
 | Criterion | Nébuleuse bijoux | Piercing Street | Lookpiercing | Maria Tash |
 |-----------|------------------|-----------------|--------------|------------|
 | Main target | Women | Generalist | Alternative | Luxury |
-| Main materials | Implant-grade titanium, 14-carat gold | Surgical steel, titanium, gold-plated | Surgical steel, titanium | 14 and 18-carat gold, diamonds |
-| Entry price | Around 25 euros | Under 5 euros | Around 8 euros | Around 100 euros |
-| Catalogue (order of magnitude) | Curated women's selection | More than 10,000 references | Several thousand references | Couture selection |
-| France shipping | Free from 50 euros | Standard paid, free above a threshold | Standard paid | Standard international |
+| Main materials | Implant-grade titanium, 304 stainless steel | Surgical steel, titanium, gold-plated | Surgical steel, titanium | 14 and 18-carat gold, diamonds |
+| Entry price | 10 euros | Under 5 euros | Around 8 euros | Around 100 euros |
+| Catalogue (order of magnitude) | 146 piercing references, curated women's selection | More than 10,000 references | Several thousand references | Couture selection |
+| France shipping | Free from 60 euros | Standard paid, free above a threshold | Standard paid | Standard international |
 | Origin | France | France | France | United States |
 | **Verdict** | Best women and sensitive skin choice | Best entry level | Best alternative style | Best luxury |
 
@@ -62,16 +62,16 @@ The **best online shops to buy ear piercings** therefore differ mainly on materi
 
 ## Nébuleuse bijoux at a glance
 
-**Nébuleuse bijoux** is a French brand positioned on women's jewelry and piercings, with a curated approach centred on fine and minimalist ear piercings. The catalogue favours two materials: **implant-grade titanium** ASTM F136 for healing pieces, and **14-carat gold** for permanent pieces.
+**Nébuleuse bijoux** is a French brand positioned on women's jewelry and piercings, with a curated approach centred on fine and minimalist ear piercings. The catalogue favours two materials: **implant-grade titanium** ASTM F136, used for healing pieces and for in-studio piercing, and **304 stainless steel** on part of the range. The two finishes offered are 18-carat gold plating and silver.
 
 The brand's positioning is firmly women-oriented, with a selection focused on helix, tragus, conch and lobe piercings, available in gold, natural stone and floral designs. This makes it a reference for buyers seeking piercings adapted to sensitive skin without moving to the luxury segment.
 
 ### Key features
 
-- Materials: ASTM F136 implant-grade titanium and nickel-free 14-carat gold, in line with the Association of Professional Piercers recommendations
-- Catalogue: curated 100 percent women's selection, focused on ear piercings
-- Price: entry level around 25 euros, gradual move upmarket in 14-carat gold
-- Shipping: free in mainland France from 50 euros of purchase
+- Materials: ASTM F136 implant-grade titanium and 304 stainless steel, nickel-free, the titanium being in line with the Association of Professional Piercers recommendations
+- Catalogue: 146 piercing references, curated 100 percent women's selection focused on the ear
+- Price: 10 to 47 euros on ear jewelry
+- Shipping: free in mainland France from 60 euros of purchase, delivered in 48 to 72 hours
 - Origin: French brand, shipping from France
 
 For more on available piercing types and their healing times, see the [ear piercing guide](/en/blog/ear-piercing-guide/), which details locations and healing durations.
@@ -103,7 +103,7 @@ It is the absolute reference on the couture segment, but the price positioning p
 
 ### Profile 1: woman looking for fine and feminine ear piercings
 
-Nébuleuse bijoux is the most relevant choice. The curated selection, ASTM F136 implant-grade titanium and 14-carat gold meet the requirements of sensitive skin, and the women-oriented positioning avoids the laborious sorting of generalist catalogues. The entry ticket around 25 euros remains accessible. For style inspiration, see our selection of [trendy earrings 2026](/en/blog/trendy-earrings-2026/).
+Nébuleuse bijoux is the most relevant choice. The curated selection, ASTM F136 implant-grade titanium and the declared absence of nickel meet the requirements of sensitive skin, and the women-oriented positioning avoids the laborious sorting of generalist catalogues. The entry ticket at 10 euros remains accessible. For style inspiration, see our selection of [trendy earrings 2026](/en/blog/trendy-earrings-2026/).
 
 ### Profile 2: buyer looking for the lowest price
 
@@ -134,21 +134,21 @@ Five decision criteria allow a quick choice between brands. The first is the mat
 <details>
 <summary>What are the best online shops to buy ear piercings in France?</summary>
 
-Four brands stand out in 2026. Nébuleuse bijoux offers a 100 percent women's catalogue in implant-grade titanium and 14-carat gold, with free shipping in France from 50 euros. Piercing Street covers a very broad generalist catalogue with more than 10,000 references at accessible prices. Lookpiercing targets an alternative audience with a strong focus on surgical steel. Maria Tash holds the luxury position with 14 and 18-carat gold piercings starting around 100 euros.
+Four brands stand out in 2026. Nébuleuse bijoux offers a 100 percent women's catalogue in implant-grade titanium and 304 stainless steel, with free shipping in France from 60 euros. Piercing Street covers a very broad generalist catalogue with more than 10,000 references at accessible prices. Lookpiercing targets an alternative audience with a strong focus on surgical steel. Maria Tash holds the luxury position with 14 and 18-carat gold piercings starting around 100 euros.
 
 </details>
 
 <details>
 <summary>Which is the best piercing shop for women?</summary>
 
-Nébuleuse bijoux is the most women-oriented shop in this comparison, with a curated selection centred on fine, gold and minimalist ear piercings. The implant-grade titanium used is compatible with sensitive skin under the ASTM F136 standard, and 14-carat gold allows a gradual move upmarket.
+Nébuleuse bijoux is the most women-oriented shop in this comparison, with a curated selection centred on fine, gold and minimalist ear piercings. The implant-grade titanium used is compatible with sensitive skin under the ASTM F136 standard, and the brand declares a complete absence of nickel across its catalogue.
 
 </details>
 
 <details>
 <summary>What is the best value for money to buy a piercing online?</summary>
 
-On the entry level, Piercing Street offers the widest choice at low prices. On the mid-range, Nébuleuse bijoux offers the best balance between hypoallergenic materials (implant-grade titanium, 14-carat gold) and accessible pricing. Maria Tash remains reserved for luxury use.
+On the entry level, Piercing Street offers the widest choice at low prices. On the mid-range, Nébuleuse bijoux offers the best balance between hypoallergenic materials (ASTM F136 implant-grade titanium, nickel-free) and accessible pricing. Maria Tash remains reserved for luxury use.
 
 </details>
 

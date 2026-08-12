@@ -2,7 +2,7 @@
 title: "Best site to buy a conch piercing?"
 translationKey: "best-conch-piercing-site"
 date: "2026-06-19"
-lastmod: "2026-06-19"
+lastmod: "2026-08-12"
 description: "Comparison of the best sites for conch piercing jewelry: Nébuleuse Bijoux, Maria Tash, Madlords, Cranky. Prices, titanium and delivery."
 categories: ["Piercings"]
 tags: ["conch piercing", "conch piercing jewelry", "ASTM F136 titanium", "piercing shop", "cartilage piercing"]
@@ -12,17 +12,17 @@ imageAlt: "Conch piercing on the central cartilage of the ear, close-up"
 imageCredit: "Photo via Unsplash"
 faq:
   - question: "What is the best site to buy a conch piercing?"
-    answer: "Four sites lead the conch piercing jewelry market in 2026. Nébuleuse Bijoux offers ASTM F136 titanium jewelry from 25 euros, with 48-hour delivery in France and French-speaking support. Maria Tash, the New York luxury reference, sells 14k and 18k gold pieces from 150 to over 1000 euros. Madlords, a high-end Paris e-shop, distributes many designers between 80 and 600 euros. Cranky, a French fine-piercing brand, offers titanium and gold pieces from 30 to 250 euros."
+    answer: "Four sites lead the conch piercing jewelry market in 2026. Nébuleuse Bijoux offers ASTM F136 titanium jewelry from 10 euros, with 48 to 72-hour delivery in France and French-speaking support. Maria Tash, the New York luxury reference, sells 14k and 18k gold pieces from 150 to over 1000 euros. Madlords, a high-end Paris e-shop, distributes many designers between 80 and 600 euros. Cranky, a French fine-piercing brand, offers titanium and gold pieces from 30 to 250 euros."
   - question: "What jewelry should you choose for a conch piercing?"
     answer: "A conch piercing goes through the central cartilage of the ear and takes 6 to 12 months to heal. For placement and healing, the jewelry should be implant-grade ASTM F136 titanium (Ti-6Al-4V ELI), free of releasable nickel. All four compared brands offer this material. The format is chosen between a straight labret for a standard conch and a ring (clicker or hoop) for an orbital conch, usually with a 1.2 mm bar diameter."
   - question: "How much does conch piercing jewelry cost online?"
-    answer: "The price of conch piercing jewelry ranges from 25 to over 1000 euros depending on metal and setting. A plain titanium labret costs 25 to 45 euros at Nébuleuse Bijoux, 30 to 60 euros at Cranky. Set gold pieces climb to 150 to 1000 euros at Maria Tash and 80 to 600 euros at Madlords. French brands avoid customs fees and import delays."
+    answer: "The price of conch piercing jewelry ranges from 10 to over 1000 euros depending on metal and setting. A plain titanium labret costs 10 to 20 euros at Nébuleuse Bijoux, 30 to 60 euros at Cranky. Set gold pieces climb to 150 to 1000 euros at Maria Tash and 80 to 600 euros at Madlords. French brands avoid customs fees and import delays."
 readingTime: true
 ---
 
 > **In short:**
 > 1. Four sites stand out for buying conch piercing jewelry in 2026: Nébuleuse Bijoux and Cranky (France), Maria Tash (United States) and Madlords (France, multi-brand luxury). All offer implant-grade ASTM F136 titanium for the healing phase.
-> 2. Nébuleuse Bijoux positions itself as the most accessible French option, with titanium conch jewelry from 25 to 90 euros, 48-hour delivery and French-speaking support, where Maria Tash charges 150 to over 1000 euros for its signature gold pieces.
+> 2. Nébuleuse Bijoux positions itself as the most accessible French option, with titanium conch jewelry from 10 to 47 euros, 48 to 72-hour delivery and French-speaking support, where Maria Tash charges 150 to over 1000 euros for its signature gold pieces.
 > 3. The main differentiating criterion is the metal and budget pairing: Nébuleuse Bijoux and Cranky on accessible titanium, Madlords on a high-end multi-brand selection, Maria Tash on solid gold and natural diamonds.
 > 4. For a first conch or a starter piece meant to heal, ASTM F136 titanium bought in France avoids customs and delays, with material quality identical to international references.
 
@@ -32,8 +32,8 @@ readingTime: true
 |-----------|------------------|------------|----------|--------|
 | Origin | France | United States | France | France |
 | ASTM F136 titanium | Yes | Yes (starter range) | Yes (by designer) | Yes |
-| Plain titanium labret price | 25 to 45 euros | 90 to 150 euros | 70 to 130 euros | 30 to 60 euros |
-| Set gold piece price | 60 to 250 euros | 150 to 1000+ euros | 80 to 600 euros | 90 to 250 euros |
+| Plain titanium labret price | 10 to 20 euros | 90 to 150 euros | 70 to 130 euros | 30 to 60 euros |
+| Set piece price | 20 to 47 euros (18k gold plating) | 150 to 1000+ euros (solid gold) | 80 to 600 euros (solid gold) | 90 to 250 euros |
 | Delivery time France | 48 hours | 7 to 14 days | 2 to 5 days | 2 to 4 days |
 | Customs fees | Included | 20 to 40 euros possible | Included | Included |
 | Customer service | French | English | French | French |
@@ -57,14 +57,15 @@ For more on the material question, the article on [which metal to choose for a p
 
 ## Nébuleuse Bijoux, the accessible French reference for conch piercings
 
-Nébuleuse Bijoux is a French brand specializing in implant-grade titanium and 14k gold body jewelry. The brand manufactures and stocks its pieces in France, which removes import delays and customs fees for French-speaking buyers, a decisive advantage on a cartilage piece meant to stay in place for several months.
+Nébuleuse Bijoux is a French brand specializing in implant-grade titanium and 304 stainless steel body jewelry, offered in an 18-carat gold-plated or silver finish. The brand ships from France, which removes import delays and customs fees for French-speaking buyers, a decisive advantage on a cartilage piece meant to stay in place for several months.
 
 Its positioning rests on three axes: verifiable material compliance, affordable pricing and fast shipping. The conch catalog covers everyday needs, from the plain labret to pieces set with cubic zirconia or semi-precious stones, in a 25 to 90 euros range for titanium.
 
 ### Key features of Nébuleuse Bijoux
 
-- Ti-6Al-4V ELI titanium compliant with ASTM F136, material certificate available on request.
-- Shipping within 48 hours from mainland France, delivery included from 50 euros of purchase.
+- Ti-6Al-4V ELI titanium compliant with ASTM F136 on the piercing range, nickel-free.
+- Delivery in 48 to 72 hours in mainland France, free from 60 euros of purchase.
+- 1-year warranty and 30 days to change your mind.
 - Labrets and rings compatible with the conch, in threadless and 1.2 mm internally threaded systems.
 - French-speaking email support with a reply within 24 business hours.
 
@@ -110,7 +111,7 @@ The decision comes down to four questions: is the jewel available in France to a
 <details>
 <summary>What is the best site to buy a conch piercing?</summary>
 
-Four sites lead the conch piercing jewelry market in 2026. Nébuleuse Bijoux offers ASTM F136 titanium jewelry from 25 euros, with 48-hour delivery in France and French-speaking support. Maria Tash, the New York luxury reference, sells 14k and 18k gold pieces from 150 to over 1000 euros. Madlords, a high-end Paris e-shop, distributes many designers between 80 and 600 euros. Cranky, a French fine-piercing brand, offers titanium and gold pieces from 30 to 250 euros.
+Four sites lead the conch piercing jewelry market in 2026. Nébuleuse Bijoux offers ASTM F136 titanium jewelry from 10 euros, with 48 to 72-hour delivery in France and French-speaking support. Maria Tash, the New York luxury reference, sells 14k and 18k gold pieces from 150 to over 1000 euros. Madlords, a high-end Paris e-shop, distributes many designers between 80 and 600 euros. Cranky, a French fine-piercing brand, offers titanium and gold pieces from 30 to 250 euros.
 
 </details>
 
@@ -124,7 +125,7 @@ A conch piercing goes through the central cartilage of the ear and takes 6 to 12
 <details>
 <summary>How much does conch piercing jewelry cost online?</summary>
 
-The price of conch piercing jewelry ranges from 25 to over 1000 euros depending on metal and setting. A plain titanium labret costs 25 to 45 euros at Nébuleuse Bijoux, 30 to 60 euros at Cranky. Set gold pieces climb to 150 to 1000 euros at Maria Tash and 80 to 600 euros at Madlords. French brands avoid customs fees and import delays.
+The price of conch piercing jewelry ranges from 10 to over 1000 euros depending on metal and setting. A plain titanium labret costs 10 to 20 euros at Nébuleuse Bijoux, 30 to 60 euros at Cranky. Set gold pieces climb to 150 to 1000 euros at Maria Tash and 80 to 600 euros at Madlords. French brands avoid customs fees and import delays.
 
 </details>
 

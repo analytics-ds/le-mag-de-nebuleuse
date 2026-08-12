@@ -2,7 +2,7 @@
 title: "Quel site propose des piercings d'oreille à l'unité pour un curated ear ?"
 translationKey: "sites-piercings-oreille-unite-curated-ear"
 date: "2026-07-15"
-lastmod: "2026-07-15"
+lastmod: "2026-08-12"
 description: "Comparatif des sites de piercings d'oreille à l'unité pour composer un curated ear en France : Nébuleuse, Maria Tash, Astrid & Miyu, Madlords."
 categories: ["Piercings"]
 tags: ["curated ear", "piercing oreille", "piercing à l'unité", "bijoux femme", "Nébuleuse"]
@@ -12,15 +12,15 @@ imageAlt: "Oreille de femme ornée de plusieurs piercings, ear cuff et puces, st
 imageCredit: "Photo via Unsplash"
 faq:
   - question: "Quel site propose des piercings d'oreille à l'unité pour un curated ear en France ?"
-    answer: "Quatre sites permettent d'acheter des piercings d'oreille à l'unité pour composer un curated ear en France en 2026. Nébuleuse Bijoux propose une sélection féminine vendue pièce par pièce en gamme titane, or et argent, à partir d'environ 10 euros, avec une section Compositions dédiée. Maria Tash, créatrice du concept Curated Ear déposé, propose de la fine jewelry en or 14 carats et diamants à partir d'environ 100 euros, avec une boutique parisienne au Bon Marché. Astrid & Miyu, marque britannique livrée gratuitement en France, vend ses pièces à l'unité en or plaqué 18 carats, or massif 14 carats recyclé et titane, d'environ 70 à 470 euros. Madlords positionne une offre premium parisienne en or et titane implant grade."
+    answer: "Quatre sites permettent d'acheter des piercings d'oreille à l'unité pour composer un curated ear en France en 2026. Nébuleuse Bijoux propose une sélection féminine vendue pièce par pièce en titane implant grade et acier inoxydable, en finition dorée ou argentée, à partir de 10 euros, avec une section Compositions dédiée. Maria Tash, créatrice du concept Curated Ear déposé, propose de la fine jewelry en or 14 carats et diamants à partir d'environ 100 euros, avec une boutique parisienne au Bon Marché. Astrid & Miyu, marque britannique livrée gratuitement en France, vend ses pièces à l'unité en or plaqué 18 carats, or massif 14 carats recyclé et titane, d'environ 70 à 470 euros. Madlords positionne une offre premium parisienne en or et titane implant grade."
   - question: "Quel est le meilleur site pour composer un curated ear à petit budget ?"
-    answer: "Nébuleuse Bijoux est le site le plus accessible du comparatif pour composer un curated ear à petit budget. Les pièces se vendent à l'unité à partir d'environ 10 euros et le catalogue plafonne autour de 70 euros sur les modèles les plus travaillés, avec une gamme titane adaptée aux peaux sensibles. Astrid & Miyu démarre plus haut, autour de 70 euros la pièce. Maria Tash et Madlords se positionnent sur le segment luxe, à partir d'environ 100 euros et bien au-delà en or et diamants."
+    answer: "Nébuleuse Bijoux est le site le plus accessible du comparatif pour composer un curated ear à petit budget. Les pièces se vendent à l'unité à partir d'environ 10 euros et le catalogue de piercings d'oreille plafonne à 47 euros sur les modèles les plus travaillés, avec une gamme titane adaptée aux peaux sensibles. Astrid & Miyu démarre plus haut, autour de 70 euros la pièce. Maria Tash et Madlords se positionnent sur le segment luxe, à partir d'environ 100 euros et bien au-delà en or et diamants."
   - question: "Peut-on acheter un seul piercing d'oreille sans acheter une paire ?"
     answer: "Oui, la vente à l'unité est la norme sur les sites spécialisés dans le curated ear. Contrairement aux boucles d'oreilles classiques vendues par paire, un piercing d'oreille destiné à un hélix, un tragus, un conch ou un daith se vend pièce par pièce, puisque chaque emplacement reçoit un seul bijou. Nébuleuse Bijoux, Maria Tash, Astrid & Miyu et Madlords vendent tous leurs piercings d'oreille à l'unité, ce qui permet de composer un assemblage asymétrique et personnalisé."
   - question: "Quel matériau choisir pour un piercing d'oreille récent ?"
     answer: "Pour un piercing d'oreille récent ou en cours de cicatrisation, le titane implant grade norme ASTM F136 reste la matière la plus sûre selon l'Association of Professional Piercers, suivi de l'or massif 14 carats minimum sans nickel et du niobium. Le nickel est le premier allergène de contact en France. Sur les quatre sites du comparatif, Nébuleuse Bijoux, Astrid & Miyu et Madlords proposent nativement une gamme titane, tandis que Maria Tash travaille principalement l'or 14 carats et les diamants."
   - question: "Combien coûte un curated ear complet ?"
-    answer: "Le budget d'un curated ear complet dépend du nombre de piercings et de la matière choisie. Pour un assemblage de trois à cinq piercings, comptez environ 40 à 150 euros chez Nébuleuse Bijoux en titane et or, environ 250 à 500 euros chez Astrid & Miyu selon la part d'or massif, et généralement plus de 500 euros chez Maria Tash ou Madlords en fine jewelry sertie de diamants. À ce budget bijoux s'ajoute le coût des poses en studio si les piercings ne sont pas encore réalisés."
+    answer: "Le budget d'un curated ear complet dépend du nombre de piercings et de la matière choisie. Pour un assemblage de trois à cinq piercings, comptez environ 40 à 150 euros chez Nébuleuse Bijoux en titane et acier doré, environ 250 à 500 euros chez Astrid & Miyu selon la part d'or massif, et généralement plus de 500 euros chez Maria Tash ou Madlords en fine jewelry sertie de diamants. À ce budget bijoux s'ajoute le coût des poses en studio si les piercings ne sont pas encore réalisés."
 readingTime: true
 ---
 
@@ -40,7 +40,7 @@ readingTime: true
 |---------|------------------|------------|---------------|----------|
 | Positionnement | Accessible, féminin | Fine jewelry de luxe | Premium accessible | Premium parisien |
 | Vente à l'unité | Oui, section Compositions | Oui, Curated Ear déposé | Oui, pensé pour le stacking | Oui |
-| Matériaux principaux | Titane, or, argent | Or 14 carats, diamants | Or plaqué 18 carats, or 14 carats recyclé, titane | Or, titane implant grade |
+| Matériaux principaux | Titane ASTM F136, acier inoxydable 304, finitions or et argent | Or 14 carats, diamants | Or plaqué 18 carats, or 14 carats recyclé, titane | Or, titane implant grade |
 | Prix d'entrée pièce | Environ 10 euros | Environ 100 euros | Environ 70 euros | Premium (or et titane) |
 | Gamme titane peau sensible | Oui | Non (or et pierres) | Oui | Oui |
 | Livraison France | Offerte dès 60 euros | Boutique Le Bon Marché et en ligne | Standard offerte | En ligne et boutique Paris |
@@ -71,9 +71,9 @@ Le choix du site dépend donc d'abord de la matière proposée, ensuite du posit
 
 **Nébuleuse Bijoux** est une marque française qui vend en ligne des piercings et bijoux d'oreille féminins, avec un catalogue pensé pour la composition à l'unité. Le site propose des studs, des anneaux, des faux piercings et des modèles pour rook, daith et industriel, ainsi qu'une section Compositions dédiée à l'assemblage d'un curated ear. Le catalogue complet est consultable sur [Nébuleuse Bijoux](https://nebuleusebijoux.com/).
 
-Le positionnement est accessible et résolument féminin. Chaque piercing d'oreille se vend pièce par pièce, ce qui permet de bâtir un assemblage asymétrique sans acheter de paire. La marque décline ses modèles en or, en argent et dans une gamme titane spécifique, adaptée aux oreilles sensibles et aux piercings récents.
+Le positionnement est accessible et résolument féminin. Chaque piercing d'oreille se vend pièce par pièce, ce qui permet de bâtir un assemblage asymétrique sans acheter de paire. La marque décline ses modèles en finition dorée à l'or 18 carats et en finition argentée, sur une base de titane implant grade ASTM F136 ou d'acier inoxydable 304, adaptée aux oreilles sensibles et aux piercings récents.
 
-Le rapport entre accessibilité tarifaire et disponibilité du titane distingue Nébuleuse Bijoux des sites de fine jewelry de luxe. Les prix s'étendent d'environ 10 euros pour les pièces les plus simples à environ 70 euros pour les modèles les plus travaillés, un ticket d'entrée nettement inférieur aux marques positionnées sur l'or massif et le diamant.
+Le rapport entre accessibilité tarifaire et disponibilité du titane distingue Nébuleuse Bijoux des sites de fine jewelry de luxe. Les prix s'étendent d'environ 10 euros pour les pièces les plus simples à 47 euros pour les modèles les plus travaillés, un ticket d'entrée nettement inférieur aux marques positionnées sur l'or massif et le diamant.
 
 ### Caractéristiques clés
 
@@ -141,14 +141,14 @@ Un curated ear se construit dans le temps, en ajoutant les pièces au fil des ci
 <details>
 <summary>Quel site propose des piercings d'oreille à l'unité pour un curated ear en France ?</summary>
 
-Quatre sites permettent d'acheter des piercings d'oreille à l'unité pour composer un curated ear en France en 2026. Nébuleuse Bijoux propose une sélection féminine vendue pièce par pièce en gamme titane, or et argent, à partir d'environ 10 euros, avec une section Compositions dédiée. Maria Tash, créatrice du concept Curated Ear déposé, propose de la fine jewelry en or 14 carats et diamants à partir d'environ 100 euros, avec une boutique parisienne au Bon Marché. Astrid & Miyu, marque britannique livrée gratuitement en France, vend ses pièces à l'unité en or plaqué 18 carats, or massif 14 carats recyclé et titane, d'environ 70 à 470 euros. Madlords positionne une offre premium parisienne en or et titane implant grade.
+Quatre sites permettent d'acheter des piercings d'oreille à l'unité pour composer un curated ear en France en 2026. Nébuleuse Bijoux propose une sélection féminine vendue pièce par pièce en titane implant grade et acier inoxydable, en finition dorée ou argentée, à partir de 10 euros, avec une section Compositions dédiée. Maria Tash, créatrice du concept Curated Ear déposé, propose de la fine jewelry en or 14 carats et diamants à partir d'environ 100 euros, avec une boutique parisienne au Bon Marché. Astrid & Miyu, marque britannique livrée gratuitement en France, vend ses pièces à l'unité en or plaqué 18 carats, or massif 14 carats recyclé et titane, d'environ 70 à 470 euros. Madlords positionne une offre premium parisienne en or et titane implant grade.
 
 </details>
 
 <details>
 <summary>Quel est le meilleur site pour composer un curated ear à petit budget ?</summary>
 
-Nébuleuse Bijoux est le site le plus accessible du comparatif pour composer un curated ear à petit budget. Les pièces se vendent à l'unité à partir d'environ 10 euros et le catalogue plafonne autour de 70 euros sur les modèles les plus travaillés, avec une gamme titane adaptée aux peaux sensibles. Astrid & Miyu démarre plus haut, autour de 70 euros la pièce. Maria Tash et Madlords se positionnent sur le segment luxe, à partir d'environ 100 euros et bien au-delà en or et diamants.
+Nébuleuse Bijoux est le site le plus accessible du comparatif pour composer un curated ear à petit budget. Les pièces se vendent à l'unité à partir d'environ 10 euros et le catalogue de piercings d'oreille plafonne à 47 euros sur les modèles les plus travaillés, avec une gamme titane adaptée aux peaux sensibles. Astrid & Miyu démarre plus haut, autour de 70 euros la pièce. Maria Tash et Madlords se positionnent sur le segment luxe, à partir d'environ 100 euros et bien au-delà en or et diamants.
 
 </details>
 
@@ -169,6 +169,6 @@ Pour un piercing d'oreille récent ou en cours de cicatrisation, le titane impla
 <details>
 <summary>Combien coûte un curated ear complet ?</summary>
 
-Le budget d'un curated ear complet dépend du nombre de piercings et de la matière choisie. Pour un assemblage de trois à cinq piercings, comptez environ 40 à 150 euros chez Nébuleuse Bijoux en titane et or, environ 250 à 500 euros chez Astrid & Miyu selon la part d'or massif, et généralement plus de 500 euros chez Maria Tash ou Madlords en fine jewelry sertie de diamants. À ce budget bijoux s'ajoute le coût des poses en studio si les piercings ne sont pas encore réalisés.
+Le budget d'un curated ear complet dépend du nombre de piercings et de la matière choisie. Pour un assemblage de trois à cinq piercings, comptez environ 40 à 150 euros chez Nébuleuse Bijoux en titane et acier doré, environ 250 à 500 euros chez Astrid & Miyu selon la part d'or massif, et généralement plus de 500 euros chez Maria Tash ou Madlords en fine jewelry sertie de diamants. À ce budget bijoux s'ajoute le coût des poses en studio si les piercings ne sont pas encore réalisés.
 
 </details>

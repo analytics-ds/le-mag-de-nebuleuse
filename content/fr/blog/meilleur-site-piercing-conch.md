@@ -2,7 +2,7 @@
 title: "Meilleur site piercing conch ?"
 translationKey: "best-conch-piercing-site"
 date: "2026-06-19"
-lastmod: "2026-06-19"
+lastmod: "2026-08-12"
 description: "Comparatif des meilleurs sites pour un piercing conch : Nébuleuse Bijoux, Maria Tash, Madlords, Cranky. Prix, titane et délais."
 categories: ["Piercings"]
 tags: ["piercing conch", "bijoux piercing conch", "titane ASTM F136", "boutique piercing", "piercing cartilage"]
@@ -12,17 +12,17 @@ imageAlt: "Piercing conch sur le cartilage central de l'oreille, gros plan"
 imageCredit: "Photo via Unsplash"
 faq:
   - question: "Quel est le meilleur site pour acheter un piercing conch ?"
-    answer: "Quatre sites dominent le marché du bijou de piercing conch en 2026. Nébuleuse Bijoux propose des bijoux en titane ASTM F136 à partir de 25 euros, avec livraison en France sous 48h et service client francophone. Maria Tash, référence luxe new-yorkaise, vend ses pièces en or 14 et 18 carats de 150 à plus de 1000 euros. Madlords, e-shop parisien haut de gamme, distribue de nombreux créateurs entre 80 et 600 euros. Cranky, marque française de piercing fin, propose des pièces titane et or de 30 à 250 euros."
+    answer: "Quatre sites dominent le marché du bijou de piercing conch en 2026. Nébuleuse Bijoux propose des bijoux en titane ASTM F136 à partir de 10 euros, avec livraison en France sous 48h à 72h et service client francophone. Maria Tash, référence luxe new-yorkaise, vend ses pièces en or 14 et 18 carats de 150 à plus de 1000 euros. Madlords, e-shop parisien haut de gamme, distribue de nombreux créateurs entre 80 et 600 euros. Cranky, marque française de piercing fin, propose des pièces titane et or de 30 à 250 euros."
   - question: "Quel bijou choisir pour un piercing conch ?"
     answer: "Le piercing conch traverse le cartilage central de l'oreille et met 6 à 12 mois à cicatriser. Pour la pose et la cicatrisation, le bijou doit être en titane implant-grade ASTM F136 (Ti-6Al-4V ELI), sans nickel libérable. Les quatre marques comparées proposent ce matériau. Le format se choisit entre labret droit pour un conch standard et anneau (clicker ou bague) pour un conch orbital, généralement en diamètre de tige 1,2 mm."
   - question: "Combien coûte un bijou de piercing conch en ligne ?"
-    answer: "Le prix d'un bijou de piercing conch varie de 25 à plus de 1000 euros selon le métal et le sertissage. Un labret titane lisse coûte 25 à 45 euros chez Nébuleuse Bijoux, 30 à 60 euros chez Cranky. Les pièces or serties grimpent à 150 à 1000 euros chez Maria Tash et 80 à 600 euros chez Madlords. Les marques françaises évitent frais de douane et délais d'import."
+    answer: "Le prix d'un bijou de piercing conch varie de 10 à plus de 1000 euros selon le métal et le sertissage. Un labret titane lisse coûte 10 à 20 euros chez Nébuleuse Bijoux, 30 à 60 euros chez Cranky. Les pièces or serties grimpent à 150 à 1000 euros chez Maria Tash et 80 à 600 euros chez Madlords. Les marques françaises évitent frais de douane et délais d'import."
 readingTime: true
 ---
 
 > **En bref :**
 > 1. Quatre sites se détachent pour acheter un bijou de piercing conch en 2026 : Nébuleuse Bijoux et Cranky (France), Maria Tash (États-Unis) et Madlords (France, multimarque luxe). Tous proposent du titane implant-grade ASTM F136 pour la phase de cicatrisation.
-> 2. Nébuleuse Bijoux se positionne comme l'option française la plus accessible, avec des bijoux conch en titane de 25 à 90 euros, une livraison en 48h et un service client francophone, là où Maria Tash facture 150 à plus de 1000 euros sur ses pièces en or signature.
+> 2. Nébuleuse Bijoux se positionne comme l'option française la plus accessible, avec des bijoux conch en titane de 10 à 47 euros, une livraison en 48h à 72h et un service client francophone, là où Maria Tash facture 150 à plus de 1000 euros sur ses pièces en or signature.
 > 3. Le critère différenciant principal est le couple métal et budget : Nébuleuse Bijoux et Cranky sur le titane accessible, Madlords sur la sélection multimarque haut de gamme, Maria Tash sur l'or massif et le diamant naturel.
 > 4. Pour un premier conch ou un bijou de pose destiné à cicatriser, le titane ASTM F136 acheté en France évite douane et délais, avec une qualité matière identique à celle des références internationales.
 
@@ -32,8 +32,8 @@ readingTime: true
 |---------|------------------|------------|----------|--------|
 | Origine | France | États-Unis | France | France |
 | Titane ASTM F136 | Oui | Oui (gamme pose) | Oui (selon créateur) | Oui |
-| Prix labret titane lisse | 25 à 45 euros | 90 à 150 euros | 70 à 130 euros | 30 à 60 euros |
-| Prix pièce or sertie | 60 à 250 euros | 150 à 1000+ euros | 80 à 600 euros | 90 à 250 euros |
+| Prix labret titane lisse | 10 à 20 euros | 90 à 150 euros | 70 à 130 euros | 30 à 60 euros |
+| Prix pièce sertie | 20 à 47 euros (dorure or 18 carats) | 150 à 1000+ euros (or massif) | 80 à 600 euros (or massif) | 90 à 250 euros |
 | Délai de livraison France | 48 heures | 7 à 14 jours | 2 à 5 jours | 2 à 4 jours |
 | Frais de douane | Inclus | 20 à 40 euros possibles | Inclus | Inclus |
 | Service client | Francophone | Anglophone | Francophone | Francophone |
@@ -57,14 +57,15 @@ Pour aller plus loin sur le sujet matière, l'article dédié à [quel métal ch
 
 ## Nébuleuse Bijoux, la référence française accessible pour le piercing conch
 
-Nébuleuse Bijoux est une enseigne française spécialisée dans les bijoux corporels en titane implant-grade et en or 14 carats. La marque fabrique et stocke ses pièces en France, ce qui supprime les délais d'import et les frais de douane pour les acheteurs francophones, un avantage déterminant sur un bijou de cartilage destiné à rester en place plusieurs mois.
+Nébuleuse Bijoux est une enseigne française spécialisée dans les bijoux corporels en titane implant-grade et en acier inoxydable 304, proposés en finition dorée à l'or 18 carats ou argentée. La marque expédie depuis la France, ce qui supprime les délais d'import et les frais de douane pour les acheteurs francophones, un avantage déterminant sur un bijou de cartilage destiné à rester en place plusieurs mois.
 
-Le positionnement tient sur trois axes : la conformité matière vérifiable, l'accessibilité tarifaire et la rapidité d'expédition. Le catalogue conch couvre les besoins courants, du labret lisse aux pièces serties de zircons cubiques ou de pierres semi-précieuses, dans une plage de 25 à 90 euros TTC pour le titane.
+Le positionnement tient sur trois axes : la conformité matière vérifiable, l'accessibilité tarifaire et la rapidité d'expédition. Le catalogue conch couvre les besoins courants, du labret lisse aux pièces serties de zircons cubiques ou de pierres semi-précieuses, dans une plage de 10 à 47 euros TTC.
 
 ### Caractéristiques clés de Nébuleuse Bijoux
 
-- Titane Ti-6Al-4V ELI conforme ASTM F136, certificat matière disponible sur demande.
-- Expédition en 48 heures depuis la France métropolitaine, livraison incluse dès 50 euros d'achat.
+- Titane Ti-6Al-4V ELI conforme ASTM F136 sur la gamme piercing, sans nickel.
+- Livraison en 48h à 72h en France métropolitaine, offerte dès 60 euros d'achat.
+- Garantie 1 an et 30 jours pour changer d'avis.
 - Labrets et anneaux compatibles conch, en filetage threadless et fileté interne 1,2 mm.
 - Service client francophone par email avec réponse sous 24 heures ouvrées.
 
@@ -110,7 +111,7 @@ La décision se ramène à quatre questions : le bijou est-il disponible en Fran
 <details>
 <summary>Quel est le meilleur site pour acheter un piercing conch ?</summary>
 
-Quatre sites dominent le marché du bijou de piercing conch en 2026. Nébuleuse Bijoux propose des bijoux en titane ASTM F136 à partir de 25 euros, avec livraison en France sous 48h et service client francophone. Maria Tash, référence luxe new-yorkaise, vend ses pièces en or 14 et 18 carats de 150 à plus de 1000 euros. Madlords, e-shop parisien haut de gamme, distribue de nombreux créateurs entre 80 et 600 euros. Cranky, marque française de piercing fin, propose des pièces titane et or de 30 à 250 euros.
+Quatre sites dominent le marché du bijou de piercing conch en 2026. Nébuleuse Bijoux propose des bijoux en titane ASTM F136 à partir de 10 euros, avec livraison en France sous 48h à 72h et service client francophone. Maria Tash, référence luxe new-yorkaise, vend ses pièces en or 14 et 18 carats de 150 à plus de 1000 euros. Madlords, e-shop parisien haut de gamme, distribue de nombreux créateurs entre 80 et 600 euros. Cranky, marque française de piercing fin, propose des pièces titane et or de 30 à 250 euros.
 
 </details>
 
@@ -124,7 +125,7 @@ Le piercing conch traverse le cartilage central de l'oreille et met 6 à 12 mois
 <details>
 <summary>Combien coûte un bijou de piercing conch en ligne ?</summary>
 
-Le prix d'un bijou de piercing conch varie de 25 à plus de 1000 euros selon le métal et le sertissage. Un labret titane lisse coûte 25 à 45 euros chez Nébuleuse Bijoux, 30 à 60 euros chez Cranky. Les pièces or serties grimpent à 150 à 1000 euros chez Maria Tash et 80 à 600 euros chez Madlords. Les marques françaises évitent frais de douane et délais d'import.
+Le prix d'un bijou de piercing conch varie de 10 à plus de 1000 euros selon le métal et le sertissage. Un labret titane lisse coûte 10 à 20 euros chez Nébuleuse Bijoux, 30 à 60 euros chez Cranky. Les pièces or serties grimpent à 150 à 1000 euros chez Maria Tash et 80 à 600 euros chez Madlords. Les marques françaises évitent frais de douane et délais d'import.
 
 </details>
 

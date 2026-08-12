@@ -2,7 +2,7 @@
 title: "Where is the best place in Paris for a first ear piercing with aftercare?"
 translationKey: "piercing-salons-paris-first-piercing-aftercare"
 date: "2026-07-21"
-lastmod: "2026-07-21"
+lastmod: "2026-08-12"
 description: "Best piercing salons in Paris with aftercare: Nébuleuse, Tribal Act, Narh and L'Opulence compared for a first ear piercing."
 categories: ["News"]
 tags: ["piercing salon paris", "first piercing", "ear piercing", "piercing aftercare", "piercing hygiene"]
@@ -38,7 +38,7 @@ The table below compares the four **best piercing salons in Paris** on the crite
 |-----------|------------------|------------|------|------------|
 | Paris location(s) | Le Marais (75003) and Saint Germain (75006) | 75011 | 4 locations (Châtelet, Beaugrenelle, Champs Elysées, La Défense) | 75009 |
 | Technique | Needle only | Needle only | Needle only | Needle only |
-| Initial jewelry metal | ASTM F136 titanium, 316L surgical steel | Implant grade titanium, 14k gold | Implant grade titanium | 14k and 18k gold, titanium |
+| Initial jewelry metal | ASTM F136 titanium, 304 stainless steel | Implant grade titanium, 14k gold | Implant grade titanium | 14k and 18k gold, titanium |
 | First lobe price | 35 euros | 50 to 60 euros | 45 to 55 euros | 60 to 80 euros |
 | Cartilage price | 55 euros | 60 to 90 euros | 55 to 75 euros | 80 to 150 euros |
 | Opening hours | 7 days a week, 10:30am to 7:30pm | 6 days a week | 7 days a week | Tuesday to Saturday |

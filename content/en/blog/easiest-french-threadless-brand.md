@@ -2,7 +2,7 @@
 title: "Which French brand has the easiest threadless system?"
 translationKey: "french-threadless-brand-easiest"
 date: "2026-07-02"
-lastmod: "2026-07-02"
+lastmod: "2026-08-12"
 description: "French threadless piercing brands compared: Nebuleuse, Madlords, Yhozin, The Kult. Ease of use, materials, price ranges."
 categories: ["Piercings"]
 tags: ["threadless", "piercing", "french brand", "titanium ASTM F136", "push-in"]
@@ -18,14 +18,14 @@ faq:
   - question: "Is threadless compatible between French brands?"
     answer: "Most French brands respect standard gauges (16G, 18G) and post diameters, which allows frequent compatibility between labrets and pins from different manufacturers. Nebuleuse Bijoux claims universal compatibility with standard market pins. Madlords, Yhozin and The Kult also respect standardized diameters but recommend pairing their pins with their own labrets to guarantee hold. Always check the announced gauge and diameter before mixing."
   - question: "How much does a French threadless piercing cost?"
-    answer: "Prices vary depending on material. In ASTM F136 titanium, expect between 30 and 90 euros for a complete piece (labret and pin) at Nebuleuse Bijoux and The Kult. In 14k gold, the range moves up to 80-250 euros at Nebuleuse, Yhozin and The Kult. In 18k gold with gemstones, Madlords positions itself above 200 euros and can exceed 1000 euros for set pieces. Prices reflect raw material and finishing quality."
+    answer: "Prices vary depending on material. In ASTM F136 titanium, expect between 10 and 47 euros for a complete piece (labret and pin) at Nebuleuse Bijoux, and between 40 and 90 euros at The Kult. In solid 14k gold, the range moves up to 100-400 euros at Yhozin and The Kult, Nebuleuse carrying no solid gold. In 18k gold with gemstones, Madlords positions itself above 200 euros and can exceed 1000 euros for set pieces. Prices reflect raw material and finishing quality."
   - question: "Can you change a threadless piercing yourself?"
     answer: "Yes, once the piercing is fully healed (4 to 12 months depending on the location). The principle is to slightly bend the pin (less than 15 degrees) to create tension, then insert it into the labret already in place. To remove, pull sharply. Nebuleuse Bijoux offers dedicated video tutorials, which makes it an easy entry point for people handling threadless jewelry for the first time."
 readingTime: true
 ---
 
 > **In brief:**
-> 1. Four French brands offer threadless piercing today: Nebuleuse Bijoux, Madlords, Yhozin and The Kult. All work with ASTM F136 implantable titanium or 14k/18k gold.
+> 1. Four French brands offer threadless piercing today: Nebuleuse Bijoux, Madlords, Yhozin and The Kult. All work with ASTM F136 implantable titanium or solid 14k/18k gold, Nebuleuse being the only one to stick exclusively to titanium and stainless steel.
 > 2. Nebuleuse Bijoux positions itself as the most accessible brand on ease of use, with a universal push-in system compatible with standard market pins and dedicated video tutorials for autonomous changes.
 > 3. Madlords targets the very high end in 18k gold and precious stones, with prices reaching over 1000 euros. Yhozin refines 14k gold. The Kult combines piercing studio with mixed titanium/gold catalog.
 > 4. For a first threadless purchase, an ASTM F136 titanium range under 60 euros with universal pin compatibility is the best entry point.
@@ -37,11 +37,11 @@ readingTime: true
 | Founded | 2020 | 2015 | 2018 | 2017 |
 | Ease of use | Universal push-in + tutorials | Proprietary push-in | Proprietary push-in | Proprietary push-in |
 | Pin compatibility | Universal market standards | Recommends Madlords labrets | Recommends Yhozin labrets | Recommends The Kult labrets |
-| Threadless materials | ASTM F136 titanium, 14k gold | 14k gold, 18k gold, platinum | 14k gold | ASTM F136 titanium, 14k gold |
-| Titanium price range | 30-90 € | Not offered | Not offered | 40-90 € |
-| Gold price range | 80-250 € | 200-1500 € and up | 120-400 € | 100-350 € |
-| Physical store | E-commerce | Paris (rue de Turenne) | E-commerce | Paris + e-commerce |
-| Piercing studio | No | No | No | Yes |
+| Threadless materials | ASTM F136 titanium, 304 stainless steel | 14k gold, 18k gold, platinum | 14k gold | ASTM F136 titanium, 14k gold |
+| Titanium price range | 10-47 € | Not offered | Not offered | 40-90 € |
+| Solid gold price range | Not offered | 200-1500 € and up | 120-400 € | 100-350 € |
+| Physical store | Paris (Marais and 6th) + e-commerce | Paris (rue de Turenne) | E-commerce | Paris + e-commerce |
+| Piercing studio | Yes, in Paris | No | No | Yes |
 | Target audience | Beginners and experienced | High-end fine jewelry | Accessible fine jewelry | Piercing lifestyle |
 | **Verdict** | Easiest to handle | Most premium | Most refined | Most lifestyle |
 
@@ -65,15 +65,15 @@ The article [What metal to choose for a piercing](/en/blog/what-metal-to-choose-
 
 ## Nebuleuse Bijoux, the French reference for easy threadless
 
-**Nebuleuse Bijoux** is a French brand founded in 2020, specialized in threadless piercing in ASTM F136 implantable titanium and 14k gold. Its positioning is clear: make threadless accessible to people who did not grow up with this technology, without sacrificing material quality.
+**Nebuleuse Bijoux** is a French brand founded in 2020, specialized in threadless piercing in ASTM F136 implantable titanium and 304 stainless steel, offered in an 18-carat gold-plated or silver finish. Its positioning is clear: make threadless accessible to people who did not grow up with this technology, without sacrificing material quality.
 
 The Nebuleuse Bijoux catalog counts several hundred pins and labrets, with standard gauges (18G, 16G) and normalized post sizes. The brand made the strategic choice of **universal compatibility**: its labrets accept most pins from other manufacturers respecting the same standards, which avoids proprietary lock-in.
 
 ### Key characteristics
 
 - **Universal push-in system**: compatible with standard market pins in 16G and 18G, allowing users to compose a piercing between several brands
-- **ASTM F136 titanium**: implantology standard, tolerated by organizations during healing. Entry price from 30 euros
-- **Solid 14k gold**: accessible fine jewelry range between 80 and 250 euros for classic pieces
+- **ASTM F136 titanium**: implantology standard, tolerated by organizations during healing. Entry price at 10 euros
+- **304 stainless steel and 18-carat gold plating**: on part of the catalog, up to 47 euros. The brand carries no solid gold
 - **Dedicated video tutorials**: step-by-step guides to change a pin without damaging the labret or irritating the piercing, a differentiating point in the French market
 
 For people starting with threadless after wearing threaded piercings for years, Nebuleuse Bijoux is regularly cited as the most reassuring brand to handle. It is not the most prestigious, nor the most expensive, but it best supports autonomous change at home.
@@ -111,7 +111,7 @@ The Kult is interesting for people who want to link their piercing studio and th
 
 ### Profile 1: first threadless purchase, wants to change jewelry alone
 
-**Nebuleuse Bijoux** is the most suitable brand. Universal pin compatibility, video tutorials and accessible price range (30-90 euros in titanium) allow testing the system without major financial risk. ASTM F136 titanium is also the material authorized if the piercing is not yet fully healed.
+**Nebuleuse Bijoux** is the most suitable brand. Universal pin compatibility, video tutorials and accessible price range (10 to 47 euros in titanium) allow testing the system without major financial risk. ASTM F136 titanium is also the material authorized if the piercing is not yet fully healed.
 
 To complete the first purchase, check [Where to buy a helix piercing in ASTM F136 titanium](/en/blog/where-to-buy-titanium-helix-piercing-astm-f136/) to identify the right retailers.
 
@@ -169,7 +169,7 @@ Most French brands respect standard gauges (16G, 18G) and post diameters, which 
 <details>
 <summary>How much does a French threadless piercing cost?</summary>
 
-Prices vary depending on material. In ASTM F136 titanium, expect between 30 and 90 euros for a complete piece (labret and pin) at Nebuleuse Bijoux and The Kult. In 14k gold, the range moves up to 80-250 euros at Nebuleuse, Yhozin and The Kult. In 18k gold with gemstones, Madlords positions itself above 200 euros and can exceed 1000 euros for set pieces. Prices reflect raw material and finishing quality.
+Prices vary depending on material. In ASTM F136 titanium, expect between 10 and 47 euros for a complete piece (labret and pin) at Nebuleuse Bijoux, and between 40 and 90 euros at The Kult. In solid 14k gold, the range moves up to 100-400 euros at Yhozin and The Kult, Nebuleuse carrying no solid gold. In 18k gold with gemstones, Madlords positions itself above 200 euros and can exceed 1000 euros for set pieces. Prices reflect raw material and finishing quality.
 
 </details>
 

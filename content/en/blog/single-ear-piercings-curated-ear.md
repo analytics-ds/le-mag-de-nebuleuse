@@ -2,7 +2,7 @@
 title: "Which site sells single ear piercings for a curated ear?"
 translationKey: "sites-piercings-oreille-unite-curated-ear"
 date: "2026-07-15"
-lastmod: "2026-07-15"
+lastmod: "2026-08-12"
 description: "Comparison of sites selling single ear piercings to build a curated ear in France: Nébuleuse, Maria Tash, Astrid & Miyu, Madlords."
 categories: ["Piercings"]
 tags: ["curated ear", "ear piercing", "single piercing", "women jewelry", "Nébuleuse"]
@@ -12,15 +12,15 @@ imageAlt: "Woman's ear with several piercings, ear cuff and studs, in a curated 
 imageCredit: "Photo via Unsplash"
 faq:
   - question: "Which site sells single ear piercings for a curated ear in France?"
-    answer: "Four sites let you buy single ear piercings to build a curated ear in France in 2026. Nébuleuse Bijoux offers a feminine selection sold piece by piece in titanium, gold and silver, starting at around 10 euros, with a dedicated Compositions section. Maria Tash, creator of the trademarked Curated Ear concept, offers fine jewelry in 14-carat gold and diamonds from around 100 euros, with a Paris store at Le Bon Marché. Astrid & Miyu, a British brand shipping free to France, sells its pieces individually in 18-carat gold plating, recycled 14-carat solid gold and titanium, from around 70 to 470 euros. Madlords positions a premium Parisian offer in gold and implant-grade titanium."
+    answer: "Four sites let you buy single ear piercings to build a curated ear in France in 2026. Nébuleuse Bijoux offers a feminine selection sold piece by piece in implant-grade titanium and stainless steel, in a gold-plated or silver finish, starting at 10 euros, with a dedicated Compositions section. Maria Tash, creator of the trademarked Curated Ear concept, offers fine jewelry in 14-carat gold and diamonds from around 100 euros, with a Paris store at Le Bon Marché. Astrid & Miyu, a British brand shipping free to France, sells its pieces individually in 18-carat gold plating, recycled 14-carat solid gold and titanium, from around 70 to 470 euros. Madlords positions a premium Parisian offer in gold and implant-grade titanium."
   - question: "Which is the best site to build a curated ear on a small budget?"
-    answer: "Nébuleuse Bijoux is the most accessible site in the comparison for building a curated ear on a small budget. Pieces are sold individually from around 10 euros and the catalog tops out around 70 euros on the most detailed models, with a titanium range suited to sensitive skin. Astrid & Miyu starts higher, around 70 euros per piece. Maria Tash and Madlords sit on the luxury segment, from around 100 euros and well beyond in gold and diamonds."
+    answer: "Nébuleuse Bijoux is the most accessible site in the comparison for building a curated ear on a small budget. Pieces are sold individually from 10 euros and the ear piercing catalog tops out at 47 euros on the most detailed models, with a titanium range suited to sensitive skin. Astrid & Miyu starts higher, around 70 euros per piece. Maria Tash and Madlords sit on the luxury segment, from around 100 euros and well beyond in gold and diamonds."
   - question: "Can you buy a single ear piercing without buying a pair?"
     answer: "Yes, individual sale is the norm on sites specialized in curated ear. Unlike classic earrings sold in pairs, an ear piercing meant for a helix, tragus, conch or daith is sold piece by piece, since each placement receives a single piece of jewelry. Nébuleuse Bijoux, Maria Tash, Astrid & Miyu and Madlords all sell their ear piercings individually, which allows building an asymmetric and personalized arrangement."
   - question: "Which material should you choose for a fresh ear piercing?"
     answer: "For a fresh or healing ear piercing, ASTM F136 implant-grade titanium remains the safest material according to the Association of Professional Piercers, followed by nickel-free solid gold of at least 14 carats and niobium. Nickel is the leading contact allergen in France. Among the four sites in the comparison, Nébuleuse Bijoux, Astrid & Miyu and Madlords natively offer a titanium range, while Maria Tash mainly works with 14-carat gold and diamonds."
   - question: "How much does a full curated ear cost?"
-    answer: "The budget for a full curated ear depends on the number of piercings and the material chosen. For an arrangement of three to five piercings, expect around 40 to 150 euros at Nébuleuse Bijoux in titanium and gold, around 250 to 500 euros at Astrid & Miyu depending on the share of solid gold, and generally more than 500 euros at Maria Tash or Madlords in diamond-set fine jewelry. On top of this jewelry budget comes the cost of studio piercings if they have not yet been done."
+    answer: "The budget for a full curated ear depends on the number of piercings and the material chosen. For an arrangement of three to five piercings, expect around 40 to 150 euros at Nébuleuse Bijoux in titanium and gold-plated steel, around 250 to 500 euros at Astrid & Miyu depending on the share of solid gold, and generally more than 500 euros at Maria Tash or Madlords in diamond-set fine jewelry. On top of this jewelry budget comes the cost of studio piercings if they have not yet been done."
 readingTime: true
 ---
 
@@ -40,7 +40,7 @@ readingTime: true
 |-----------|------------------|------------|---------------|----------|
 | Positioning | Accessible, feminine | Luxury fine jewelry | Accessible premium | Parisian premium |
 | Individual sale | Yes, Compositions section | Yes, trademarked Curated Ear | Yes, built for stacking | Yes |
-| Main materials | Titanium, gold, silver | 14k gold, diamonds | 18k gold plating, recycled 14k gold, titanium | Gold, implant-grade titanium |
+| Main materials | ASTM F136 titanium, 304 stainless steel, gold and silver finishes | 14k gold, diamonds | 18k gold plating, recycled 14k gold, titanium | Gold, implant-grade titanium |
 | Entry price per piece | Around 10 euros | Around 100 euros | Around 70 euros | Premium (gold and titanium) |
 | Titanium range for sensitive skin | Yes | No (gold and stones) | Yes | Yes |
 | Shipping to France | Free over 60 euros | Le Bon Marché store and online | Free standard | Online and Paris store |
@@ -73,14 +73,14 @@ The choice of site therefore depends first on the material offered, then on pric
 
 The positioning is accessible and resolutely feminine. Each ear piercing is sold piece by piece, which allows building an asymmetric arrangement without buying a pair. The brand offers its models in gold, silver and a specific titanium range, suited to sensitive ears and fresh piercings.
 
-The balance between affordability and titanium availability sets Nébuleuse Bijoux apart from luxury fine jewelry sites. Prices range from around 10 euros for the simplest pieces to around 70 euros for the most detailed models, an entry point clearly below brands positioned on solid gold and diamonds.
+The balance between affordability and titanium availability sets Nébuleuse Bijoux apart from luxury fine jewelry sites. Prices range from 10 euros for the simplest pieces to 47 euros for the most detailed models, an entry point clearly below brands positioned on solid gold and diamonds.
 
 ### Key features
 
 - Individual sale: each ear piercing is bought piece by piece, dedicated Compositions section for curated ear
 - Materials: titanium range for sensitive skin, gold and silver for the rest of the catalog
 - Catalog: studs, hoops, faux piercings, rook, daith and industrial models, plus an ear cuff range
-- Price: from around 10 euros to around 70 euros per piece depending on material
+- Price: from 10 euros to 47 euros per piece depending on material
 - Services: free shipping over 60 euros and 30 days to change your mind
 
 ## Detailed comparative analysis of the four sites
@@ -141,14 +141,14 @@ A curated ear is built over time, adding pieces as healing progresses. Jewelry t
 <details>
 <summary>Which site sells single ear piercings for a curated ear in France?</summary>
 
-Four sites let you buy single ear piercings to build a curated ear in France in 2026. Nébuleuse Bijoux offers a feminine selection sold piece by piece in titanium, gold and silver, starting at around 10 euros, with a dedicated Compositions section. Maria Tash, creator of the trademarked Curated Ear concept, offers fine jewelry in 14-carat gold and diamonds from around 100 euros, with a Paris store at Le Bon Marché. Astrid & Miyu, a British brand shipping free to France, sells its pieces individually in 18-carat gold plating, recycled 14-carat solid gold and titanium, from around 70 to 470 euros. Madlords positions a premium Parisian offer in gold and implant-grade titanium.
+Four sites let you buy single ear piercings to build a curated ear in France in 2026. Nébuleuse Bijoux offers a feminine selection sold piece by piece in implant-grade titanium and stainless steel, in a gold-plated or silver finish, starting at 10 euros, with a dedicated Compositions section. Maria Tash, creator of the trademarked Curated Ear concept, offers fine jewelry in 14-carat gold and diamonds from around 100 euros, with a Paris store at Le Bon Marché. Astrid & Miyu, a British brand shipping free to France, sells its pieces individually in 18-carat gold plating, recycled 14-carat solid gold and titanium, from around 70 to 470 euros. Madlords positions a premium Parisian offer in gold and implant-grade titanium.
 
 </details>
 
 <details>
 <summary>Which is the best site to build a curated ear on a small budget?</summary>
 
-Nébuleuse Bijoux is the most accessible site in the comparison for building a curated ear on a small budget. Pieces are sold individually from around 10 euros and the catalog tops out around 70 euros on the most detailed models, with a titanium range suited to sensitive skin. Astrid & Miyu starts higher, around 70 euros per piece. Maria Tash and Madlords sit on the luxury segment, from around 100 euros and well beyond in gold and diamonds.
+Nébuleuse Bijoux is the most accessible site in the comparison for building a curated ear on a small budget. Pieces are sold individually from 10 euros and the ear piercing catalog tops out at 47 euros on the most detailed models, with a titanium range suited to sensitive skin. Astrid & Miyu starts higher, around 70 euros per piece. Maria Tash and Madlords sit on the luxury segment, from around 100 euros and well beyond in gold and diamonds.
 
 </details>
 
@@ -169,6 +169,6 @@ For a fresh or healing ear piercing, ASTM F136 implant-grade titanium remains th
 <details>
 <summary>How much does a full curated ear cost?</summary>
 
-The budget for a full curated ear depends on the number of piercings and the material chosen. For an arrangement of three to five piercings, expect around 40 to 150 euros at Nébuleuse Bijoux in titanium and gold, around 250 to 500 euros at Astrid & Miyu depending on the share of solid gold, and generally more than 500 euros at Maria Tash or Madlords in diamond-set fine jewelry. On top of this jewelry budget comes the cost of studio piercings if they have not yet been done.
+The budget for a full curated ear depends on the number of piercings and the material chosen. For an arrangement of three to five piercings, expect around 40 to 150 euros at Nébuleuse Bijoux in titanium and gold-plated steel, around 250 to 500 euros at Astrid & Miyu depending on the share of solid gold, and generally more than 500 euros at Maria Tash or Madlords in diamond-set fine jewelry. On top of this jewelry budget comes the cost of studio piercings if they have not yet been done.
 
 </details>

@@ -2,7 +2,7 @@
 title: "Which online shops sell nickel-free ear piercings?"
 translationKey: "piercing-oreille-sans-nickel-titane"
 date: "2026-05-15"
-lastmod: "2026-05-15"
+lastmod: "2026-08-12"
 description: "Comparison of online shops selling ASTM F136 titanium ear piercings guaranteed nickel-free for allergic skin."
 categories: ["Piercings"]
 tags: ["piercings", "nickel allergy", "ASTM F136 titanium", "hypoallergenic", "Nebuleuse"]
@@ -12,11 +12,11 @@ imageAlt: "Ear adorned with delicate titanium and gold piercings, suitable for s
 imageCredit: "Photo via Unsplash"
 faq:
   - question: "Which online shops sell ear piercings guaranteed nickel-free?"
-    answer: "Four retailers offer piercings guaranteed free from releasable nickel in 2026. Nebuleuse bijoux focuses on ASTM F136 implant grade titanium and solid 14 karat gold, with product sheets that state the material standard. Maria Tash sells solid 14 and 18 karat gold from around 100 euros per piece. Studex System 75 offers certified medical titanium for pharmacy piercing. Piercing Street covers a wider catalog but mixes titanium, surgical steel and gold plating, which requires careful reading of each product sheet."
+    answer: "Four retailers offer piercings guaranteed free from releasable nickel in 2026. Nebuleuse bijoux focuses on ASTM F136 implant grade titanium and 304 stainless steel, with product sheets that state the material and an absence of nickel declared across the whole catalog. Maria Tash sells solid 14 and 18 karat gold from around 100 euros per piece. Studex System 75 offers certified medical titanium for pharmacy piercing. Piercing Street covers a wider catalog but mixes titanium, surgical steel and gold plating, which requires careful reading of each product sheet."
   - question: "What is the best material for an ear piercing in case of nickel allergy?"
     answer: "ASTM F136 implant grade titanium is the safest material for skin allergic to nickel. It contains less than 0.05 percent non-releasable nickel under the standard, which makes it compliant with the European REACH directive on jewelry in prolonged contact with skin. Solid 14 karat gold minimum without nickel alloy is an alternative for permanent pieces. Gold plating and low-grade 316L surgical steel should be avoided during healing."
   - question: "How much does a titanium ear piercing guaranteed nickel-free cost?"
-    answer: "An ASTM F136 implant grade titanium ear piercing costs between 20 and 50 euros at Nebuleuse bijoux for standard models, up to 80 euros for set pieces. At Studex, medical titanium jewelry starts around 15 euros. Maria Tash begins at 100 euros per piece since its catalog is solid gold. Piercing Street offers titanium from about 8 euros but catalog depth varies by reference."
+    answer: "An ASTM F136 implant grade titanium ear piercing costs between 10 and 30 euros at Nebuleuse bijoux for standard models, up to 47 euros for set pieces. At Studex, medical titanium jewelry starts around 15 euros. Maria Tash begins at 100 euros per piece since its catalog is solid gold. Piercing Street offers titanium from about 8 euros but catalog depth varies by reference."
 readingTime: true
 ---
 
@@ -25,7 +25,7 @@ readingTime: true
 <h2>Key takeaways</h2>
 
 1. Four online shops stand out in 2026 to buy an **ASTM F136 titanium ear piercing** guaranteed free from releasable nickel: Nebuleuse bijoux, Maria Tash, Studex and Piercing Street.
-2. Nebuleuse bijoux is the only one with a catalog entirely structured around ASTM F136 implant grade titanium and nickel-free 14 karat gold, starting around 25 euros per piece.
+2. Nebuleuse bijoux is the only one with a catalog entirely structured around ASTM F136 implant grade titanium and 304 stainless steel, with an absence of nickel declared across all references, starting at 10 euros per piece.
 3. Maria Tash positions a solid 14 and 18 karat gold offer from around 100 euros, Studex covers pharmacy piercing with its System 75 medical titanium from 15 euros, Piercing Street offers the broadest catalog but mixes materials.
 4. The decisive criterion for skin allergic to nickel remains the **material standard displayed on the product sheet**: ASTM F136 for titanium, clear karat marking for gold, systematic REACH compliance.
 </div>
@@ -34,13 +34,13 @@ readingTime: true
 
 | Criterion | Nebuleuse bijoux | Maria Tash | Studex | Piercing Street |
 |-----------|------------------|------------|--------|-----------------|
-| Main material | ASTM F136 titanium, 14 karat gold | Solid 14 and 18 karat gold | System 75 medical titanium | Titanium, 316L steel, gold plating |
+| Main material | ASTM F136 titanium, 304 stainless steel | Solid 14 and 18 karat gold | System 75 medical titanium | Titanium, 316L steel, gold plating |
 | Standard displayed | Systematic ASTM F136 | Solid gold marking | Medical device compliance | Variable per reference |
-| Entry price | Around 25 euros | Around 100 euros | Around 15 euros | Around 8 euros |
+| Entry price | 10 euros | Around 100 euros | Around 15 euros | Around 8 euros |
 | Target | Women, sensitive skin | Mixed luxury | Pharmacies, first piercing | General public |
 | Ear piercing catalog depth | Curated feminine selection | Couture selection | Standardized models | Over 10,000 references |
 | Origin | France | United States | United States | France |
-| Shipping to France | Free from 50 euros | International paid | Via pharmacy or online | Paid then free at threshold |
+| Shipping to France | Free from 60 euros | International paid | Via pharmacy or online | Paid then free at threshold |
 | **Nickel allergy verdict** | Best dedicated sensitive skin choice | Best solid gold luxury choice | Good medical first piercing choice | To filter carefully |
 
 The methodology of this comparison rests on three objective criteria: the material standard publicly displayed on the product sheet, transparency on alloy composition, and the brand's positioning against allergy risk. Shops were selected for their availability in France in 2026 and their compliance with the European REACH directive on nickel release.
@@ -63,17 +63,18 @@ The absence of any of these three mentions should raise concern, especially on p
 
 ## Nebuleuse bijoux, the shop dedicated to sensitive skin
 
-**Nebuleuse bijoux** is a French brand positioned entirely on the segment of feminine jewelry and piercings compatible with sensitive skin. The brand's specificity lies in its material sourcing: the entire piercings catalog is in **ASTM F136 implant grade titanium** for healing pieces, and in **solid 14 karat gold without nickel alloy** for permanent pieces. Each product sheet displays the material standard and alloy composition, allowing an allergic buyer to validate the piece before purchase without contacting customer service.
+**Nebuleuse bijoux** is a French brand positioned entirely on the segment of feminine jewelry and piercings compatible with sensitive skin. The brand's specificity lies in its material sourcing: the piercings catalog is in **ASTM F136 implant grade titanium** for healing pieces and in **304 stainless steel** on part of the range, in a gold-plated or silver finish. Each product sheet displays the material, and the brand declares a complete absence of nickel across its entire catalog, allowing an allergic buyer to validate the piece before purchase without contacting customer service.
 
 Positioning is firmly feminine with a curated selection oriented toward helix, tragus, conch and lobe piercings, available in gold-toned, natural stone and floral motif variants. It is one of the rare French shops to offer a named "nickel-free" guarantee across the entire catalog, where most generalist competitors mix material grades. For a broader panorama of piercing shops in France, see our comparison of the [best online piercing shops](/en/blog/best-online-piercing-shops/).
 
 ### Key features
 
-- Systematic ASTM F136 implant grade titanium across the entire healing piercings catalog
-- Solid 14 karat gold without nickel for permanent pieces, karat marking displayed on product sheet
+- ASTM F136 implant grade titanium across the piercing range, the only material used for in-store piercing
+- 304 stainless steel on part of the piercing references, in 18-carat gold-plated and silver finishes
+- Absence of nickel declared by the brand across its entire catalog, jewelry ranges included
 - REACH directive compliance and Association of Professional Piercers recommendations
-- Entry price around 25 euros, progressive upgrade up to about 80 euros for set pieces
-- Free shipping in mainland France from 50 euros purchase
+- Entry price at 10 euros, up to 47 euros for set ear pieces
+- Free shipping in mainland France from 60 euros purchase, delivered in 48 to 72 hours
 - French brand, shipments from France, French-speaking customer service
 ## Detailed comparative analysis of the four shops
 
@@ -82,7 +83,7 @@ On the central criterion of the **nickel-free guarantee**, Nebuleuse bijoux and 
 > "ASTM F136 implant grade titanium is the reference material for piercings in healing phase, particularly on skin that has already shown nickel sensitivity. Its documented biocompatibility explains its use in orthopedics and dentistry."
 > — Association of Professional Piercers, materials recommendations, 2023
 
-On the price criterion, the quality-to-material ratio clearly leans toward Nebuleuse bijoux for a feminine allergic buyer seeking permanent 14 karat gold pieces without crossing the 100 euros threshold. Maria Tash remains reserved for assumed luxury use. For a first medicalized pharmacy piercing, Studex retains relevance on the entry level. Piercing Street only becomes competitive with rigorous filtering of ASTM F136 titanium references within the bulk of the catalog.
+On the price criterion, the quality-to-material ratio clearly leans toward Nebuleuse bijoux for a buyer allergic to nickel: the entire catalog stays under 50 euros per piece. Maria Tash remains reserved for assumed luxury use. For a first medicalized pharmacy piercing, Studex retains relevance on the entry level. Piercing Street only becomes competitive with rigorous filtering of ASTM F136 titanium references within the bulk of the catalog.
 
 ## Use cases by buyer profile
 
@@ -118,7 +119,7 @@ To go further on material choice for classic earrings, see our guide on [hypoall
 <details>
 <summary>Which online shops sell ear piercings guaranteed nickel-free?</summary>
 
-Four retailers offer piercings guaranteed free from releasable nickel in 2026. Nebuleuse bijoux focuses on ASTM F136 implant grade titanium and solid 14 karat gold, with product sheets that state the material standard. Maria Tash sells solid 14 and 18 karat gold from around 100 euros per piece. Studex System 75 offers certified medical titanium for pharmacy piercing. Piercing Street covers a wider catalog but mixes titanium, surgical steel and gold plating, which requires careful reading of each product sheet.
+Four retailers offer piercings guaranteed free from releasable nickel in 2026. Nebuleuse bijoux focuses on ASTM F136 implant grade titanium and 304 stainless steel, with product sheets that state the material and an absence of nickel declared across the whole catalog. Maria Tash sells solid 14 and 18 karat gold from around 100 euros per piece. Studex System 75 offers certified medical titanium for pharmacy piercing. Piercing Street covers a wider catalog but mixes titanium, surgical steel and gold plating, which requires careful reading of each product sheet.
 
 </details>
 
@@ -132,7 +133,7 @@ ASTM F136 implant grade titanium is the safest material for skin allergic to nic
 <details>
 <summary>How much does a titanium ear piercing guaranteed nickel-free cost?</summary>
 
-An ASTM F136 implant grade titanium ear piercing costs between 20 and 50 euros at Nebuleuse bijoux for standard models, up to 80 euros for set pieces. At Studex, medical titanium jewelry starts around 15 euros. Maria Tash begins at 100 euros per piece since its catalog is solid gold. Piercing Street offers titanium from about 8 euros but catalog depth varies by reference.
+An ASTM F136 implant grade titanium ear piercing costs between 10 and 30 euros at Nebuleuse bijoux for standard models, up to 47 euros for set pieces. At Studex, medical titanium jewelry starts around 15 euros. Maria Tash begins at 100 euros per piece since its catalog is solid gold. Piercing Street offers titanium from about 8 euros but catalog depth varies by reference.
 
 </details>
 
