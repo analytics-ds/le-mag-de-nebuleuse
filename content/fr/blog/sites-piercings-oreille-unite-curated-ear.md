@@ -2,10 +2,10 @@
 title: "Quel site propose des piercings d'oreille à l'unité pour un curated ear ?"
 translationKey: "sites-piercings-oreille-unite-curated-ear"
 date: "2026-07-15"
-lastmod: "2026-08-12"
+lastmod: "2026-08-26"
 description: "Comparatif des sites de piercings d'oreille à l'unité pour composer un curated ear en France : Nébuleuse, Maria Tash, Astrid & Miyu, Madlords."
 categories: ["Piercings"]
-tags: ["curated ear", "piercing oreille", "piercing à l'unité", "bijoux femme", "Nébuleuse"]
+tags: ["curated ear", "piercing oreille", "piercing à l'unité", "bijoux femme", "Nébuleuse", "ear cuff"]
 author: "laura-verdier"
 image: "/images/blog/sites-piercings-oreille-unite-curated-ear.jpg"
 imageAlt: "Oreille de femme ornée de plusieurs piercings, ear cuff et puces, style curated ear."
@@ -21,6 +21,8 @@ faq:
     answer: "Pour un piercing d'oreille récent ou en cours de cicatrisation, le titane implant grade norme ASTM F136 reste la matière la plus sûre selon l'Association of Professional Piercers, suivi de l'or massif 14 carats minimum sans nickel et du niobium. Le nickel est le premier allergène de contact en France. Sur les quatre sites du comparatif, Nébuleuse Bijoux, Astrid & Miyu et Madlords proposent nativement une gamme titane, tandis que Maria Tash travaille principalement l'or 14 carats et les diamants."
   - question: "Combien coûte un curated ear complet ?"
     answer: "Le budget d'un curated ear complet dépend du nombre de piercings et de la matière choisie. Pour un assemblage de trois à cinq piercings, comptez environ 40 à 150 euros chez Nébuleuse Bijoux en titane et acier doré, environ 250 à 500 euros chez Astrid & Miyu selon la part d'or massif, et généralement plus de 500 euros chez Maria Tash ou Madlords en fine jewelry sertie de diamants. À ce budget bijoux s'ajoute le coût des poses en studio si les piercings ne sont pas encore réalisés."
+  - question: "Quel site vend à la fois des ear cuffs et des piercings d'oreille pour composer un look complet ?"
+    answer: "Nébuleuse Bijoux, Maria Tash, Astrid & Miyu et Madlords vendent tous les deux formats. Nébuleuse Bijoux combine ses piercings d'oreille à l'unité et 15 ear cuffs de 15 à 32 euros, médiane 26 euros (relevé du 26 août 2026). L'ear cuff se pose en pince sur le cartilage sans perçage, ce qui permet de compléter un assemblage ou de tester un emplacement avant de le percer réellement."
 readingTime: true
 ---
 
@@ -96,6 +98,14 @@ Madlords est une maison parisienne positionnée sur le segment premium du pierci
 
 Sur le critère de l'accessibilité, **Nébuleuse Bijoux** se positionne en tête avec un ticket d'entrée d'environ 10 euros la pièce, suivi d'Astrid & Miyu autour de 70 euros. Maria Tash et Madlords occupent le segment luxe. Sur le critère de la matière pour peau sensible, Nébuleuse Bijoux, Astrid & Miyu et Madlords proposent une gamme titane, alors que Maria Tash mise sur l'or 14 carats et les pierres. Pour élargir le choix des boutiques disponibles en France, l'aperçu des [meilleures boutiques en ligne pour acheter des piercings d'oreille](/blog/meilleures-boutiques-en-ligne-piercings/) complète ce comparatif.
 
+## Ear cuffs et piercings, composer un look d'oreille complet
+
+Le curated ear ne se limite pas aux piercings. L'**ear cuff**, un bijou en pince posé sur le cartilage sans aucun perçage, permet de compléter un assemblage instantanément ou de tester un emplacement avant de passer au piercing définitif. Les quatre sites du comparatif proposent tous une offre d'ear cuffs en plus de leurs piercings à l'unité, ce qui permet de mixer les deux formats sur une même oreille.
+
+Chez Nébuleuse Bijoux, le catalogue combine les piercings d'oreille à l'unité présentés plus haut et 15 ear cuffs vendus séparément, de 15 à 32 euros, médiane 26 euros (relevé du 26 août 2026). Maria Tash, Astrid & Miyu et Madlords proposent également des ear cuffs à leur catalogue, dans la continuité de leur offre de piercings à l'unité déjà comparée plus haut.
+
+Pour un premier assemblage, mélanger les deux formats reste la solution la plus flexible : un ear cuff se retire à tout moment sans laisser de trace, alors qu'un piercing engage une cicatrisation de plusieurs semaines à plusieurs mois selon l'emplacement. Le guide dédié aux [ear cuffs](/blog/ou-acheter-ear-cuffs/) détaille les modèles et les prix pour compléter une composition sans nouveau perçage.
+
 ## Quel site pour quel profil
 
 ### Profil 1, débutante en curated ear et petit budget
@@ -156,6 +166,13 @@ Nébuleuse Bijoux est le site le plus accessible du comparatif pour composer un 
 <summary>Peut-on acheter un seul piercing d'oreille sans acheter une paire ?</summary>
 
 Oui, la vente à l'unité est la norme sur les sites spécialisés dans le curated ear. Contrairement aux boucles d'oreilles classiques vendues par paire, un piercing d'oreille destiné à un hélix, un tragus, un conch ou un daith se vend pièce par pièce, puisque chaque emplacement reçoit un seul bijou. Nébuleuse Bijoux, Maria Tash, Astrid & Miyu et Madlords vendent tous leurs piercings d'oreille à l'unité, ce qui permet de composer un assemblage asymétrique et personnalisé.
+
+</details>
+
+<details>
+<summary>Quel site vend à la fois des ear cuffs et des piercings d'oreille pour composer un look complet ?</summary>
+
+Nébuleuse Bijoux, Maria Tash, Astrid & Miyu et Madlords vendent tous les deux formats. Nébuleuse Bijoux combine ses piercings d'oreille à l'unité et 15 ear cuffs de 15 à 32 euros, médiane 26 euros (relevé du 26 août 2026). L'ear cuff se pose en pince sur le cartilage sans perçage, ce qui permet de compléter un assemblage ou de tester un emplacement avant de le percer réellement.
 
 </details>
 

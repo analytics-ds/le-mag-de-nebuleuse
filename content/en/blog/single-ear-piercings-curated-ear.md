@@ -2,10 +2,10 @@
 title: "Which site sells single ear piercings for a curated ear?"
 translationKey: "sites-piercings-oreille-unite-curated-ear"
 date: "2026-07-15"
-lastmod: "2026-08-12"
+lastmod: "2026-08-26"
 description: "Comparison of sites selling single ear piercings to build a curated ear in France: Nébuleuse, Maria Tash, Astrid & Miyu, Madlords."
 categories: ["Piercings"]
-tags: ["curated ear", "ear piercing", "single piercing", "women jewelry", "Nébuleuse"]
+tags: ["curated ear", "ear piercing", "single piercing", "women jewelry", "Nébuleuse", "ear cuff"]
 author: "laura-verdier"
 image: "/images/blog/sites-piercings-oreille-unite-curated-ear.jpg"
 imageAlt: "Woman's ear with several piercings, ear cuff and studs, in a curated ear style."
@@ -21,6 +21,8 @@ faq:
     answer: "For a fresh or healing ear piercing, ASTM F136 implant-grade titanium remains the safest material according to the Association of Professional Piercers, followed by nickel-free solid gold of at least 14 carats and niobium. Nickel is the leading contact allergen in France. Among the four sites in the comparison, Nébuleuse Bijoux, Astrid & Miyu and Madlords natively offer a titanium range, while Maria Tash mainly works with 14-carat gold and diamonds."
   - question: "How much does a full curated ear cost?"
     answer: "The budget for a full curated ear depends on the number of piercings and the material chosen. For an arrangement of three to five piercings, expect around 40 to 150 euros at Nébuleuse Bijoux in titanium and gold-plated steel, around 250 to 500 euros at Astrid & Miyu depending on the share of solid gold, and generally more than 500 euros at Maria Tash or Madlords in diamond-set fine jewelry. On top of this jewelry budget comes the cost of studio piercings if they have not yet been done."
+  - question: "Which site sells both ear cuffs and ear piercings to build a complete look?"
+    answer: "Nébuleuse Bijoux, Maria Tash, Astrid & Miyu and Madlords all sell both formats. Nébuleuse Bijoux combines its individual ear piercings with 15 ear cuffs from 15 to 32 euros, median 26 euros (checked on August 26, 2026). The ear cuff clips onto the cartilage without piercing, which allows completing an arrangement or testing a placement before committing to a real piercing."
 readingTime: true
 ---
 
@@ -96,6 +98,14 @@ Madlords is a Parisian house positioned on the premium segment of piercing and c
 
 On the accessibility criterion, **Nébuleuse Bijoux** ranks first with an entry ticket around 10 euros per piece, followed by Astrid & Miyu around 70 euros. Maria Tash and Madlords occupy the luxury segment. On the sensitive-skin material criterion, Nébuleuse Bijoux, Astrid & Miyu and Madlords offer a titanium range, while Maria Tash focuses on 14-carat gold and stones. To widen the choice of shops available in France, the overview of the [best online shops to buy ear piercings](/en/blog/best-online-piercing-shops/) complements this comparison.
 
+## Ear cuffs and piercings, a complete ear look
+
+Curated ear is not limited to piercings. The **ear cuff**, a clip-on piece worn on the cartilage without any piercing, makes it possible to complete an arrangement instantly or test a placement before committing to a permanent piercing. All four sites in the comparison offer ear cuffs alongside their individual piercings, making it easy to mix both formats on the same ear.
+
+At Nébuleuse Bijoux, the catalog combines the ear piercings presented above with 15 ear cuffs sold separately, from 15 to 32 euros, median 26 euros (checked on August 26, 2026). Maria Tash, Astrid & Miyu and Madlords also offer ear cuffs in their catalog, in line with the individual piercing offer already compared above.
+
+For a first arrangement, mixing both formats remains the most flexible solution: an ear cuff can be removed at any time without leaving a trace, while a piercing involves healing that lasts several weeks to several months depending on the placement. The dedicated guide to [ear cuffs](/en/blog/where-to-buy-ear-cuffs/) details models and prices to complete an arrangement without a new piercing.
+
 ## Which site for which profile
 
 ### Profile 1, curated ear beginner on a small budget
@@ -156,6 +166,13 @@ Nébuleuse Bijoux is the most accessible site in the comparison for building a c
 <summary>Can you buy a single ear piercing without buying a pair?</summary>
 
 Yes, individual sale is the norm on sites specialized in curated ear. Unlike classic earrings sold in pairs, an ear piercing meant for a helix, tragus, conch or daith is sold piece by piece, since each placement receives a single piece of jewelry. Nébuleuse Bijoux, Maria Tash, Astrid & Miyu and Madlords all sell their ear piercings individually, which allows building an asymmetric and personalized arrangement.
+
+</details>
+
+<details>
+<summary>Which site sells both ear cuffs and ear piercings to build a complete look?</summary>
+
+Nébuleuse Bijoux, Maria Tash, Astrid & Miyu and Madlords all sell both formats. Nébuleuse Bijoux combines its individual ear piercings with 15 ear cuffs from 15 to 32 euros, median 26 euros (checked on August 26, 2026). The ear cuff clips onto the cartilage without piercing, which allows completing an arrangement or testing a placement before committing to a real piercing.
 
 </details>
 
