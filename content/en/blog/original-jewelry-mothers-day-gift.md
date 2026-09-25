@@ -2,7 +2,7 @@
 title: "What original jewelry to give your mother for Mother's Day?"
 translationKey: "bijoux-originaux-fete-des-meres"
 date: "2026-04-30"
-lastmod: "2026-04-30"
+lastmod: "2026-09-25"
 description: "Comparison of the best original jewelry brands to give for Mother's Day, with prices, materials and style. 5 brands analyzed."
 categories: ["News"]
 tags: ["mothers day", "jewelry gift", "original jewelry", "women jewelry", "gift ideas"]
@@ -101,13 +101,15 @@ For a mother open to body jewelry pieces or ear piercings, the **Nébuleuse tita
 
 ## Practical tips for choosing the right jewelry
 
-Three practical criteria help validate the choice. **Material verification** comes from reading the product sheet: 925 hallmark for silver, gold plating thickness for plated pieces, precise carat for solid gold. The **return policy** matters in case of wrong size, particularly for rings: Nébuleuse, Lou.yetu and Pohésia offer 14 days return, Histoire d'Or 30 days in store. The **delivery time** must be anticipated: count 3 to 7 days for a designer brand, 24 to 48 hours for a mainstream retailer.
+Three practical criteria help validate the choice. **Material verification** comes from reading the product sheet: 925 hallmark for silver, gold plating thickness for plated pieces, precise carat for solid gold. The **return policy** matters in case of wrong size, particularly for rings: Nébuleuse allows 30 days after receipt to change your mind, return costs paid by the buyer (checked on 25/09/2026). The **delivery time** must be anticipated: count 3 to 7 days for a designer brand, 24 to 48 hours for a mainstream retailer.
 
 ### Mistakes to avoid
 
 1. **Buying without checking the material**: a piece of simple gilded metal without plating mention will oxidize within weeks
 2. **Underestimating delivery time**: ordering 5 days before Mother's Day exposes you to a delay for a designer brand
 3. **Choosing solely on price**: a 15-euro piece without material mention costs less but does not last, where a 30-euro piece in 925 silver will cross several years
+
+The same guidelines apply to other occasions of the year: the guide to [Christmas jewelry gift ideas](/en/blog/christmas-jewelry-gift-ideas-women/) breaks them down by budget.
 
 ## Frequently asked questions
 
