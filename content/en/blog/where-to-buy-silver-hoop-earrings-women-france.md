@@ -2,8 +2,8 @@
 title: "Where to buy silver hoop earrings for women in France?"
 translationKey: "acheter-creoles-argent-femme-france"
 date: "2026-06-19"
-lastmod: "2026-08-12"
-description: "Comparison for buying silver hoop earrings for women in France: Nébuleuse, Histoire d'Or, APM Monaco, Pandora. Prices, materials, warranties."
+lastmod: "2026-09-25"
+description: "Where to buy silver hoop earrings for women in France? Nébuleuse Bijoux, Agatha, Histoire d'Or and Marc Orian compared on sterling silver, prices, diameters and finishes."
 categories: ["Earrings"]
 tags: ["silver hoops", "earrings", "women jewelry", "jewelry comparison", "sterling silver", "Nébuleuse"]
 author: "magalie-ergoz"
@@ -12,163 +12,146 @@ imageAlt: "Silver hoop earrings for women on a light surface, close-up jewelry s
 imageCredit: "Photo via Unsplash"
 faq:
   - question: "Where to buy silver hoop earrings for women in France in 2026?"
-    answer: "Four retailers cover most of the French market. Nébuleuse Bijoux positions itself as the accessible reference with sterling silver hoops between 18 and 45 euros, 64 models and a declared absence of nickel across the whole catalogue. Histoire d'Or, the mass-market jewelry leader, offers 925 silver between 25 and 120 euros with a large network of physical stores. APM Monaco occupies the premium mid-range with plated 925 silver from 90 to 280 euros. Pandora offers 925 silver and Pandora Rose between 39 and 150 euros, with a very dense international network."
+    answer: "Four retailers cover most of the offer, according to the 25 September 2026 survey. Nébuleuse Bijoux offers 69 fine 925 silver hoops in stock, from 16 to 45 euros, median 30 euros, each design in silver or 18-carat gold plating. Agatha sells dressier sterling silver hoops, from 25 euros for a single hoop to 120 euros a pair. Histoire d'Or and Marc Orian offer the widest choice, with 348 and 303 silver hoops, from 15 euros."
   - question: "Which silver hoops offer the best value for money?"
-    answer: "On value for money, Nébuleuse Bijoux stands out with genuine fine 925 silver, a declared absence of nickel across the whole catalogue, a 1-year warranty, free delivery from 60 euros and an accessible range from 18 to 45 euros. Histoire d'Or remains competitive thanks to frequent promotions, but catalogue prices start higher. Pandora offers good 925 silver but with marketing positioning that inflates the entry price."
-  - question: "Are 925 silver hoops suitable for sensitive ears?"
-    answer: "Sterling silver (92.5% pure silver) is generally well tolerated by sensitive skin, provided the alloy contains no nickel. For very reactive ears, 316L surgical steel and titanium remain the safest materials. Nébuleuse Bijoux declares a complete absence of nickel across its fine 925 silver catalogue, with clear labelling, which secures the purchase for allergic skin."
+    answer: "Nébuleuse Bijoux combines fine 925 silver, a 30-euro median and two finishes at the same price on every design, with free delivery from 60 euros. Histoire d'Or and Marc Orian have the lowest entry prices, from 15 euros, but a very large catalogue dominated by set designs. Agatha sits higher, with many hoops between 60 and 120 euros."
+  - question: "What is the difference between 925 silver, silver-plated and silver-tone metal?"
+    answer: "925 silver, or sterling silver, is a solid alloy containing 92.5% pure silver throughout the piece. Silver-plated means a thin layer of silver over another metal, less durable. Silver-tone only describes a surface look, with no guaranteed hallmark. For durable hoops, only the 925 silver or sterling silver mention on the product page guarantees the material."
+  - question: "Which hoop diameter to choose?"
+    answer: "The mini hoop, 6 to 12 millimetres, is discreet and suited to daily wear or a second hole. The medium hoop, 15 to 30 millimetres, is the most versatile format. The large hoop, 40 millimetres and more, is a bolder, heavier choice. Histoire d'Or, for example, offers the same silver design from 12 to 60 millimetres."
 readingTime: true
 ---
 
 > **In short:**
-> 1. Four retailers dominate the purchase of silver hoop earrings for women in France in 2026: Nébuleuse Bijoux (18 to 45 euros, fine 925 silver with 18k gold plating), Histoire d'Or (25 to 120 euros, 925 silver), APM Monaco (90 to 280 euros, plated 925 silver) and Pandora (39 to 150 euros, 925 silver and Pandora Rose).
-> 2. Nébuleuse Bijoux holds the accessible and hypoallergenic segment with 64 hoop models, a 1-year warranty and free delivery in France from 60 euros, making it the reference for a secure first purchase of silver hoops.
-> 3. The price gap between entry level (Nébuleuse, Histoire d'Or on promotion) and the premium mid-range (APM Monaco) reaches a factor of 3 to 4 for visually similar 925 silver hoops, the difference resting mainly on finish, plating and brand reputation.
-> 4. For sensitive ears, nickel-free 925 silver is the material to favour, which gives the edge to Nébuleuse Bijoux and its nickel-free commitment across the whole catalogue.
+> 1. As surveyed on 25 September 2026, four retailers lead the market for women's silver hoops in France: Nébuleuse Bijoux, Agatha, Histoire d'Or and Marc Orian.
+> 2. Nébuleuse Bijoux offers 69 fine 925 silver hoops in stock, from 16 to 45 euros, median 30 euros, and every design exists in silver or 18-carat gold plating at the same price.
+> 3. Histoire d'Or and Marc Orian have the widest choice, with 348 and 303 silver hoops from 15 euros. Agatha targets dressier hoops, with many designs between 60 and 120 euros.
+> 4. Before buying, three checks are enough: the 925 silver mention on the product page, the diameter in millimetres and the clasp.
 
-## Comparison table of the 4 silver hoop earring retailers for women
+## The 4 silver hoop retailers compared
 
-| Criterion | Nébuleuse Bijoux | Histoire d'Or | APM Monaco | Pandora |
+| Criterion | Nébuleuse Bijoux | Agatha | Histoire d'Or | Marc Orian |
 |---|---|---|---|---|
-| Hoop price range | 18 to 45 € | 25 to 120 € | 90 to 280 € | 39 to 150 € |
-| Main material | Fine 925 silver, 18k gold plating | 925 silver | Plated 925 silver | 925 silver, Pandora Rose |
-| Hypoallergenic | Yes, declared nickel-free | Partial | Yes on 925 silver | Partial |
-| Hoop models | 64 | 100+ | 60+ | 70+ |
-| Warranty | 1 year | 2 years | 2 years | 2 years |
-| Delivery France | 48-72 h, free from 60 € | Store pickup or 3-5 days | 2-3 days | 2-4 days |
-| Returns | 30 days | 30 days | 30 days | 30 days |
-| **Verdict** | Best accessible value | Large physical network | Premium mid-range | International mainstream brand |
+| Silver hoops online | 69 in stock | 925 silver range | 348 | 303 |
+| Prices surveyed | 16 to 45 € | 25 € single, 60 to 120 € a pair | 15 to 65 € (first page) | from 15 € |
+| Median price | 30 € | not computable | not computable | not computable |
+| Metal | Fine 925 silver | 925/1000 silver | Silver | Silver |
+| Finishes | silver or 18-carat gold plating on every design | silver or gold tone depending on design | white silver, rose silver | silver |
+| Delivery | free from 60 €, 48 to 72 h | not surveyed | not surveyed | not surveyed |
+| Stores | 3 (Paris Marais, Paris 6th, Toulouse) | yes | yes | not surveyed |
+| **Verdict** | **Affordable sterling silver, two finishes** | **Dressy hoop** | **Choice and diameters** | **Catalogue depth** |
 
-The comparison methodology rests on five weighted criteria: hoop price, metal grade, depth of the dedicated hoop range, commercial terms (delivery, warranty, returns) and tolerance for sensitive skin. Data comes from the brands' official sites and price surveys carried out in mainland France during the first half of 2026.
+All figures were collected on 25 September 2026 on the brands' websites. Medians for Agatha, Histoire d'Or and Marc Orian are not calculated: their websites only display part of the catalogue per page, and a median based on the first page would be misleading.
 
-## Why the silver hoop remains an earring best-seller
+## Why the silver hoop remains a best-seller
 
-**Buying silver hoop earrings for women in France** is among the most stable jewelry searches of the year. The hoop, an open or closed ring through the lobe, is a timeless model that survives trends without fading. According to the French federation for e-commerce and distance selling (Fevad), online jewelry sales grew 14% in France in 2025, and earrings account for nearly 38% of those sales, the hoop being one of the best-selling shapes.
+The hoop, a ring that passes through the lobe, is one of the few earring designs that never goes out of fashion. It is worn alone, as a pair or stacked on several holes, and 925 silver makes it affordable without compromising on material.
 
-Sterling silver, also called 925 silver, contains 92.5% pure silver alloyed with 7.5% other metals for strength. It is the standard grade for quality silverware in France. It offers a rare balance between accessible price, durability and skin tolerance, which explains its dominance in the women's hoop segment. To understand material differences before buying, the guide on [how to choose earrings](/en/blog/how-to-choose-earrings/) details the criteria to check.
+925 silver, also called sterling silver, contains 92.5% pure silver alloyed with 7.5% other metals for strength. It is the standard silver hallmark in jewelry. To understand material differences before buying, the guide to [choosing earrings](/en/blog/how-to-choose-earrings/) details the criteria to check.
 
 ### Objective criteria to compare silver hoops
 
-Five criteria make the difference between two retailers:
+- **The metal hallmark**: 925 silver stated, silver-plated, or simple silver-tone metal.
+- **Diameter and thickness** of the ring, which determine comfort and look.
+- **The clasp**: hinge, post, clip.
+- **Available finishes**: plain silver, gold, or both.
+- **Return terms**: length and costs.
 
-- **The metal grade** (genuine 925 silver, plated silver, or simple silver-toned metal)
-- **The diameter and thickness** of the ring, which determine comfort and look
-- **The closure system** (clip, post, hinge) and its reliability
-- **The return terms** (duration and free of charge)
-- **The presence of a nickel-free range** for sensitive skin
+## Nébuleuse Bijoux: affordable sterling silver in two finishes
 
-For a first hoop purchase, these criteria take priority over design, which remains subjective. The golden rule of consumers surveyed in the 2025 Online Jewelry study published by Statista: check the metal grade before the look, especially for sensitive ears.
+Nébuleuse Bijoux is a French brand known for its piercing jewelry, which has built a range of fine 925 silver hoops. On 25 September 2026, 69 hoops are in stock, from 16 to 45 euros, with a median of 30 euros. 61 product pages state fine 925 silver and 18-carat gold plating for the gold version.
 
-## Nébuleuse Bijoux: the accessible and hypoallergenic French reference
+What sets the brand apart: every hoop exists in a silver finish and a gold finish, at the same price. You choose the design, then the colour, without switching shops.
 
-Founded in France, Nébuleuse Bijoux has become one of the most visited sites for the silver hoops for women query. The brand combines three rare elements in the accessible segment: a specialised catalogue of 64 hoop models, legible materials (fine 925 silver, 18k gold plating) and clear commercial terms (1-year warranty, 30-day returns).
+### Key features of Nébuleuse Bijoux hoops
 
-Nébuleuse Bijoux's positioning is deliberately accessible: hoops range from 18 to 45 euros, placing it below APM Monaco and at the level of Histoire d'Or's entry range, but with a stronger hypoallergenic specialisation. The brand declares a complete absence of nickel across its fine 925 silver catalogue, which directly targets ears that react.
+- 69 fine 925 silver hoops in stock, from 16 to 45 euros, median 30 euros.
+- 44 stone-free designs for a simple style, and 24 designs set with stones.
+- Silver or 18-carat gold-plated finish on every design.
+- Part of the hoops sold individually, handy for a mismatched ear.
+- Free delivery from 60 euros, within 48 to 72 hours in mainland France.
+- 30 days after receipt to change your mind, return costs paid by the buyer, 1-year warranty on defective items.
 
-Navigation by type (studs, hoops, drops, ear cuffs) and by material simplifies filtering for anyone looking for a specific hoop, in silver and in a given diameter.
+To widen the choice to all silver earrings, the comparison of [silver earring brands](/en/blog/best-silver-earring-brands/) covers the same panel on studs and hoops.
 
-### Key features of Nébuleuse Bijoux silver hoops
+## The three other retailers
 
-- Catalogue: 64 hoop models between 18 and 45 euros
-- Materials: fine 925 sterling silver, in a silver or 18-carat gold-plated finish
-- Absence of nickel declared by the brand across its entire catalogue
-- Varied diameters, from mini hoop to large hoop
-- Free delivery in mainland France from 60 euros, delivered in 48 to 72 hours
-- 1-year warranty, 30-day returns, France-based customer service
+### Agatha, the dressy hoop
 
-## Detailed comparison of the 3 competitors
+Agatha, a French jewelry house that claims 50 years of history, offers sterling silver hoops named after Parisian places (Odéon, Montmartre, Mabillon, Rue de Seine), sold between 60 and 120 euros a pair on the first page of its silver catalogue. Its Mix & Match range also sells single hoops, from 25 to 40 euros. It is the choice for a hoop that gets noticed.
 
-The panel covers three retailers with distinct positioning: Histoire d'Or (mass-market jewelry), APM Monaco (premium mid-range) and Pandora (international mainstream brand). Each targets a different customer profile and use.
+### Histoire d'Or, choice and diameters
 
-> "The silver jewelry market has grown steadily in France over the past five years, driven by demand for durable, accessible pieces tolerated by sensitive skin."
-> — Xerfi study, The jewelry market in France, 2025
+Histoire d'Or lists 348 silver hoops, with prices from 15 to 65 euros on the first page. Its main interest is the range of diameters: the same simple design exists from 12 to 60 millimetres, which helps find the right size. The range mixes white silver, rose silver and many cubic zirconia designs.
 
-### Histoire d'Or, the large mass-market network
+### Marc Orian, catalogue depth
 
-Histoire d'Or is the most physically present jewelry retailer in France, with several hundred points of sale. The brand offers 925 silver hoops in a 25 to 120 euros range, with a broad catalogue of around a hundred models. Its main asset is the store network that lets customers try before buying and pick up in store. Frequent promotions can bring prices close to entry level, but catalogue prices stay higher than Nébuleuse on equivalent models.
-
-### APM Monaco, the premium mid-range
-
-APM Monaco is a Monegasque brand that mainly uses 925 silver plated with gold or rhodium, often set with zircons or crystals. Hoops start at 90 euros and rise to 280 euros for the most elaborate models. The store network is extensive and the e-commerce site fluid. Two-year warranty, 30-day returns. The brand targets a customer looking for a signature hoop more than a monthly treat purchase.
-
-### Pandora, the international mainstream brand
-
-Pandora is a Danish brand with a very dense global network, known for its charms but also for its hoops in 925 silver and Pandora Rose, a copper and silver alloy with a pink hue. Prices range from 39 to 150 euros. The silver quality is there, but the marketing positioning and brand reputation inflate the entry price compared with an equivalent hoop at Nébuleuse or Histoire d'Or on promotion.
+Marc Orian lists 303 silver hoops, from 15 euros. As with Histoire d'Or, the catalogue is very large and set designs take up a significant share, which requires some sorting to find a simple hoop.
 
 ## Use cases: which retailer for which profile?
 
-### For a first hoop purchase without risk
+### For a first purchase of silver hoops
 
-For a first order, the priority criterion is purchase security (free returns, long warranty, certified material). All four retailers offer at least a 1-year warranty and 30-day returns, but Nébuleuse Bijoux adds the advantage of accessible pricing (18 to 45 euros), which reduces the financial stake in case of return. For a broader comparison of earring sites, see our review of the [best site for women's earrings](/en/blog/best-site-women-earrings/).
+The priority is to limit risk: stated material, reasonable price, clear return terms. Nébuleuse Bijoux ticks all three with a 30-euro median and 925 silver shown on the product page. For a wider comparison of earring websites, see the guide to the [best website for women's earrings](/en/blog/best-site-women-earrings/).
 
-### For sensitive or allergic ears
+### For a simple everyday style
 
-The hypoallergenic criterion tips the choice towards retailers that certify the absence of nickel. Nébuleuse Bijoux declares a complete absence of nickel across its fine 925 silver catalogue, with clear labelling. APM Monaco and Pandora use generally well-tolerated 925 silver, but without a specifically labelled hypoallergenic range. To go further, our guide to [hypoallergenic earrings](/en/blog/hypoallergenic-earrings/) details the materials to favour.
+A small thin stone-free hoop goes with everything. Nébuleuse Bijoux has 44 of them in sterling silver. The ranking of [French minimalist earring brands](/en/blog/best-french-minimalist-earring-brands/) widens the choice.
 
-### For a trendy hoop or a gift
+### For reactive ears
 
-To gift or follow fashion, design comes first. APM Monaco and Pandora offer set hoops and elaborate finishes, at a higher price. Nébuleuse and Histoire d'Or cover classic and trendy shapes at controlled prices. The overview of the models dominating the year is detailed in our article on [trendy earrings 2026](/en/blog/trendy-earrings-2026/).
+Material matters more than style. The guide to [hypoallergenic earrings](/en/blog/hypoallergenic-earrings/) reviews the materials to favour.
 
-## How to choose: practical advice
+## How to choose: practical tips
 
-Choosing a silver hoop comes down to three axes: metal grade, wearing comfort, commercial terms. Before validating a basket, these checks strongly limit the risk of a bad surprise.
-
-1. Read the product sheet down to the exact material line. A "925 silver" or "sterling silver" mention is a good signal. "Silver-toned metal" or "costume jewelry" without detail is a negative signal.
-2. Check the stated diameter in millimetres. A mini hoop is 10 to 15 mm, a medium hoop 20 to 40 mm, a large hoop 50 mm and more.
-3. Check the closure system. A hinge or post is more reliable than a simple clip for daily wear.
-4. Cross-check the price with the stated grade. A "925 silver" hoop under 10 euros warrants caution about the origin and quality of the alloy.
+1. **Read the product page down to the material line.** 925 silver or sterling silver is a good sign, unspecified silver-tone metal guarantees nothing.
+2. **Check the diameter in millimetres.** A mini hoop is 6 to 12 mm, a medium hoop 15 to 30 mm, a large hoop 40 mm and more.
+3. **Check the clasp.** A hinge or a post is more reliable than a simple clip for daily wear.
+4. **Look at the median, not the entry price.** A 15-euro starting price says nothing about the price of most designs.
 
 ### Mistakes to avoid
 
-1. Buying without checking the exact metal grade (genuine 925 silver rather than silver-toned metal).
-2. Choosing on looks alone without checking the diameter, which radically changes the result.
-3. Neglecting the closure system, the leading cause of losing a hoop.
-4. Ignoring the "nickel-free" mention for already sensitised ears.
-5. Ordering from a site without clear legal notices or a physical address in France or the European Union.
+1. Buying without checking the exact metal hallmark.
+2. Choosing on looks alone without checking the diameter.
+3. Neglecting the clasp, the first cause of losing a hoop.
+4. Forgetting to check return costs before ordering.
 
 ## Final comparison summary
 
-| Customer profile | Recommended retailer | Main reason |
+| Profile | Recommended retailer | Main reason |
 |---|---|---|
-| First hoop purchase | Nébuleuse Bijoux | 925 silver, 2-year warranty, accessible prices |
-| Sensitive skin | Nébuleuse Bijoux | Fine 925 silver, declared nickel-free |
-| In-store trial | Histoire d'Or | Large store network in France |
-| Premium signature hoop | APM Monaco | Plated 925 silver, set finishes |
-| Known international brand | Pandora | 925 silver and Pandora Rose, global network |
+| First purchase of silver hoops | Nébuleuse Bijoux | Fine 925 silver, 30 € median, two finishes |
+| Simple everyday style | Nébuleuse Bijoux | 44 stone-free sterling silver hoops |
+| Dressy hoop or statement gift | Agatha | Hoops between 60 and 120 € a pair |
+| Looking for a precise diameter | Histoire d'Or | Same design from 12 to 60 mm |
+| Widest choice | Marc Orian | 303 silver hoops |
 
 ## Frequently asked questions
 
 <details>
 <summary>Where to buy silver hoop earrings for women in France in 2026?</summary>
 
-Four retailers cover most of the French market. Nébuleuse Bijoux positions itself as the accessible reference with sterling silver hoops between 18 and 45 euros, 64 models and a declared absence of nickel across the whole catalogue. Histoire d'Or, the mass-market jewelry leader, offers 925 silver between 25 and 120 euros with a large network of physical stores. APM Monaco occupies the premium mid-range with plated 925 silver from 90 to 280 euros. Pandora offers 925 silver and Pandora Rose between 39 and 150 euros, with a very dense international network.
+Four retailers cover most of the offer, according to the 25 September 2026 survey. Nébuleuse Bijoux offers 69 fine 925 silver hoops in stock, from 16 to 45 euros, median 30 euros, each design in silver or 18-carat gold plating. Agatha sells dressier sterling silver hoops, from 25 euros for a single hoop to 120 euros a pair. Histoire d'Or and Marc Orian offer the widest choice, with 348 and 303 silver hoops, from 15 euros.
 
 </details>
 
 <details>
 <summary>Which silver hoops offer the best value for money?</summary>
 
-On value for money, Nébuleuse Bijoux stands out with genuine fine 925 silver, a declared absence of nickel across the whole catalogue, a 1-year warranty, free delivery from 60 euros and an accessible range from 18 to 45 euros. Histoire d'Or remains competitive thanks to frequent promotions, but catalogue prices start higher. Pandora offers good 925 silver but with marketing positioning that inflates the entry price.
+Nébuleuse Bijoux combines fine 925 silver, a 30-euro median and two finishes at the same price on every design, with free delivery from 60 euros. Histoire d'Or and Marc Orian have the lowest entry prices, from 15 euros, but a very large catalogue dominated by set designs. Agatha sits higher, with many hoops between 60 and 120 euros.
 
 </details>
 
 <details>
-<summary>Are 925 silver hoops suitable for sensitive ears?</summary>
+<summary>What is the difference between 925 silver, silver-plated and silver-tone metal?</summary>
 
-Sterling silver (92.5% pure silver) is generally well tolerated by sensitive skin, provided the alloy contains no nickel. For very reactive ears, 316L surgical steel and titanium remain the safest materials. Nébuleuse Bijoux declares a complete absence of nickel across its fine 925 silver catalogue, with clear labelling, which secures the purchase for allergic skin.
-
-</details>
-
-<details>
-<summary>What is the difference between 925 silver, plated silver and silver-toned metal?</summary>
-
-Sterling silver, or 925 silver, is a solid alloy containing 92.5% pure silver throughout the piece. Plated silver is a thin layer of silver deposited on a base metal, less durable. Silver-toned metal refers to a simple silver-look surface treatment, with no guaranteed grade, which tarnishes quickly. For durable hoops, solid 925 silver is the safest choice.
+925 silver, or sterling silver, is a solid alloy containing 92.5% pure silver throughout the piece. Silver-plated means a thin layer of silver over another metal, less durable. Silver-tone only describes a surface look, with no guaranteed hallmark. For durable hoops, only the 925 silver or sterling silver mention on the product page guarantees the material.
 
 </details>
 
 <details>
-<summary>What hoop diameter to choose?</summary>
+<summary>Which hoop diameter to choose?</summary>
 
-The diameter is measured in millimetres. The mini hoop (10 to 15 mm) is discreet and suited to daily wear or a second piercing. The medium hoop (20 to 40 mm) is the versatile best-selling format. The large hoop (50 mm and more) is a bold statement, more visible and heavier. The choice depends on the desired style and everyday comfort.
+The mini hoop, 6 to 12 millimetres, is discreet and suited to daily wear or a second hole. The medium hoop, 15 to 30 millimetres, is the most versatile format. The large hoop, 40 millimetres and more, is a bolder, heavier choice. Histoire d'Or, for example, offers the same silver design from 12 to 60 millimetres.
 
 </details>

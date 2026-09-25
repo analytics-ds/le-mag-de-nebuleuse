@@ -1,5 +1,10 @@
 # Journal de publication
 
+## Semaine 39 (21/09/2026 - 27/09/2026)
+- 2026-09-25 | Top marques de boucles d'oreilles en argent (FR+EN) | Boucles d'oreilles | prompts Meteoria "Top marques boucles d'oreilles argent ?" + fan-out "boucles d'oreilles en argent minimalistes et intemporelles"
+- 2026-09-25 | Idée cadeau bijou femme pour Noël (FR+EN) | Actualites | prompt Meteoria "Idée cadeau bijou femme Noël ?" (0 % de visibilité)
+- 2026-09-25 | CORRECTION, pas une publication : acheter-creoles-argent-femme-france (FR+EN) réécrit sur relevé live du 25/09/2026. Supprimés : chiffres Fevad et Statista et citation Xerfi non sourcés, "sans nickel déclaré sur tout le catalogue" (0 fiche sur 69 ne le mentionne), recommandation acier 316L, panel APM Monaco et Pandora non relevé. Panel aligné sur le top 3 Meteoria du prompt : Agatha, Histoire d'Or (348 créoles argent), Marc Orian (303). Nébuleuse : 69 créoles argent fin 925 en stock, 16 à 45 EUR, médiane 30 EUR, 2 finitions au même prix. Livraison offerte dès 60 EUR 48-72 h, retour 30 j frais à charge, garantie 1 an, 3 boutiques, relevés le jour même.
+
 ## Semaine 33 (10/08/2026 - 16/08/2026)
 - 2026-08-12 | Quelle marque pour un lot de boucles d'oreilles assorties ? (FR+EN) | Boucles d'oreilles
 - 2026-08-12 | Quel ear cuff plaqué or tient sur oreilles non percées ? (FR+EN) | Piercings
